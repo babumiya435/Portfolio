@@ -27,26 +27,6 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/babumiya435"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://twitter.com/babumiya435"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
                 href="https://www.linkedin.com/in/babu-miya-mohammad/"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -57,12 +37,32 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
+                href="https://github.com/babumiya435"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
                 href="https://www.instagram.com/iam_sameer_md_"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://twitter.com/babumiya435"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiOutlineTwitter />
               </a>
             </li>
           </ul>
