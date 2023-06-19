@@ -45,7 +45,7 @@ function Home2() {
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; like &nbsp;
               <i>
                 <b className="purple">Angular, React.js and Next.js</b>
               </i>
@@ -66,26 +66,6 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/babumiya435"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/babumiya435"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.linkedin.com/in/babu-miya-mohammad/"
                   target="_blank"
                   rel="noreferrer"
@@ -96,12 +76,32 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
+                  href="https://github.com/babumiya435"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
                   href="https://www.instagram.com/iam_sameer_md_"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://twitter.com/babumiya435"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineTwitter />
                 </a>
               </li>
             </ul>
