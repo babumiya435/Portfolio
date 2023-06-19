@@ -14,10 +14,11 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>No Copyright © {year} issues</h3>
+          <h3>No Copyright issues</h3>
           <h3 className="footer-copywright">
           Feel free to copy. If you need any help, ping me !
         </h3>
+        <h3>Created @{year}</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>BABU MIYA MOHAMMAD</h3>

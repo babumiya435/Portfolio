@@ -3,7 +3,7 @@
   <a href="https://babumiya.vercel.app/" target="_blank">babumiya.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
