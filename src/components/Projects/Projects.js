@@ -21,7 +21,7 @@ function Projects() {
               imgPath={blog}
               isBlog={false}
               title="My-Tech-Blogs ( In-progress )"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="My personal blog page build with Next.js and Tailwind Css which takes the content from markdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/babumiya435/Blogs"
               demoLink="https://blogs.babumiya.tech/"
             />
