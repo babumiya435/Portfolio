@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript and Typescript </b>
+                <b className="purple"> Javascript and Typescript. </b>
               </i>
               <br />
               <br />
@@ -32,7 +32,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Banking | Insurance | Telecom.
+                  Banking | E-commerce | Insurance | Telecom | Automation | Creating Process Improvements in Projects.
                 </b>
               </i>
               <br />
@@ -47,7 +47,14 @@ function Home2() {
               </i>
               &nbsp; like &nbsp;
               <i>
-                <b className="purple">Angular, React.js and Next.js</b>
+                <b className="purple">Angular, React.js and Next.js.</b>
+              </i>
+              <br />
+              <br />
+              Some product ideas which i have in my bucket currently
+              are like &nbsp;
+              <i>
+                <b className="purple">Tech Blogs, <br /> Post Man, Health Jarvis, Improve Me and Digital Resume.</b>
               </i>
             </p>
           </Col>
