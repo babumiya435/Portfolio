@@ -31,7 +31,7 @@ function Projects() {
               imgPath={blog}
               isBlog={false}
               title="Post-Man ( In-progress )"
-              description="UI build with Next.js and Tailwind Css which is used to post the contnet across social media by one click."
+              description="UI build with Next.js and Tailwind Css which is used to post the contnet across social media by one single click."
               ghLink="https://github.com/babumiya435/post-man"
               demoLink="https://post-man.babumiya.tech/"
             />
