@@ -31,6 +31,11 @@ function AboutCard() {
             "Stay Hungry Stay Foolish"{" "}
           </p>
           <footer className="blockquote-footer">Steve Jobs</footer>
+
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "The best way to learn something is to build something"{" "}
+          </p>
+          <footer className="blockquote-footer">Me</footer>
         </blockquote>
       </Card.Body>
     </Card>
