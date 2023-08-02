@@ -13,7 +13,7 @@ function AboutCard() {
             <br /> I am a Senior Software Developer in a product based company located in Hyderabad.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do !
           </p>
           <ul>
             <li className="about-activity">
@@ -35,7 +35,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "The best way to learn something is to build something"{" "}
           </p>
-          <footer className="blockquote-footer">Me</footer>
+          <footer className="blockquote-footer">My self</footer>
         </blockquote>
       </Card.Body>
     </Card>
