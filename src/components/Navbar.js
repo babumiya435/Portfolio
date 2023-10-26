@@ -94,6 +94,16 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
+                as={Link}
+                to="/tech-learning"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Tech Learning
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
                 href="https://babumiyablogs.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
