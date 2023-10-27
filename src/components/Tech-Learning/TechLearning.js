@@ -15,7 +15,7 @@ function TechLearning() {
             <ProjectCard
               imgPath={blog}
               isBlog={false}
-              title="My-Tech-Blogs ( In-progress )"
+              title="Content 1"
               description="My Technical Content page build with React Js"
               ghLink="https://github.com/babumiya435/Blogs"
               demoLink="https://blogs.babumiya.tech/"
@@ -28,7 +28,7 @@ function TechLearning() {
             <ProjectCard
               imgPath={blog}
               isBlog={false}
-              title="My-Tech-Blogs ( In-progress )"
+              title="Content 2"
               description="My Technical Content page build with React Js"
               ghLink="https://github.com/babumiya435/Blogs"
               demoLink="https://blogs.babumiya.tech/"
@@ -41,7 +41,7 @@ function TechLearning() {
             <ProjectCard
               imgPath={blog}
               isBlog={false}
-              title="My-Tech-Blogs ( In-progress )"
+              title="Content 3"
               description="My Technical Content page build with React Js"
               ghLink="https://github.com/babumiya435/Blogs"
               demoLink="https://blogs.babumiya.tech/"
