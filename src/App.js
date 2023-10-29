@@ -17,6 +17,7 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import TechLearning from "./components/Tech-Learning/TechLearning";
+import ContentDetails from "./components/Content-Details/ContentDetails";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -41,6 +42,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/tech-learning" element={<TechLearning />} />
+          <Route path="/content-details" element={<ContentDetails />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

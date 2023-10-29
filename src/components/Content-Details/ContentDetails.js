@@ -5,7 +5,7 @@ import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 import { Link } from 'react-router-dom';
 
-function ProjectCards(props) {
+function ContentDetails(props) {
   return (
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
@@ -24,14 +24,6 @@ function ProjectCards(props) {
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
         {!props.isBlog && props.demoLink && (
-          // <Button
-          //   variant="primary"
-          //   href={props.demoLink}
-          //   style={{ marginLeft: "10px" }}
-          // >
-          //   <CgWebsite /> &nbsp;
-          //   {"Demo"}
-          // </Button>
           <Link style={{ marginLeft: "10px" }}
            to={props.demoLink}>Content Details
            </Link>
@@ -40,4 +32,4 @@ function ProjectCards(props) {
     </Card>
   );
 }
-export default ProjectCards;
+export default ContentDetails;
