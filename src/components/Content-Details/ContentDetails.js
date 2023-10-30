@@ -1,9 +1,10 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
+import { Container, Row, Col } from "react-bootstrap";
 
 function ContentDetails() {
   return (
-    <div>
+    <Container fluid className="tech-learning-section">
     <Card className="project-card-view">
       <Card.Body>
         <Card.Title>Content 1</Card.Title>
@@ -12,7 +13,7 @@ function ContentDetails() {
         </Card.Text>
       </Card.Body>
     </Card>
-    </div>
+    </Container>
   );
 }
 export default ContentDetails;
