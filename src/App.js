@@ -42,7 +42,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/tech-learning" element={<TechLearning />} />
-          <Route path="/content-details" element={<ContentDetails />} />
+          <Route path="/content-details/:id" element={<ContentDetails />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

@@ -788,12 +788,15 @@ button:focus {
 
 .content-details-section {
   position: relative !important;
-  padding-top: 150px !important;
+  margin-top: 150px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   display: flex;
   flex-direction: row;
   gap: 10px;
+  justify-content: center;
+  border: 1px solid white;
+  border-radius: 0.25 rem;
 }
 
 .content-details-card {

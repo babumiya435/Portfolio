@@ -17,7 +17,7 @@ function TechLearning() {
               isBlog={false}
               title="Content 1"
               description="My Technical Content page build with React Js"
-              demoLink="/content-details"
+              demoLink="/content-details/1"
             />
           </Col>
         </Row>
@@ -29,7 +29,7 @@ function TechLearning() {
               isBlog={false}
               title="Content 2"
               description="My Technical Content page build with React Js"
-              demoLink="https://blogs.babumiya.tech/"
+              demoLink="/content-details/2"
             />
           </Col>
         </Row>
@@ -41,7 +41,7 @@ function TechLearning() {
               isBlog={false}
               title="Content 3"
               description="My Technical Content page build with React Js"
-              demoLink="https://blogs.babumiya.tech/"
+              demoLink="/content-details/3"
             />
           </Col>
         </Row>
