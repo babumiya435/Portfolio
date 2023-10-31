@@ -1,18 +1,47 @@
 import React from "react";
+import { Container } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
+import { ImPointRight } from "react-icons/im";
 
 function ContentDetails() {
   return (
-    <div>
-    <Card className="project-card-view">
+    <Container fluid className="content-details-section">
+        <Card className="quote-card-view">
       <Card.Body>
-        <Card.Title>Content 1</Card.Title>
-        <Card.Text style={{ textAlign: "justify" }}>
-          Content 1 Data
-        </Card.Text>
+        <blockquote className="blockquote mb-0">
+          <p style={{ textAlign: "justify" }}>
+            Hi Everyone, I am <span className="purple"> BABU MIYA MOHAMMAD </span>
+            from <span className="purple"> Hyderabad, India.</span>
+            <br /> I am a Senior Software Developer in a product based company located in Hyderabad.
+            <br />
+            <br />
+            Apart from coding, some other activities that I love to do !
+          </p>
+          <ul>
+            <li className="about-activity">
+              <ImPointRight /> Drafting and Implementing Ideas
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Writing Tech Blogs
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Creating Youtube Tech Videos
+            </li>
+          </ul>
+
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "Stay Hungry Stay Foolish"{" "}
+          </p>
+          <footer className="blockquote-footer">Steve Jobs</footer>
+
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "The best way to learn something is to build something"{" "}
+          </p>
+          <footer className="blockquote-footer">My self</footer>
+        </blockquote>
       </Card.Body>
     </Card>
-    </div>
+    </Container>
   );
 }
 export default ContentDetails;
