@@ -14,13 +14,13 @@ function ContentDetails() {
       <Card className="quote-card-view">
         <Card.Body>
           <blockquote className="blockquote mb-0">
-          <div>
+          <div className="mb-5">
               <h2>User Profile</h2>
               <p>User ID: {id}</p>
             </div>
-            <Paragraph />
-            <Link className="link-section" to="/another-page">Go to Another Page</Link>
-            <CodeViewer/>
+            <Paragraph className="mb-5" />
+            <Link className="link-section mb-5" to="/another-page">Go to Another Page</Link>
+            <CodeViewer className="mb-5" />
           </blockquote>
         </Card.Body>
       </Card>
