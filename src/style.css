@@ -807,3 +807,29 @@ button:focus {
   height: auto !important;
   width: 100% !important;
 }
+
+/* --------- */
+/* Paragraph Section */
+/* --------- */
+
+.paragraph-section {
+  position: relative !important;
+  background-image: var(--section-background-color) !important;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* --------- */
+/* Links Section */
+/* --------- */
+.link-section {
+  position: relative !important;
+  background-image: var(--section-background-color) !important;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  color: violet;
+}
