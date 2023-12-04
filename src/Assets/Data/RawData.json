@@ -1,0 +1,75 @@
+[
+    {
+        "topicName": "Basic Programming",
+        "topicId": "BP",
+        "topicNumber": 1,
+        "topicDescription": "Is used to learn and practice basic to advance programming skills",
+        "topicImg": "BP_img",
+        "relatedTopics": [90, 85, 92],
+        "topicContent": [
+            {
+                "contentName": "Basic Programming Content 1",
+                "contentId": "Basic Programming Content",
+                "content": "Basic Programming Content",
+                "contentCode": "Basic Programming Content",
+                "contentLinks": "Basic Programming Content"
+            },
+            {
+                "contentName": "Basic Programming Content 2",
+                "contentId": "Basic Programming Content",
+                "content": "Basic Programming Content",
+                "contentCode": "Basic Programming Content",
+                "contentLinks": "Basic Programming Content"
+            }
+        ]
+    },
+    {
+        "topicName": "Java Script",
+        "topicId": "JS",
+        "topicNumber": 2,
+        "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
+        "topicImg": "JS_img",
+        "relatedTopics": [90, 85, 92],
+        "topicContent": [
+            {
+                "contentName": "Javascript 1",
+                "contentId": "Javascript Content",
+                "content": "Javascript Content",
+                "contentCode": "Javascript Content",
+                "contentLinks": "Javascript Content"
+            },
+            {
+                "contentName": "Javascript 2",
+                "contentId": "Javascript Content",
+                "content": "Javascript Content",
+                "contentCode": "Javascript Content",
+                "contentLinks": "Javascript Content"
+            }
+        ]
+    },
+    {
+        "topicName": "C Programming",
+        "topicId": "C",
+        "topicNumber": 3,
+        "topicDescription": "Is used to learn and practice basic to advance C programming skills",
+        "topicImg": "C_img",
+        "relatedTopics": [90, 85, 92],
+        "topicContent": [
+            {
+                "contentName": "C 1",
+                "contentId": "C Content",
+                "content": "C Content",
+                "contentCode": "C Content",
+                "contentLinks": "C Content"
+            },
+            {
+                "contentName": "C 2",
+                "contentId": "C Content",
+                "content": "C Content",
+                "contentCode": "C Content",
+                "contentLinks": "C Content"
+            }
+        ]
+    }
+]
+  
