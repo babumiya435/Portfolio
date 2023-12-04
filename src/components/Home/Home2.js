@@ -54,7 +54,7 @@ function Home2() {
               Some product ideas which i have in my bucket currently
               are like &nbsp;
               <i>
-                <b className="purple">Tech Blogs, <br /> Post Man, Health Jarvis, Improve Me and Digital Resume.</b>
+                <b className="purple">Tech Blogs, <br /> Health Jarvis, Improve Me and Digital Resume.</b>
               </i>
             </p>
           </Col>
