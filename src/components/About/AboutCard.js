@@ -20,7 +20,7 @@ function AboutCard() {
               <ImPointRight /> Drafting and Implementing Ideas
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Writing Tech Blogs & DSA related topics
             </li>
             <li className="about-activity">
               <ImPointRight /> Creating Youtube Tech Videos
