@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaSquareThreads } from "react-icons/fa6";
 
 function Footer() {
   let date = new Date();
@@ -63,6 +64,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.threads.net/@iam_sameer_md_"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaSquareThreads />
               </a>
             </li>
           </ul>
