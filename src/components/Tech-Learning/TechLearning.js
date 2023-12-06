@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../Projects/ProjectCards";
-import Particle from "../Particle";
-import blog from "../../Assets/Projects/blog.png";
 import data from "../../Assets/Data/RawData.json"
 
 const TechLearning = () => {
@@ -17,24 +15,15 @@ const TechLearning = () => {
     };
   }, []);
 
-  function handleClick () {
-    console.log(data);
-  };
-
   return (
     <div>
-      <div>
-          <h1>Hello, React!</h1>
-          <button onClick={handleClick}>Click me</button>
-        </div>
       <Container fluid className="tech-learning-section">
-        {/* <Particle /> */}
 
         {data.map((item, index) => (
           <Row key={index} style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="tech-learning-card">
             <ProjectCard
-              imgPath={blog}
+              imgPath={item.topicImg}
               isBlog={false}
               title={item.topicName}
               description={item.topicDescription}

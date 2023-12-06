@@ -1,21 +1,21 @@
 [
     {
-        "topicName": "Basic Programming",
-        "topicId": "BP",
+        "topicName": "C Programming",
+        "topicId": "CP",
         "topicNumber": 1,
-        "topicDescription": "Is used to learn and practice basic to advance programming skills",
-        "topicImg": "BP_img",
+        "topicDescription": "Is used to learn and practice basic to advance C programming skills",
+        "topicImg": "BP_img.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
-                "contentName": "Basic Programming Content 1",
+                "contentName": "Basic C Programming Content 1",
                 "contentId": "Basic Programming Content",
                 "content": "Basic Programming Content",
                 "contentCode": "Basic Programming Content",
                 "contentLinks": "Basic Programming Content"
             },
             {
-                "contentName": "Basic Programming Content 2",
+                "contentName": "Basic C Programming Content 2",
                 "contentId": "Basic Programming Content",
                 "content": "Basic Programming Content",
                 "contentCode": "Basic Programming Content",
@@ -28,7 +28,7 @@
         "topicId": "JS",
         "topicNumber": 2,
         "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
-        "topicImg": "JS_img",
+        "topicImg": "JS_img.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -52,7 +52,7 @@
         "topicId": "C",
         "topicNumber": 3,
         "topicDescription": "Is used to learn and practice basic to advance C programming skills",
-        "topicImg": "C_img",
+        "topicImg": "C_img.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
