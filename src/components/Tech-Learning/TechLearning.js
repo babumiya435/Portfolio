@@ -6,8 +6,6 @@ import data from "../../Assets/Data/RawData.json"
 const TechLearning = () => {
 
   useEffect(() => {
-    // Example: logging a message to the console when the component mounts
-    console.log('Functional component has mounted!');
 
     // Clean-up function
     return () => {
