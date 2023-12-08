@@ -4,7 +4,7 @@
         "topicId": "CP",
         "topicNumber": 1,
         "topicDescription": "Is used to learn and practice basic to advance C programming skills",
-        "topicImg": "BP_img.png",
+        "topicImg": "C_img.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -48,26 +48,26 @@
         ]
     },
     {
-        "topicName": "C Programming",
-        "topicId": "C",
+        "topicName": "Angular",
+        "topicId": "Angular",
         "topicNumber": 3,
-        "topicDescription": "Is used to learn and practice basic to advance C programming skills",
-        "topicImg": "C_img.png",
+        "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
+        "topicImg": "Angular_img.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
-                "contentName": "C 1",
-                "contentId": "C Content",
-                "content": "C Content",
-                "contentCode": "C Content",
-                "contentLinks": "C Content"
+                "contentName": "Angular 1",
+                "contentId": "Angular 1",
+                "content": "Angular 1",
+                "contentCode": "Angular 1",
+                "contentLinks": "Angular 1"
             },
             {
-                "contentName": "C 2",
-                "contentId": "C Content",
-                "content": "C Content",
-                "contentCode": "C Content",
-                "contentLinks": "C Content"
+                "contentName": "Angular 2",
+                "contentId": "Angular 2",
+                "content": "Angular 2",
+                "contentCode": "Angular 2",
+                "contentLinks": "Angular 2"
             }
         ]
     }
