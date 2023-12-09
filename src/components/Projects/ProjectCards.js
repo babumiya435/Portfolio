@@ -7,7 +7,12 @@ import { Link } from 'react-router-dom';
 function ProjectCards(props) {
   return (
     <Card className="project-card-view">
-      <Card.Img variant="top" src={process.env.PUBLIC_URL + `/assets/images/${props.imgPath}`} alt={"card-img" + props.title} />
+      <Card.Img
+        variant="top"
+        src={process.env.PUBLIC_URL + `/assets/svg/${props.imgPath}`}
+        alt={"card-img" + props.title}
+        style={{ maxHeight: "300px" }}
+      />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
@@ -32,8 +37,8 @@ function ProjectCards(props) {
           //   {"Demo"}
           // </Button>
           <Link style={{ marginLeft: "10px" }}
-           to={props.demoLink}>Content Details
-           </Link>
+            to={props.demoLink}>Content Details
+          </Link>
         )}
       </Card.Body>
     </Card>
