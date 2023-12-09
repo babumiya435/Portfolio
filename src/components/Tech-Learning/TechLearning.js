@@ -16,7 +16,6 @@ const TechLearning = () => {
   return (
     <div>
       <Container fluid className="tech-learning-section">
-
         {data.map((item, index) => (
           <Row key={index} style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="tech-learning-card">
@@ -25,7 +24,7 @@ const TechLearning = () => {
               isBlog={false}
               title={item.topicName}
               description={item.topicDescription}
-              demoLink={"/content-details/1" + item.topicNumber}
+              demoLink={"/content-details/" + item.topicNumber}
             />
           </Col>
         </Row>
