@@ -4,7 +4,7 @@
         "topicId": "CP",
         "topicNumber": 1,
         "topicDescription": "Is used to learn and practice basic to advance C programming skills",
-        "topicImg": "C_img.png",
+        "topicImg": "C.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -28,7 +28,7 @@
         "topicId": "JS",
         "topicNumber": 2,
         "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
-        "topicImg": "JS_img.png",
+        "topicImg": "JS.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -52,7 +52,7 @@
         "topicId": "Angular",
         "topicNumber": 3,
         "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
-        "topicImg": "Angular_img.png",
+        "topicImg": "Angular.png",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -68,6 +68,30 @@
                 "content": "Angular 2",
                 "contentCode": "Angular 2",
                 "contentLinks": "Angular 2"
+            }
+        ]
+    },
+    {
+        "topicName": "ReactJS",
+        "topicId": "ReactJS",
+        "topicNumber": 4,
+        "topicDescription": "Is used to learn and practice basic to advance ReactJS skills",
+        "topicImg": "React.png",
+        "relatedTopics": [90, 85, 92],
+        "topicContent": [
+            {
+                "contentName": "ReactJS 1",
+                "contentId": "ReactJS 1",
+                "content": "ReactJS 1",
+                "contentCode": "ReactJS 1",
+                "contentLinks": "ReactJS 1"
+            },
+            {
+                "contentName": "ReactJS 2",
+                "contentId": "ReactJS 2",
+                "content": "ReactJS 2",
+                "contentCode": "ReactJS 2",
+                "contentLinks": "ReactJS 2"
             }
         ]
     }
