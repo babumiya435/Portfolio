@@ -4,7 +4,7 @@
         "topicId": "CP",
         "topicNumber": 1,
         "topicDescription": "Is used to learn and practice basic to advance C programming skills",
-        "topicImg": "C.png",
+        "topicImg": "C.svg",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -28,7 +28,7 @@
         "topicId": "JS",
         "topicNumber": 2,
         "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
-        "topicImg": "JS.png",
+        "topicImg": "Javascript.svg",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -52,7 +52,7 @@
         "topicId": "Angular",
         "topicNumber": 3,
         "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
-        "topicImg": "Angular.png",
+        "topicImg": "Angular.svg",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
@@ -76,7 +76,7 @@
         "topicId": "ReactJS",
         "topicNumber": 4,
         "topicDescription": "Is used to learn and practice basic to advance ReactJS skills",
-        "topicImg": "React.png",
+        "topicImg": "React.svg",
         "relatedTopics": [90, 85, 92],
         "topicContent": [
             {
