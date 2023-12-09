@@ -39,6 +39,7 @@ const TechLearning = () => {
                 title={item.topicName}
                 description={item.topicDescription}
                 demoLink={"/content-details/" + item.topicNumber}
+                data={item}
               />
             </Col>
           </Row>
