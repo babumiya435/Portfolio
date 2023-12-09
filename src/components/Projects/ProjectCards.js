@@ -2,9 +2,16 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { BsGithub } from "react-icons/bs";
-import { Link } from 'react-router-dom';
+import { useNavigate   } from 'react-router-dom';
 
 function ProjectCards(props) {
+  const navigate = useNavigate();
+  console.log(props.data)
+  const navigateToChild = () => {
+    // Pass data via state when navigating
+    navigate(props.demoLink, { state: { dataFromParent: props.data } });
+  };
+
   return (
     <Card className="project-card-view">
       <Card.Img
@@ -18,28 +25,19 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.ghLink} target="_blank">
-          <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+        <Button variant="primary" href={props.ghLink} target="_blank" onClick={navigateToChild}>
+          {props.isBlog ? "Blog" : "Learn"}
         </Button>
         {"\n"}
         {"\n"}
 
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
-        {!props.isBlog && props.demoLink && (
-          // <Button
-          //   variant="primary"
-          //   href={props.demoLink}
-          //   style={{ marginLeft: "10px" }}
-          // >
-          //   <CgWebsite /> &nbsp;
-          //   {"Demo"}
-          // </Button>
-          <Link style={{ marginLeft: "10px" }}
-            to={props.demoLink}>Content Details
-          </Link>
-        )}
+        {/* {!props.isBlog && props.demoLink && (
+          <div>
+            <button onClick={navigateToChild}>Go to Child</button>
+          </div>
+        )} */}
       </Card.Body>
     </Card>
   );
