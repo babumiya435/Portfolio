@@ -11,14 +11,14 @@ const TechLearning = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
+        setJsonData(data);
         // const response = await fetch('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
         // const data = await response.json();
-        const response = await axios.get('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
-        const data = response.data;
+        // const response = await axios.get('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
+        // const data = response.data;
         setJsonData(data);
-        console.log("BE data" , data);
       } catch (error) {
-        setJsonData(data);
+        // setJsonData(data);
         console.log("Error fetching JSON data");
       }
     }
@@ -34,7 +34,7 @@ const TechLearning = () => {
   return (
     <div>
       <Container fluid className="tech-learning-section">
-        {jsonData && jsonData.map((item, index) => (
+        {data.map((item, index) => (
           <Row key={index} style={{ justifyContent: "center", paddingBottom: "10px" }}>
             <Col md={4} className="tech-learning-card">
               <ProjectCard
