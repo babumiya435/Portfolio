@@ -18,6 +18,7 @@ const TechLearning = () => {
         setJsonData(data);
         console.log("BE data" , data);
       } catch (error) {
+        setJsonData(data);
         console.log("Error fetching JSON data");
       }
     }
