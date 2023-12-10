@@ -29,6 +29,9 @@ function ContentDetails() {
               />
             </div>
             <Paragraph className="mb-5" />
+            <Container fluid className="paragraph-section">
+              <p>Paragraph</p>
+            </Container>
             <Link className="link-section mb-5" to="/another-page">Go to Another Page</Link>
             <CodeViewer className="mb-5" />
           </blockquote>
