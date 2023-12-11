@@ -26,13 +26,25 @@ function ContentDetails() {
         />
       </div>
       <Container className="paragraph-section container-fluid">
-        <h2>{dataFromParent.topicName}</h2>
+        <h2>{dataFromParent.topicContent[0].contentName}</h2>
         <div>
           <p>{dataFromParent.topicContent[0].content}</p>
         </div>
       </Container>
-      <Link className="link-section mb-5" to="/another-page">Go to Another Page</Link>
-      <CodeViewer className="mb-5" />
+      <Container className="paragraph-section container-fluid">
+        <CodeViewer className="mb-5" />
+      </Container>
+      <Container className="paragraph-section container-fluid">
+        <div>
+          <h2>List of Links</h2>
+          <ul>
+            {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item,index) => (
+                <li key={index}>{item}</li>
+            )) : <p>No Links available</p>
+            }
+          </ul>
+        </div>
+      </Container>
     </Container>
   );
 }
