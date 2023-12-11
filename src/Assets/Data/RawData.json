@@ -5,21 +5,32 @@
         "topicNumber": 1,
         "topicDescription": "Is used to learn and practice basic to advance C programming skills",
         "topicImg": "C.svg",
-        "relatedTopics": [90, 85, 92],
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
         "topicContent": [
             {
-                "contentName": "Basic C Programming Content 1",
-                "contentId": "Basic Programming Content",
-                "content": "Basic Programming Content",
-                "contentCode": "Basic Programming Content",
-                "contentLinks": "Basic Programming Content"
-            },
+                "contentName": "C Programming Defination",
+                "contentId": "CProgrammingDefination",
+                "content": "The C programming language is a procedural and general-purpose language that provides low-level access to system memory. A program written in C must be run through a C compiler to convert it into an executable that a computer can run.",
+                "contentRelatedCode": "C Programming Content Code",
+                "otherContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ],
+        "topicVideoContent": [
             {
-                "contentName": "Basic C Programming Content 2",
-                "contentId": "Basic Programming Content",
-                "content": "Basic Programming Content",
-                "contentCode": "Basic Programming Content",
-                "contentLinks": "Basic Programming Content"
+                "contentName": "C Programming Defination",
+                "contentId": "CProgrammingDefination",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
             }
         ]
     },
@@ -29,21 +40,32 @@
         "topicNumber": 2,
         "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
         "topicImg": "Javascript.svg",
-        "relatedTopics": [90, 85, 92],
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
         "topicContent": [
             {
-                "contentName": "Javascript 1",
-                "contentId": "Javascript Content",
-                "content": "Javascript Content",
-                "contentCode": "Javascript Content",
-                "contentLinks": "Javascript Content"
-            },
+                "contentName": "Javascript Defination",
+                "contentId": "JavascriptDefination",
+                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+                "contentRelatedCode": "Javascript Content",
+                "otherContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ],
+        "topicVideoContent": [
             {
-                "contentName": "Javascript 2",
-                "contentId": "Javascript Content",
-                "content": "Javascript Content",
-                "contentCode": "Javascript Content",
-                "contentLinks": "Javascript Content"
+                "contentName": "Javascript Defination",
+                "contentId": "JavascriptDefination",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
             }
         ]
     },
@@ -53,21 +75,32 @@
         "topicNumber": 3,
         "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
         "topicImg": "Angular.svg",
-        "relatedTopics": [90, 85, 92],
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
         "topicContent": [
             {
-                "contentName": "Angular 1",
-                "contentId": "Angular 1",
-                "content": "Angular 1",
-                "contentCode": "Angular 1",
-                "contentLinks": "Angular 1"
-            },
+                "contentName": "Angular Defination",
+                "contentId": "AngularDefination",
+                "content": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications.",
+                "contentRelatedCode": "Angular Content Code",
+                "otherContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ],
+        "topicVideoContent": [
             {
-                "contentName": "Angular 2",
-                "contentId": "Angular 2",
-                "content": "Angular 2",
-                "contentCode": "Angular 2",
-                "contentLinks": "Angular 2"
+                "contentName": "Angular Defination",
+                "contentId": "AngularDefination",
+                "content": "Video",
+                "contentRelatedCode": "Angular Content Code",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
             }
         ]
     },
@@ -77,21 +110,32 @@
         "topicNumber": 4,
         "topicDescription": "Is used to learn and practice basic to advance ReactJS skills",
         "topicImg": "React.svg",
-        "relatedTopics": [90, 85, 92],
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
         "topicContent": [
             {
-                "contentName": "ReactJS 1",
-                "contentId": "ReactJS 1",
-                "content": "ReactJS 1",
-                "contentCode": "ReactJS 1",
-                "contentLinks": "ReactJS 1"
-            },
+                "contentName": "ReactJS Defination",
+                "contentId": "ReactJSDefination",
+                "content": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+                "contentRelatedCode": "ReactJS Content Code",
+                "otherContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ],
+        "topicVideoContent": [
             {
-                "contentName": "ReactJS 2",
-                "contentId": "ReactJS 2",
-                "content": "ReactJS 2",
-                "contentCode": "ReactJS 2",
-                "contentLinks": "ReactJS 2"
+                "contentName": "ReactJS Defination",
+                "contentId": "ReactJSDefination",
+                "content": "Video",
+                "contentRelatedCode": "ReactJS Content Code",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
             }
         ]
     }
