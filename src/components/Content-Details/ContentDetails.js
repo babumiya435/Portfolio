@@ -38,8 +38,12 @@ function ContentDetails() {
         <div>
           <h2>List of Links</h2>
           <ul>
-            {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item,index) => (
-                <li key={index}>{item}</li>
+            {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item, index) => (
+              <li key={index}>
+                <Link style={{ marginLeft: "10px" }}
+                  to={"/content-details/" + item.topicNumber}>{item.topicName}
+                </Link>
+              </li>
             )) : <p>No Links available</p>
             }
           </ul>
