@@ -16,7 +16,7 @@ const TechLearning = () => {
         // const data = await response.json();
         // const response = await axios.get('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
         // const data = response.data;
-        setJsonData(data);
+        // setJsonData(data);
       } catch (error) {
         // setJsonData(data);
         console.log("Error fetching JSON data");
