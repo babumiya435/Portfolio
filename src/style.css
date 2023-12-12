@@ -834,3 +834,11 @@ button:focus {
   justify-content: center;
   color: violet;
 }
+
+/* --------- */
+/* Links Section */
+/* --------- */
+.list-section {
+  list-style: none !important;
+  padding: 0 px;
+}
