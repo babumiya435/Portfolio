@@ -55,13 +55,13 @@ function ContentDetails() {
             </Container>
             <Container>
             <div>
-                <h1>Accordion Example</h1>
+                <h1>Accordion Example1</h1>
                 <Accordion items={accordionItems} />
               </div>
             </Container>
             <Container className="paragraph-section container-fluid">
               <div>
-                <h2>List of Links</h2>
+                <h2>Other Topic Links</h2>
                 <ul className="list-section">
                   {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item, index) => (
                     <li key={index} id={"id" + index}>
