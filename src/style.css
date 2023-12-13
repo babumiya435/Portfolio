@@ -840,5 +840,5 @@ button:focus {
 /* --------- */
 .list-section {
   list-style: none !important;
-  padding: 0 px;
+  padding: 0 !important;
 }
