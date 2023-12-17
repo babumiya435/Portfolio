@@ -18,7 +18,7 @@ function ContentDetails() {
       {
         dataFromParent && (
           <Container className="content-details-section container-fluid">
-            <div className="mb-5">
+            <div className="mb-5 other-links-section">
               <h2>{dataFromParent.topicName}</h2>
               <p>Topic Id : {id}</p>
               <Card.Img
@@ -34,7 +34,7 @@ function ContentDetails() {
               </Container>
             </Container>
             <Container className="paragraph-section container-fluid">
-              <div>
+              <div className="other-links-section">
                 <h2>Other Topic Links</h2>
                 <ul className="list-section">
                   {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item, index) => (

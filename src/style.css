@@ -843,3 +843,10 @@ button:focus {
   list-style: none !important;
   padding: 0 !important;
 }
+
+/* --------- */
+/* Links Section */
+/* --------- */
+.other-links-section {
+  text-align: center;
+}
