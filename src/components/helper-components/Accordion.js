@@ -8,8 +8,8 @@ const AccordionItem = ({ title, content }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div>
-      <div
+    <div className='margin-bottom-30'>
+      <div className='margin-bottom-30'
         onClick={() => setIsOpen(!isOpen)}
         style={{ cursor: 'pointer', marginBottom: '5px' }}
       >
@@ -17,13 +17,12 @@ const AccordionItem = ({ title, content }) => {
           <div>
             {!isOpen ? (<FaPlus />) : (<FaMinus />)
             }
-            <strong>{title}</strong>
+            <strong className="title-section">{title}</strong>
           </div>
         </h2>
-
       </div>
       {isOpen && (
-        <Container className="paragraph-section container-fluid">
+        <Container className="margin-bottom-30 paragraph-section container-fluid">
           {content}
           <CodeViewer className="mb-5" />
         </Container>
