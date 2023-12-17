@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import CodeViewer from "../helper-components/CodeViewer";
 import { Container } from "react-bootstrap";
+import { FaPlus } from "react-icons/fa";
+import { FaMinus } from "react-icons/fa";
 
 const AccordionItem = ({ title, content }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +14,11 @@ const AccordionItem = ({ title, content }) => {
         style={{ cursor: 'pointer', marginBottom: '5px' }}
       >
         <h2>
-          <strong>{title}</strong>
+          <div>
+            {!isOpen ? (<FaPlus />) : (<FaMinus />)
+            }
+            <strong>{title}</strong>
+          </div>
         </h2>
 
       </div>
