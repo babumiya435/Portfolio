@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import CodeViewer from "../helper-components/CodeViewer";
+import { Container } from "react-bootstrap";
 
 const AccordionItem = ({ title, content }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,7 +13,12 @@ const AccordionItem = ({ title, content }) => {
       >
         <strong>{title}</strong>
       </div>
-      {isOpen && <p>{content}</p>}
+      {isOpen && (
+        <Container className="paragraph-section container-fluid">
+          {content}
+          <CodeViewer className="mb-5" />
+      </Container>
+      )}
     </div>
   );
 };
@@ -20,7 +27,7 @@ const Accordion = ({ items }) => {
   return (
     <div>
       {items.map((item, index) => (
-        <AccordionItem key={index} title={item.title} content={item.content} />
+        <AccordionItem key={index} title={item.contentName} content={item.content} />
       ))}
     </div>
   );

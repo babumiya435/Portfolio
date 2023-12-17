@@ -798,6 +798,7 @@ button:focus {
   border: 1px solid white;
   border-radius: 0.25 rem;
   color: white;
+  text-align: left;
 }
 
 .content-details-card {
