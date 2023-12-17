@@ -821,6 +821,8 @@ button:focus {
   flex-direction: column;
   gap: 10px;
   justify-content: center;
+  font-size: 1.25rem;
+  margin-bottom: 50px;
 }
 
 /* --------- */
@@ -849,4 +851,15 @@ button:focus {
 /* --------- */
 .other-links-section {
   text-align: center;
+}
+
+/* --------- */
+/* Title Section */
+/* --------- */
+.title-section {
+  margin: 6px;
+}
+
+.margin-bottom-30 {
+  margin-bottom: 30px;
 }
