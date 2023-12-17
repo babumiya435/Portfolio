@@ -45,13 +45,10 @@ function ContentDetails() {
               />
             </div>
             <Container className="paragraph-section container-fluid">
-            <Container className="paragraph-section container-fluid">
-              <h2>{dataFromParent.topicContent[0].contentName}</h2>
-              <div>
-                <p>{dataFromParent.topicContent[0].content}</p>
-              </div>
-            </Container>
-            {/* <Container>
+              <Container className="paragraph-section container-fluid">
+                <Accordion items={dataFromParent.topicContent} />
+              </Container>
+              {/* <Container>
             <div>
                 <h1>Accordion Example1</h1>
                 <Accordion items={dataFromParent.topicContent} />

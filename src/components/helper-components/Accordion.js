@@ -11,13 +11,16 @@ const AccordionItem = ({ title, content }) => {
         onClick={() => setIsOpen(!isOpen)}
         style={{ cursor: 'pointer', marginBottom: '5px' }}
       >
-        <strong>{title}</strong>
+        <h2>
+          <strong>{title}</strong>
+        </h2>
+
       </div>
       {isOpen && (
         <Container className="paragraph-section container-fluid">
           {content}
           <CodeViewer className="mb-5" />
-      </Container>
+        </Container>
       )}
     </div>
   );
