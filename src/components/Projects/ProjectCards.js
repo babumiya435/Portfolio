@@ -38,14 +38,6 @@ function ProjectCards(props) {
         }
         {"\n"}
         {"\n"}
-
-        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
-
-        {/* {!props.isBlog && props.demoLink && (
-          <div>
-            <button onClick={navigateToChild}>Go to Child</button>
-          </div>
-        )} */}
       </Card.Body>
     </Card>
   );
