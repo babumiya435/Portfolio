@@ -18,13 +18,13 @@ function ProjectCards(props) {
         variant="top"
         src={process.env.PUBLIC_URL + `/assets/images/my-tech-blogs.png`}
         alt={"card-img-my-tech-blogs.png"}
-        style={{ height: "300px" }}
+        style={{ height: "200px" }}
       />}
       {props.isBlog && <Card.Img
         variant="top"
         src={process.env.PUBLIC_URL + `/assets/svg/${props.imgPath}`}
         alt={"card-img" + props.title}
-        style={{ maxHeight: "300px" }}
+        style={{ maxHeight: "200px" }}
       />}
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>

@@ -3,7 +3,7 @@
         "topicName": "C Programming",
         "topicId": "CP",
         "topicNumber": 1,
-        "topicDescription": "Is used to learn and practice basic to advance C programming skills",
+        "topicDescription": "Is used to learn and practice basic to advance C skills",
         "topicImg": "C.svg",
         "relatedTopics": [
             "topic1",
@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "contentName": "Javascript Defination",
+                "contentName": "Javascript 1",
                 "contentId": "JavascriptDefination",
                 "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
                 "contentRelatedCode": "Javascript Content",

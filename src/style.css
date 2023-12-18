@@ -751,6 +751,7 @@ button:focus {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  flex-wrap: wrap;
 }
 
 .tech-learning-card {
@@ -857,7 +858,7 @@ button:focus {
 /* Title Section */
 /* --------- */
 .title-section {
-  margin: 6px;
+  margin: 12px;
 }
 
 .margin-bottom-30 {

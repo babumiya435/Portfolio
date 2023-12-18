@@ -25,7 +25,7 @@ function ContentDetails() {
                 variant="top"
                 src={process.env.PUBLIC_URL + `/assets/svg/${dataFromParent.topicImg}`}
                 alt={"card-img" + dataFromParent.title}
-                style={{ maxHeight: "300px" }}
+                style={{ maxHeight: "200px" }}
               />
             </div>
             <Container className="paragraph-section container-fluid">

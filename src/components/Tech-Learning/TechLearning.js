@@ -35,7 +35,7 @@ const TechLearning = () => {
     <div>
       <Container fluid className="tech-learning-section">
         {data.map((item, index) => (
-          <Row key={index} style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Row key={index} style={{ justifyContent: "center", paddingBottom: "10px", width: "30%", height: "10%"}}>
             <Col md={4} className="tech-learning-card">
               <ProjectCard
                 imgPath={item.topicImg}
