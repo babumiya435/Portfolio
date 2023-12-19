@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
 
-const AccordionItem = ({ title, content }) => {
+const AccordionItem = ({ title, content, contentRelatedCode }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -24,7 +24,7 @@ const AccordionItem = ({ title, content }) => {
       {isOpen && (
         <Container className="margin-bottom-30 paragraph-section container-fluid">
           {content}
-          <CodeViewer className="mb-5" />
+          <CodeViewer className="mb-5" contentRelatedCode={contentRelatedCode} />
         </Container>
       )}
     </div>
@@ -35,7 +35,7 @@ const Accordion = ({ items }) => {
   return (
     <div>
       {items.map((item, index) => (
-        <AccordionItem key={index} title={item.contentName} content={item.content} />
+        <AccordionItem key={index} title={item.contentName} content={item.content} contentRelatedCode={item.contentRelatedCode} />
       ))}
     </div>
   );
