@@ -33,7 +33,7 @@ function ContentDetails() {
                 <Accordion items={dataFromParent.topicContent} />
               </Container>
             </Container>
-            <Container className="paragraph-section container-fluid">
+            <Container className="paragraph-section other-topics container-fluid">
               <div className="other-links-section">
                 <h2>Other Topic Links</h2>
                 <ul className="list-section">
