@@ -3,6 +3,7 @@ import CodeViewer from "../helper-components/CodeViewer";
 import { Container } from "react-bootstrap";
 import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
+import { FaEdit } from "react-icons/fa";
 
 const AccordionItem = ({ title, content, contentRelatedCode }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,10 +15,12 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
         style={{ cursor: 'pointer', marginBottom: '5px' }}
       >
         <h2>
-          <div>
+          <div className="title-section">
             {!isOpen ? (<FaPlus />) : (<FaMinus />)
             }
-            <strong className="title-section">{title}</strong>
+            <strong>{title}</strong>
+            {isOpen && (<FaEdit />)
+            }
           </div>
         </h2>
       </div>
