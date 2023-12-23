@@ -887,7 +887,9 @@ button:focus {
 /* Title Section */
 /* --------- */
 .title-section {
-  margin: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
 }
 
 .margin-bottom-30 {
