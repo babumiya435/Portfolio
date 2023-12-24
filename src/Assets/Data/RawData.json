@@ -1,5 +1,95 @@
 [
     {
+        "topicName": "Node JS",
+        "topicId": "NJS",
+        "topicNumber": 1,
+        "topicDescription": "Is used to learn and practice basic to advance Node JS skills",
+        "topicImg": "Nodejs.svg",
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
+        "topicContent": [
+            {
+                "contentName": "Node JS Defination",
+                "contentId": "NodeJSDefination",
+                "content": "Node JS",
+                "contentRelatedCode": "Node JS Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "C Programming Defination",
+                "contentId": "CProgrammingDefination",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Express JS",
+        "topicId": "EJS",
+        "topicNumber": 1,
+        "topicDescription": "Is used to learn and practice basic to advance Express JS skills",
+        "topicImg": "Expressjs.svg",
+        "relatedTopics": [
+            "topic1",
+            "topic2"
+        ],
+        "topicContent": [
+            {
+                "contentName": "Express JS Defination",
+                "contentId": "NodeJSDefination",
+                "content": "Express JS",
+                "contentRelatedCode": "Express JS Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "C Programming Defination",
+                "contentId": "CProgrammingDefination",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
         "topicName": "C Programming",
         "topicId": "CP",
         "topicNumber": 1,
@@ -67,6 +157,18 @@
         "topicContent": [
             {
                 "contentName": "Javascript Defination",
+                "contentId": "JavascriptDefination",
+                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+                "contentRelatedCode": "function addNumbers(a, b)",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ]
+            },
+            {
+                "contentName": "Backend as Frontend",
                 "contentId": "JavascriptDefination",
                 "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
                 "contentRelatedCode": "function addNumbers(a, b)",
