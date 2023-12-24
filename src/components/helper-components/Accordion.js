@@ -11,13 +11,14 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
   return (
     <div className='margin-bottom-30'>
       <div className='margin-bottom-30'
-        onClick={() => setIsOpen(!isOpen)}
         style={{ cursor: 'pointer', marginBottom: '5px' }}
       >
         <h2>
           <div className="title-section">
-            {!isOpen ? (<FaPlus />) : (<FaMinus />)
-            }
+            <section onClick={() => setIsOpen(!isOpen)}>
+              {!isOpen ? (<FaPlus />) : (<FaMinus />)
+              }
+            </section>
             <strong>{title}</strong>
             {isOpen && (<FaEdit />)
             }
