@@ -24,7 +24,7 @@ function ContentDetails() {
               <Card.Img
                 variant="top"
                 src={process.env.PUBLIC_URL + `/assets/svg/${dataFromParent.topicImg}`}
-                alt={"card-img" + dataFromParent.title}
+                alt={"card-img" + dataFromParent.topicName}
                 style={{ maxHeight: "200px" }}
               />
             </div>
@@ -37,7 +37,7 @@ function ContentDetails() {
               <div className="other-links-section">
                 <h2>Other Topic Links</h2>
                 <ul className="list-section">
-                  {dataFromParent.topicContent[0].otherContentLinks ? dataFromParent.topicContent[0].otherContentLinks.map((item, index) => (
+                  {dataFromParent.relatedTopics ? dataFromParent.relatedTopics.map((item, index) => (
                     <li key={index} id={"id" + index}>
                       <Link
                         style={{ marginLeft: "10px" }}>
