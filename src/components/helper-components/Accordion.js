@@ -28,7 +28,7 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
       {isOpen && (
         <Container className="margin-bottom-30 paragraph-section container-fluid">
           {content}
-          <CodeViewer className="mb-5" contentRelatedCode={contentRelatedCode} />
+          {contentRelatedCode && <CodeViewer className="mb-5" contentRelatedCode={contentRelatedCode} />}
         </Container>
       )}
     </div>
