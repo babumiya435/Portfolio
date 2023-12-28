@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple"> BABU MIYA MOHAMMAD </span>
             from <span className="purple"> Hyderabad, India.</span>
-            <br /> I am a working as UI Team Lead in a product based company located in Hyderabad.
+            <br /> I am currently working as an UI Team Lead in a product based company located in Hyderabad.
             <br />
             <br />
             Apart from coding, some other activities that I love to do !
