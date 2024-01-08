@@ -3,12 +3,6 @@ import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs'; // Choose
 
 
 function CodeViewer(props) {
-  const code = `
-  function greet(name) {
-    console.log(\`Hello, \${name}!\`);
-  }
-  greet("John");
-  `;
 
   return (
     <SyntaxHighlighter language="javascript" style={docco}>
