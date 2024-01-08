@@ -948,3 +948,8 @@ button:focus {
   position: relative;
   z-index: 2; /* Placing the pages on top of the cover */
 }
+
+.code-section {
+  color: #00008B;
+  background-color: #fff;
+}
