@@ -915,3 +915,36 @@ button:focus {
   color: #00008B; /* Text color */
   /* text-shadow: 1px 1px 0 #888, 1px 1px 0 #555; Multiple shadows to create a handwritten look */
 }
+
+/* Styling the notebook container */
+.notebook {
+  width: 1130px; /* Set width of the notebook */
+  text-align: center;
+  margin: 50px auto; /* Center the notebook */
+  background-color: #f4f1ea; /* Notebook background color */
+  border: 5px solid #b7a48b; /* Notebook border */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adding shadow for depth */
+  position: relative; /* Positioning for the cover and pages */
+}
+
+/* Styling the notebook cover */
+.notebook-cover {
+  width: 100%;
+  height: 100%;
+  background-color: #fff; /* Cover background color */
+  position: absolute;
+  z-index: 1; /* Placing the cover behind the pages */
+  top: 0;
+  left: 0;
+  border-top: 5px solid #b7a48b; /* Top border for the cover */
+  border-bottom: 5px solid #b7a48b; /* Bottom border for the cover */
+}
+
+/* Styling the notebook pages */
+.notebook-page {
+  color: #00008B;
+  padding: 40px; /* Padding for content inside the page */
+  background-color: #fff; /* Page background color */
+  position: relative;
+  z-index: 2; /* Placing the pages on top of the cover */
+}
