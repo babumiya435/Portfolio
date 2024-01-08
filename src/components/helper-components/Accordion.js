@@ -4,6 +4,7 @@ import { Container } from "react-bootstrap";
 import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
 import { FaEdit } from "react-icons/fa";
+import Typewriter from "typewriter-effect";
 
 const AccordionItem = ({ title, content, contentRelatedCode }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -27,7 +28,21 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
       </div>
       {isOpen && (
         <Container className="margin-bottom-30 paragraph-section container-fluid">
-          {content}
+          {/* <Typewriter
+            options={{
+              strings: [
+                content
+              ],
+              autoStart: true,
+              loop: false,
+              delay: 0,
+              deleteSpeed:0
+            }}
+            pause
+          /> */}
+          <p className='hand-written-content'>
+            {content}
+          </p>
           {contentRelatedCode && <CodeViewer className="mb-5" contentRelatedCode={contentRelatedCode} />}
         </Container>
       )}

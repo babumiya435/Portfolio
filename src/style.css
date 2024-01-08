@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 html {
   --section-background-color: linear-gradient(
     to bottom left,
@@ -903,4 +905,13 @@ button:focus {
 
 .my-pic-bg-color {
   background-image: linear-gradient(15deg, grey, yellow, white, #7c84fc, #ff4dd2, red);
+}
+
+
+.hand-written-content {
+  font-family: 'Indie Flower';
+  padding: 12px;
+  background-color: white;
+  color: #00008B; /* Text color */
+  /* text-shadow: 1px 1px 0 #888, 1px 1px 0 #555; Multiple shadows to create a handwritten look */
 }
