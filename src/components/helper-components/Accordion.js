@@ -32,14 +32,12 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
 
             <div className="notebook-page">
               <h1>{title}</h1>
-              <p>{content}</p>
+              <p className="content-section">{content}</p>
               <div>
-              this text is not visible
-              {contentRelatedCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={contentRelatedCode} />}
-            </div>
+                {contentRelatedCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={contentRelatedCode} />}
+              </div>
             </div>
           </div>
-          {contentRelatedCode && <CodeViewer className="mb-5 notebook-page" contentRelatedCode={contentRelatedCode} />}
         </Container>
       )}
     </div>
