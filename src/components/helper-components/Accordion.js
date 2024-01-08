@@ -43,6 +43,14 @@ const AccordionItem = ({ title, content, contentRelatedCode }) => {
           <p className='hand-written-content'>
             {content}
           </p>
+          <div className="notebook">
+            <div className="notebook-cover">BABU MIYA</div>
+
+            <div className="notebook-page">
+              <h1>My Notebook Page</h1>
+              <p>This is a sample text for the notebook page.</p>
+            </div>
+          </div>
           {contentRelatedCode && <CodeViewer className="mb-5" contentRelatedCode={contentRelatedCode} />}
         </Container>
       )}
