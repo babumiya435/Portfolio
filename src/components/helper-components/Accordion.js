@@ -5,7 +5,7 @@ import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
 import { FaEdit } from "react-icons/fa";
 
-const AccordionItem = ({ title, content, contentRelatedCode }) => {
+const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -48,7 +48,7 @@ const Accordion = ({ items }) => {
   return (
     <div>
       {items.map((item, index) => (
-        <AccordionItem key={index} title={item.contentName} content={item.content} contentRelatedCode={item.contentRelatedCode} />
+        <AccordionItem key={index} title={item.contentName} content={item.content} contentRelatedCode={item.contentRelatedCode} contentSections={item.contentSections} />
       ))}
     </div>
   );
