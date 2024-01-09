@@ -969,7 +969,7 @@ button:focus {
 .container > .syntax-highlighter {
   width:100%;
   height: 100%;
-  color: #D4D4D4;
+  color: white !important;
   background-color: #030003;
   background-color: rgb(40, 44, 52) !important;
   font-family: Droid Sans Mono;
@@ -981,6 +981,9 @@ button:focus {
   font-weight: 500;
 }
 
+.container > .syntax-highlighter .language-javascript {
+  color: white !important;
+}
 .container > .syntax-highlighter .language-javascript > span:hover {
   background-color: rgba(224, 224, 173, 0.2) !important;
 }
@@ -997,41 +1000,4 @@ button:focus {
   color: rgb(213, 214, 133) !important;
   margin-left: 15px;
   margin-right: 15px;
-}
-
-.container > .syntax-highlighter .language-javascript .hljs-comment {
-  color: #48a454;
-  font-weight: 450;
-}
-
-.container > .syntax-highlighter .language-javascript .hljs-keyword {
-  color: #d86fc0;
-}
-
-.container > .syntax-highlighter .language-javascript .hljs-function {
-  color: #4098d7;
-}
-
-.container > .syntax-highlighter .language-javascript .hljs-title {
-  color: #d8e2a9;
-}
-
-.container >.syntax-highlighter .language-javascript .hljs-tag {
-  color: #d4d4d4;
-}
-
-.container >.syntax-highlighter .language-javascript .hljs-name {
-  color: #4098d7;
-}
-
-.container >.syntax-highlighter .language-javascript .hljs-attr {
-  color: #86ddff;
-}
-
-.container >.syntax-highlighter .language-javascript .hljs-string {
-  color: #dc8a77;
-}
-
-.container >.syntax-highlighter .language-javascript .hljs-built_in {
-  color: #00d5b0;
 }
