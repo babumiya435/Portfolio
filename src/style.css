@@ -1001,3 +1001,9 @@ button:focus {
   margin-left: 15px;
   margin-right: 15px;
 }
+
+/* borders */
+.details-border-bottom {
+  padding: 12px;
+  border-bottom: 2px solid grey !important;
+}

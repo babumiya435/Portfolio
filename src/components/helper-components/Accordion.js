@@ -32,10 +32,15 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
 
             <div className="notebook-page">
               <h1>{title}</h1>
-              <p className="content-section">{content}</p>
-              <div>
-                {contentRelatedCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={contentRelatedCode} />}
-              </div>
+              {contentSections.map((item, index) => (
+                <div key={index} className='details-border-bottom'>
+                  <p className="content-section">{item.sectionName}</p>
+                  <p className="content-section">{item.sectionContent}</p>
+                  <div>
+                    {item.sectionCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={item.sectionCode} />}
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
         </Container>
