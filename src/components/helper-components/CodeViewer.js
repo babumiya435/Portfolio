@@ -16,6 +16,16 @@ function CodeViewer(props) {
     }
 }
 
+const highlightLine = (lineNumber, markLines, color = "#FFDB81") => {
+
+    // only works when showLineNumbers and wrapLines are both enabled
+    const style = { display: "block", width: "fit-content" };
+    if (markLines.includes(lineNumber)) {
+        style.backgroundColor = color;
+    }
+    return { style };
+}
+
   return (
     <div className="container">
       <SyntaxHighlighter language="javascript"
@@ -25,6 +35,7 @@ function CodeViewer(props) {
         showLineNumbers={true}
         lineNumberStyle={{ minWidth: calcMinLineNumberWidth(props.contentRelatedCode) }}
         wrapLines={true}
+        // lineProps={(line) => highlightLine(line, props.highlightLines, props.highlightColor)}
       >
         {props.contentRelatedCode}
       </SyntaxHighlighter>
