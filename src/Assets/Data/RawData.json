@@ -28,6 +28,14 @@
                         "topicNumber": 4,
                         "topicName": "ReactJS"
                     }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Defination Section",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
+                    }
                 ]
             }
         ],
@@ -73,6 +81,14 @@
                         "topicNumber": 4,
                         "topicName": "ReactJS"
                     }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Defination Section",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
+                    }
                 ]
             }
         ],
@@ -117,6 +133,14 @@
                     {
                         "topicNumber": 4,
                         "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Defination Section",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
                     }
                 ]
             }
@@ -165,6 +189,14 @@
                         "linkName": "GFG",
                         "linkUrl": "https://gfg.com"
                     }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Javascript Defination Section",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
+                    }
                 ]
             },
             {
@@ -176,6 +208,14 @@
                     {
                         "linkName": "GFG",
                         "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Javascript Defination Section",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
                     }
                 ]
             }
@@ -222,6 +262,14 @@
                         "topicNumber": 4,
                         "topicName": "ReactJS"
                     }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Defination Section",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
+                    }
                 ]
             }
         ],
@@ -266,6 +314,14 @@
                     {
                         "topicNumber": 3,
                         "topicName": "Angular"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Defination Section",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCodeImg":"url"
                     }
                 ]
             }
