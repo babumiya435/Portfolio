@@ -31,9 +31,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Node JS Defination Section",
-                        "sectionId": "Node JS Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -84,9 +85,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Node JS Defination Section",
-                        "sectionId": "Node JS Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -137,9 +139,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Node JS Defination Section",
-                        "sectionId": "Node JS Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -195,14 +198,14 @@
                         "sectionName": "Javascript Defination Section 1",
                         "sectionContent": "Javascript Defination Section Content 1",
                         "sectionId": "Javascript Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     },
                     {
                         "sectionName": "Javascript Defination Section 2",
                         "sectionContent": "Javascript Defination Section Content 2",
                         "sectionId": "Javascript Section 2",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCode": "Javascript Defination Section Content Code 2",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -220,9 +223,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Defination Section",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
                         "sectionId": "Javascript Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -273,9 +277,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Node JS Defination Section",
-                        "sectionId": "Node JS Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -326,9 +331,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Node JS Defination Section",
-                        "sectionId": "Node JS Section 1",
-                        "sectionCode": "function addNumbers(a, b) { return a + b;}\nfunction addNumbers(a, b) { return a + b;}",
+                        "sectionName": "Javascript Defination Section 1",
+                        "sectionContent": "Javascript Defination Section Content 1",
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
