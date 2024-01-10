@@ -952,10 +952,13 @@ button:focus {
 .content-section {
   color: black;
   background: lightgrey;
+  margin: 0;
+  padding: 8px;
 }
 
 .content-section-data {
   color: black;
+  text-align: left;
 }
 
 .code-section {
