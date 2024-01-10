@@ -31,7 +31,7 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
             <div className="notebook-cover"></div>
 
             <div className="notebook-page">
-              <h1>{title}</h1>
+              {/* <h1>{title}</h1> */}
               {contentSections.map((item, index) => (
                 <div key={index} className='details-border-bottom'>
                   <div className="content-section"
