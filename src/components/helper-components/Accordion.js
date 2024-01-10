@@ -34,8 +34,8 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
               <h1>{title}</h1>
               {contentSections.map((item, index) => (
                 <div key={index} className='details-border-bottom'>
-                  <p className="content-section">{item.sectionName}</p>
-                  <p className="content-section">{item.sectionContent}</p>
+                  <div className="content-section">{item.sectionName}</div>
+                  <div className="content-section">{item.sectionContent}</div>
                   <div>
                     {item.sectionCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={item.sectionCode} />}
                   </div>
