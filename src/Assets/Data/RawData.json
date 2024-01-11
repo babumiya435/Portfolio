@@ -31,10 +31,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Introduction to Express JS</h2>",
-                        "sectionContent": "<h2>Express JS Defination: </h2> <p>Express JS is one of tool / framework used for creating BE</p>",
-                        "sectionId": "Introduction to Express JS",
-                        "sectionCode": "Introduction to Express JS",
+                        "sectionName": "<h2>Introduction to Node JS</h2>",
+                        "sectionContent": "<h2>Node JS  Defination: </h2> <p>Node JS</p>",
+                        "sectionId": "Introduction to Node JS",
+                        "sectionCode": "Introduction to Node JS",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -139,10 +139,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Defination Section 1",
-                        "sectionContent": "Javascript Defination Section Content 1",
-                        "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Defination Section Content Code 1",
+                        "sectionName": "<h2>Introduction to C Programming</h2>",
+                        "sectionContent": "<h2>C Programming  Defination: </h2> <p>C Programming</p>",
+                        "sectionId": "Introduction to C Programming",
+                        "sectionCode": "Introduction to C Programming",
                         "sectionCodeImg":"url"
                     }
                 ]
