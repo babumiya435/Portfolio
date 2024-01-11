@@ -31,10 +31,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Defination Section 1",
-                        "sectionContent": "Javascript Defination Section Content 1",
-                        "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Defination Section Content Code 1",
+                        "sectionName": "<h2>Introduction to Express JS</h2>",
+                        "sectionContent": "<h2>Express JS Defination: </h2> <p>Express JS is one of tool / framework used for creating BE</p>",
+                        "sectionId": "Introduction to Express JS",
+                        "sectionCode": "Introduction to Express JS",
                         "sectionCodeImg":"url"
                     }
                 ]
