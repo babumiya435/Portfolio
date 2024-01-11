@@ -331,10 +331,10 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Defination Section 1",
-                        "sectionContent": "Javascript Defination Section Content 1",
-                        "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Defination Section Content Code 1",
+                        "sectionName": "<h2>Introduction to ReactJS</h2>",
+                        "sectionContent": "<h2>C Programming  Defination: </h2> <p>ReactJS</p>",
+                        "sectionId": "Introduction to ReactJS",
+                        "sectionCode": "Introduction to ReactJS",
                         "sectionCodeImg":"url"
                     }
                 ]
