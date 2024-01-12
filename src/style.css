@@ -918,7 +918,6 @@ button:focus {
 
 /* Styling the notebook container */
 .notebook {
-  width: 1130px; /* Set width of the notebook */
   text-align: center;
   margin: 50px auto; /* Center the notebook */
   background-color: #f4f1ea; /* Notebook background color */
