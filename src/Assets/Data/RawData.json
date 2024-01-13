@@ -200,13 +200,6 @@
                         "sectionId": "Javascript Section 1",
                         "sectionCode": "Javascript Defination Section Content Code 1",
                         "sectionCodeImg":"url"
-                    },
-                    {
-                        "sectionName": "Javascript Defination Section 2",
-                        "sectionContent": "Javascript Defination Section Content 2",
-                        "sectionId": "Javascript Section 2",
-                        "sectionCode": "Javascript Defination Section Content Code 2",
-                        "sectionCodeImg":"url"
                     }
                 ]
             },
