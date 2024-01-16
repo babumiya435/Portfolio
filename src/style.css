@@ -855,6 +855,7 @@ button:focus {
   gap: 10px;
   justify-content: center;
   font-size: 1.25rem;
+  padding: 0px !important;
 }
 
 /* --------- */
@@ -942,7 +943,7 @@ button:focus {
 /* Styling the notebook pages */
 .notebook-page {
   color: #00008B;
-  padding: 40px; /* Padding for content inside the page */
+  padding: 30px; /* Padding for content inside the page */
   background-color: #fff; /* Page background color */
   position: relative;
   z-index: 2; /* Placing the pages on top of the cover */
