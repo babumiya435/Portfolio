@@ -19,11 +19,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blog}
-              isBlog={false}
+              isBlog={true}
               title="My-Tech-Blogs ( In-progress )"
               description="My Technical Content page build with React Js"
-              ghLink="https://github.com/babumiya435/Blogs"
-              demoLink="https://blogs.babumiya.tech/"
+              ghLink="/tech-learning"
             />
           </Col>
         </Row>
