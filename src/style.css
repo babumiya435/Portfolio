@@ -1020,3 +1020,15 @@ button:focus {
   justify-content: center;
   gap: 20px;
 }
+
+.paraTitle {
+  padding: 4px;
+  background-color: antiquewhite;
+  width: fit-content;
+  border: 1px solid grey;
+  border-radius: 12px;
+}
+
+.paraContent {
+  margin-left: 50px;
+}
