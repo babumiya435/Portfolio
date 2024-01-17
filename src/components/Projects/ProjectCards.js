@@ -9,7 +9,12 @@ function ProjectCards(props) {
   console.log(props.data)
   const navigateToChild = () => {
     // Pass data via state when navigating
-    navigate(props.demoLink, { state: { dataFromParent: props.data } });
+    if (props.ghLink) {
+      navigate(props.ghLink);
+    } else {
+      navigate(props.demoLink, { state: { dataFromParent: props.data } });
+    }
+    
   };
 
   return (
@@ -32,7 +37,7 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         {
-          props.isBlog && <Button variant="primary" href={props.ghLink} target="_blank" onClick={navigateToChild}>
+          props.isBlog && <Button variant="primary" onClick={navigateToChild}>
             Learn
           </Button>
         }
