@@ -40,10 +40,10 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
                   <div className="content-section-data">
                     {item.sectionContent.map((item, index) => (
                       <div>
-                        {item.paraTitle && <h3 key={index}>
+                        {item.paraTitle && <p key={'paraTitle'+ index} className='paraTitle'>
                           {item.paraTitle} :
-                        </h3>}
-                        <p key={index}>
+                        </p>}
+                        <p key={'paraContent'+ index} className='paraContent'>
                           {item.paraContent}
                         </p>
                       </div>
