@@ -18,8 +18,9 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={blog}
+              imgPath="my-tech-blogs.png"
               isBlog={true}
+              isProject={true}
               title="My-Tech-Blogs ( In-progress )"
               description="My Technical Content page build with React Js"
               ghLink="/tech-learning"

@@ -9,7 +9,7 @@ function ProjectCards(props) {
   console.log(props.data)
   const navigateToChild = () => {
     // Pass data via state when navigating
-    if (props.ghLink) {
+    if (props.isProject) {
       navigate(props.ghLink);
     } else {
       navigate(props.demoLink, { state: { dataFromParent: props.data } });
@@ -19,13 +19,13 @@ function ProjectCards(props) {
 
   return (
     <Card className="project-card-view">
-      {!props.isBlog && <Card.Img
+      {props.isProject && <Card.Img
         variant="top"
-        src={process.env.PUBLIC_URL + `/assets/images/my-tech-blogs.png`}
+        src={process.env.PUBLIC_URL + `/assets/images/${props.imgPath}`}
         alt={"card-img-my-tech-blogs.png"}
         style={{ height: "200px" }}
       />}
-      {props.isBlog && <Card.Img
+      {!props.isProject && <Card.Img
         variant="top"
         src={process.env.PUBLIC_URL + `/assets/svg/${props.imgPath}`}
         alt={"card-img" + props.title}
