@@ -35,11 +35,20 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
               {contentSections.map((item, index) => (
                 <div key={index} className='details-border-bottom'>
                   <div className="content-section"
-                  dangerouslySetInnerHTML={{ __html: item.sectionName }}
+                    dangerouslySetInnerHTML={{ __html: item.sectionName }}
                   ></div>
-                  <div className="content-section-data"
-                    dangerouslySetInnerHTML={{ __html: item.sectionContent }}
-                  ></div>
+                  <div className="content-section-data">
+                    {item.sectionContent.map((item, index) => (
+                      <div>
+                        {item.paraTitle && <h3 key={index}>
+                          {item.paraTitle} :
+                        </h3>}
+                        <p key={index}>
+                          {item.paraContent}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
                   <div>
                     {item.sectionCode && <CodeViewer className="mb-5 code-section" contentRelatedCode={item.sectionCode} />}
                   </div>
