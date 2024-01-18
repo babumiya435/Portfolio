@@ -42,6 +42,61 @@
                                 "paraId" : "1",
                                 "paraTitle": "Is NodeJS is single threaded",
                                 "paraContent" : "2. Is NodeJS is single threaded ? 2"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "1. Asynchronous Programming"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "2. Modules and CommonJS:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "3. The Event Loop:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "4. Streams and Buffers:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "5. File System Operations:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "6. Web Servers and HTTP Module:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "7. Express.js:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "8. Error Handling:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "9. Asynchronous APIs:"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "10. Scalability and Performance:"
                             }
                         ],
                         "sectionId": "Introduction to Node JS",
