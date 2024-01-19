@@ -41,42 +41,72 @@
                             {
                                 "paraId" : "1",
                                 "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent" : "2. Is NodeJS is single threaded ? 2"
+                                "paraContent" : "Why is Node.js single-threaded? If Node.js is single-threaded, then how does it handle concurrency?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "1. Asynchronous Programming"
+                                "paraContent" : "What is a first class function in Javascript?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "2. Modules and CommonJS:"
+                                "paraContent" : "What is Node.js and how it works?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "3. The Event Loop:"
+                                "paraContent" : "3. How do you manage packages in your node.js project?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "4. Streams and Buffers:"
+                                "paraContent" : "How is Node.js better than other frameworks most popularly used?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "5. File System Operations:"
+                                "paraContent" : "Explain the steps how “Control Flow” controls the functions calls?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "6. Web Servers and HTTP Module:"
+                                "paraContent" : "What are some commonly used timing features of Node.js?"
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "7. Express.js:"
+                                "paraContent" : "What are the advantages of using promises instead of callbacks?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "What is fork in node JS?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "How do you create a simple server in Node.js that returns Hello World?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "How many types of API functions are there in Node.js?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "List down the two arguments that async.queue takes as input?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "What is the purpose of module.exports?"
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : "What tools can be used to assure consistent code style?"
                             },
                             {
                                 "paraId" : "3",
@@ -86,17 +116,57 @@
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "8. Error Handling:"
+                                "paraContent" : ""
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "9. Asynchronous APIs:"
+                                "paraContent" : ""
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "10. Scalability and Performance:"
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "",
+                                "paraContent" : ""
                             }
                         ],
                         "sectionId": "Introduction to Node JS",
