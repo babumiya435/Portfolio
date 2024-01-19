@@ -44,13 +44,13 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
                           {item.paraTitle} :
                         </p>}
                         <div>
-                          [<div className='paraContent'>
+                          <div className='paraContent'>
                             {item?.paraContent?.map((para, i) => (
                               <p key={'para' + i}>
                                 {para}
                               </p>
                             ))}
-                          </div>]
+                          </div>
                         </div>
                       </div>
                     ))}
