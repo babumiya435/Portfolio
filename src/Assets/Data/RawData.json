@@ -36,137 +36,192 @@
                             {
                                 "paraId" : "0",
                                 "paraTitle": "What Is NodeJs",
-                                "paraContent" : "1. What Is NodeJs ? 2"
+                                "paraContent" : [
+                                    "1. What Is NodeJs ? 2"
+                                ]
                             },
                             {
                                 "paraId" : "1",
                                 "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent" : "Why is Node.js single-threaded? If Node.js is single-threaded, then how does it handle concurrency?"
+                                "paraContent" : [
+                                    "Why is Node.js single-threaded?",
+                                    "If Node.js is single-threaded, then how does it handle concurrency?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What is a first class function in Javascript?"
+                                "paraContent" : [
+                                    "What is a first class function in Javascript?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What is Node.js and how it works?"
+                                "paraContent" : [
+                                    "What is Node.js and how it works?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "3. How do you manage packages in your node.js project?"
+                                "paraContent" : [
+                                    "3. How do you manage packages in your node.js project?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "How is Node.js better than other frameworks most popularly used?"
+                                "paraContent" : [
+                                    "How is Node.js better than other frameworks most popularly used?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "Explain the steps how “Control Flow” controls the functions calls?"
+                                "paraContent" : [
+                                    "Explain the steps how “Control Flow” controls the functions calls?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What are some commonly used timing features of Node.js?"
+                                "paraContent" : [
+                                    "What are some commonly used timing features of Node.js?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What are the advantages of using promises instead of callbacks?"
+                                "paraContent" : [
+                                    "Explain callback in Node.js. , What are the advantages of using promises instead of callbacks?", "What are the advantages of using promises instead of callbacks?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What is fork in node JS?"
+                                "paraContent" : [
+                                    "What is fork in node JS?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "How do you create a simple server in Node.js that returns Hello World?"
+                                "paraContent" : [
+                                    "How do you create a simple server in Node.js that returns Hello World?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "How many types of API functions are there in Node.js?"
+                                "paraContent" : [
+                                    "How many types of API functions are there in Node.js?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "List down the two arguments that async.queue takes as input?"
+                                "paraContent" : [
+                                    "List down the two arguments that async.queue takes as input?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What is the purpose of module.exports?"
+                                "paraContent" : [
+                                    "What is the purpose of module.exports?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : "What tools can be used to assure consistent code style?"
+                                "paraContent" : [
+                                    "What tools can be used to assure consistent code style?"
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
-                                "paraContent" : ""
+                                "paraContent" : [
+                                    
+                                ]
                             }
                         ],
                         "sectionId": "Introduction to Node JS",
