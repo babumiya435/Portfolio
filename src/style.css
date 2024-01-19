@@ -1031,7 +1031,7 @@ button:focus {
 
 .paraContent {
   padding: 10px;
-  margin-left: 50px;
+  margin: 0px 0px 20px 50px;
   border: 1px solid greenyellow;
   background-color: aliceblue;
 }
