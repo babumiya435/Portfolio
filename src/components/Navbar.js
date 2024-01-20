@@ -19,6 +19,7 @@ import myImg from "../Assets/avatar.svg";
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
+  const [selectedItem, setSelectedItem] = useState("home");
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
@@ -27,6 +28,11 @@ function NavBar() {
       updateNavbar(false);
     }
   }
+
+  const handleItemClick = (item) => {
+    setSelectedItem(item);
+    // Add any other logic you need when an item is clicked
+  };
 
   window.addEventListener("scroll", scrollHandler);
 
@@ -53,13 +59,15 @@ function NavBar() {
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
-            <Nav.Item>
+            <Nav.Item  className={`nav-item ${selectedItem === 'home' ? 'selected' : ''}`}
+            onClick={() => handleItemClick('home')}>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            <Nav.Item className={`nav-item ${selectedItem === 'about' ? 'selected' : ''}`}
+          onClick={() => handleItemClick('about')}>
               <Nav.Link
                 as={Link}
                 to="/about"
@@ -69,7 +77,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            <Nav.Item className={`nav-item ${selectedItem === 'projects' ? 'selected' : ''}`}
+          onClick={() => handleItemClick('projects')}>
               <Nav.Link
                 as={Link}
                 to="/projects"
@@ -82,7 +91,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            <Nav.Item className={`nav-item ${selectedItem === 'resume' ? 'selected' : ''}`}
+          onClick={() => handleItemClick('resume')}>
               <Nav.Link
                 as={Link}
                 to="/resume"
@@ -92,7 +102,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            <Nav.Item className={`nav-item ${selectedItem === 'tech-learning' ? 'selected' : ''}`}
+          onClick={() => handleItemClick('tech-learning')}>
               <Nav.Link
                 as={Link}
                 to="/tech-learning"
