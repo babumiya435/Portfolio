@@ -231,8 +231,8 @@
                 ]
             },
             {
-                "contentName": "Node JS Defination",
-                "contentId": "NodeJSDefination",
+                "contentName": "Node JS Definition",
+                "contentId": "NodeJSDefinition",
                 "content": "Node JS",
                 "contentRelatedCode": "Node JS Content Code",
                 "otherContentLinks": [
@@ -273,8 +273,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Defination",
-                "contentId": "CProgrammingDefination",
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
@@ -297,7 +297,7 @@
         "topicContent": [
             {
                 "contentName": "Introduction to Express JS",
-                "contentId": "NodeJSDefination",
+                "contentId": "NodeJSDefinition",
                 "content": "Express JS",
                 "contentRelatedCode": "Express JS Content Code",
                 "otherContentLinks": [
@@ -342,8 +342,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Defination",
-                "contentId": "CProgrammingDefination",
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
@@ -365,8 +365,8 @@
         ],
         "topicContent": [
             {
-                "contentName": "C Programming Defination",
-                "contentId": "CProgrammingDefination",
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
                 "content": "The C programming language is a procedural and general-purpose language that provides low-level access to system memory. A program written in C must be run through a C compiler to convert it into an executable that a computer can run.",
                 "contentRelatedCode": "C Programming Content Code",
                 "otherContentLinks": [
@@ -411,8 +411,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Defination",
-                "contentId": "CProgrammingDefination",
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
@@ -444,8 +444,8 @@
         ],
         "topicContent": [
             {
-                "contentName": "Javascript Defination",
-                "contentId": "JavascriptDefination",
+                "contentName": "Javascript Definition",
+                "contentId": "JavascriptDefinition",
                 "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
                 "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
                 "contentLinks": [
@@ -456,7 +456,7 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Defination Section 1",
+                        "sectionName": "Javascript Definition Section 1",
                         "sectionContent":  [
                             {
                                 "paraId" : "0",
@@ -474,7 +474,7 @@
                             }
                         ],
                         "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Defination Section Content Code 1",
+                        "sectionCode": "Javascript Definition Section Content Code 1",
                         "sectionCodeImg":"url"
                     }
                 ]
@@ -482,8 +482,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "Javascript Defination",
-                "contentId": "JavascriptDefination",
+                "contentName": "Javascript Definition",
+                "contentId": "JavascriptDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
@@ -505,8 +505,8 @@
         ],
         "topicContent": [
             {
-                "contentName": "Angular Defination",
-                "contentId": "AngularDefination",
+                "contentName": "Angular Definition",
+                "contentId": "AngularDefinition",
                 "content": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications.",
                 "contentRelatedCode": "Angular Content Code",
                 "otherContentLinks": [
@@ -551,8 +551,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "Angular Defination",
-                "contentId": "AngularDefination",
+                "contentName": "Angular Definition",
+                "contentId": "AngularDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Angular Content Code",
                 "otherVideoContentLinks": [
@@ -574,8 +574,8 @@
         ],
         "topicContent": [
             {
-                "contentName": "ReactJS Defination",
-                "contentId": "ReactJSDefination",
+                "contentName": "ReactJS Definition",
+                "contentId": "ReactJSDefinition",
                 "content": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
                 "contentRelatedCode": "ReactJS Content Code",
                 "otherContentLinks": [
@@ -620,8 +620,8 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "ReactJS Defination",
-                "contentId": "ReactJSDefination",
+                "contentName": "ReactJS Definition",
+                "contentId": "ReactJSDefinition",
                 "content": "Video",
                 "contentRelatedCode": "ReactJS Content Code",
                 "otherVideoContentLinks": [
