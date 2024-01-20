@@ -2,7 +2,7 @@
     {
         "topicName": "Node JS",
         "topicId": "NJS",
-        "topicNumber": 1,
+        "topicNumber": "NodeJs",
         "topicDescription": "Learn and practice basic to advance Node JS skills",
         "topicImg": "Nodejs.svg",
         "relatedTopics": [
@@ -291,7 +291,7 @@
     {
         "topicName": "Express JS",
         "topicId": "EJS",
-        "topicNumber": 1,
+        "topicNumber": 2,
         "topicDescription": "Learn and practice basic to advance Express JS skills",
         "topicImg": "Expressjs.svg",
         "relatedTopics": [
@@ -360,7 +360,7 @@
     {
         "topicName": "C Programming",
         "topicId": "CP",
-        "topicNumber": 1,
+        "topicNumber": 3,
         "topicDescription": "Is used to learn and practice basic to advance C skills",
         "topicImg": "C.svg",
         "relatedTopics": [
@@ -429,7 +429,7 @@
     {
         "topicName": "Java Script",
         "topicId": "JS",
-        "topicNumber": 2,
+        "topicNumber": 4,
         "topicDescription": "Is used to learn and practice basic to advance Javascript skills",
         "topicImg": "Javascript.svg",
         "relatedTopics": [
@@ -500,7 +500,7 @@
     {
         "topicName": "Angular",
         "topicId": "Angular",
-        "topicNumber": 3,
+        "topicNumber": 5,
         "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
         "topicImg": "Angular.svg",
         "relatedTopics": [
@@ -569,7 +569,7 @@
     {
         "topicName": "ReactJS",
         "topicId": "ReactJS",
-        "topicNumber": 4,
+        "topicNumber": 6,
         "topicDescription": "Is used to learn and practice basic to advance ReactJS skills",
         "topicImg": "React.svg",
         "relatedTopics": [
