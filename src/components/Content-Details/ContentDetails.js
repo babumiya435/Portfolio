@@ -5,13 +5,18 @@ import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
 import Accordion from "../helper-components/Accordion";
-
+import { IoArrowBack } from "react-icons/io5";
+import { useNavigate } from 'react-router-dom';
 
 function ContentDetails() {
   const location = useLocation();
   const dataFromParent = location.state?.dataFromParent || null;
   const { id } = useParams();
   console.log(dataFromParent);
+  const navigate = useNavigate();
+  const navigateBack = () => {
+    navigate("/tech-learning");
+  };
 
   return (
     <>
@@ -19,6 +24,9 @@ function ContentDetails() {
         dataFromParent && (
           <Container className="content-details-section container-fluid">
             <div className="mb-5 other-links-section">
+              <div className="text-left">
+                <IoArrowBack className="svg-align-hw" onClick={navigateBack}/>
+              </div>
               <h2>{dataFromParent.topicName}</h2>
               <p>Topic Id : {id}</p>
               <Card.Img
