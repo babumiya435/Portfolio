@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { BsGithub } from "react-icons/bs";
 import { useNavigate } from 'react-router-dom';
 
 function ProjectCards(props) {
@@ -14,7 +13,6 @@ function ProjectCards(props) {
     } else {
       navigate(props.demoLink, { state: { dataFromParent: props.data } });
     }
-    
   };
 
   return (

@@ -12,14 +12,13 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
 import { CgFileDocument } from "react-icons/cg";
 import myImg from "../Assets/avatar.svg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
-  const [selectedItem, setSelectedItem] = useState("home");
+  const [selectedItem, setSelectedItem] = useState(null);
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
