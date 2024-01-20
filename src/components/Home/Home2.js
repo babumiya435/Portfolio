@@ -59,8 +59,8 @@ function Home2() {
             </p>
           </Col>
           <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} height={300} width={300} className="img-fluid my-pic-bg-color" alt="avatar" />
+            <Tilt className="anime">
+              <img src={myImg} height={300} width={300} className="img-fluid my-pic-mt" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
