@@ -880,10 +880,16 @@ button:focus {
   padding: 0 !important;
 }
 
+.list-links {
+  margin-left: 10px;
+  text-decoration: none;
+}
+
 /* --------- */
 /* Links Section */
 /* --------- */
 .other-links-section {
+  margin-top: 20px;
   text-align: center;
 }
 
@@ -1045,4 +1051,8 @@ button:focus {
 .svg-align-minus {
   margin: 0px 6px 4px 0px;
   color: darkred;
+}
+
+.text-decorate {
+  text-decoration: underline;
 }
