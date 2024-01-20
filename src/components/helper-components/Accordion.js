@@ -16,10 +16,10 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
         <h2>
           <div className="title-section">
             <section onClick={() => setIsOpen(!isOpen)}>
-              {!isOpen ? (<FaPlus />) : (<FaMinus />)
+              {!isOpen ? (<FaPlus className='svg-align-plus' />) : (<FaMinus className='svg-align-minus' />)
               }
+              <strong>{title}</strong>
             </section>
-            <strong>{title}</strong>
             {isOpen && (<FaEdit />)
             }
           </div>
