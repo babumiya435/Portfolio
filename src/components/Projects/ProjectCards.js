@@ -18,7 +18,7 @@ function ProjectCards(props) {
   };
 
   return (
-    <Card className="project-card-view">
+    <Card className="project-card-view" onClick={navigateToChild}>
       {props.isProject && <Card.Img
         variant="top"
         src={process.env.PUBLIC_URL + `/assets/images/${props.imgPath}`}
@@ -37,8 +37,8 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         {
-          props.isBlog && <Button variant="primary" onClick={navigateToChild}>
-            Learn
+          <Button variant="primary">
+            {props.isProject ? "Open" : "Learn"}
           </Button>
         }
         {"\n"}
