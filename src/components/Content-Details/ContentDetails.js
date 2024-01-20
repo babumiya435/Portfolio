@@ -35,12 +35,12 @@ function ContentDetails() {
             </Container>
             <Container className="paragraph-section other-topics">
               <div className="other-links-section">
-                <h2>Other Topic Links</h2>
+                <h3 className="text-decorate">Other Topic Links</h3>
                 <ul className="list-section">
                   {dataFromParent.relatedTopics ? dataFromParent.relatedTopics.map((item, index) => (
                     <li key={index} id={"id" + index}>
                       <Link
-                        style={{ marginLeft: "10px" }}>
+                        className="list-links">
                         {item.topicName}
                       </Link>
                     </li>
