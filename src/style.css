@@ -1036,3 +1036,13 @@ button:focus {
   border: 1px solid greenyellow;
   background-color: aliceblue;
 }
+
+.svg-align-plus {
+  margin: 0px 6px 4px 0px;
+  color: orangered;
+}
+
+.svg-align-minus {
+  margin: 0px 6px 4px 0px;
+  color: darkred;
+}
