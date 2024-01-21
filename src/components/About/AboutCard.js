@@ -7,7 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "left" }}>
             Hi Everyone, I am <b className="purple"> BABU MIYA MOHAMMAD </b>
             from <b className="purple"> Hyderabad, India.</b>
             <br /> I am currently working as a <b className="purple">UI Team Lead</b> in a dynamic product-based company located in Hyderabad.<br />
