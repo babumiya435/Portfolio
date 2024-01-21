@@ -15,6 +15,10 @@ import {
 import { CgFileDocument } from "react-icons/cg";
 import myImg from "../Assets/avatar.svg";
 import { useLocation } from 'react-router-dom';
+import { IoDocumentAttachOutline } from "react-icons/io5";
+import { SiFuturelearn } from "react-icons/si";
+import { FaLaptopCode } from "react-icons/fa";
+import { GrDocumentDownload } from "react-icons/gr";
 
 function NavBar() {
   const location = useLocation();
@@ -100,7 +104,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <GrDocumentDownload style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
 
@@ -111,7 +115,7 @@ function NavBar() {
                 to="/tech-learning"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Tech Learning
+                <FaLaptopCode style={{ marginBottom: "2px" }} /> Tech Learning
               </Nav.Link>
             </Nav.Item>
 
