@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Applications and Products </b> in areas related to{" "}
+                <b className="purple">Web Applications and Products </b> in domains like{" "}
                 <b className="purple">
                   Banking | E-commerce | Insurance | Telecom | Automation | Creating Process Improvements in Projects.
                 </b>
@@ -45,14 +45,13 @@ function Home2() {
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              &nbsp; like &nbsp;
+              &nbsp;like&nbsp;
               <i>
                 <b className="purple">Angular, React.js and Next.js.</b>
               </i>
               <br />
               <br />
-              Some product ideas which i have in my bucket currently
-              are like &nbsp;
+              Some Product Ideas in My Bucket Currently&nbsp;
               <i>
                 <b className="purple">Tech Blogs, <br /> Health Jarvis, Improve Me and Digital Resume.</b>
               </i>
