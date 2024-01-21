@@ -21,7 +21,7 @@ function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
   
-  const [selectedItem, setSelectedItem] = useState(location.pathname.slice(1));
+  const [selectedItem, setSelectedItem] = useState(location.pathname.slice(1) ? location.pathname.slice(1) : "home");
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
