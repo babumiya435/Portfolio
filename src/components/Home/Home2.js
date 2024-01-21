@@ -37,8 +37,8 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I constantly apply my knowledge and passion for developing products
+              with latest technologies: <b className="purple">Node.js,</b>
               <i>
                 <b className="purple">
                   {" "}
@@ -47,13 +47,13 @@ function Home2() {
               </i>
               &nbsp;like&nbsp;
               <i>
-                <b className="purple">Angular, React.js and Next.js.</b>
+                <b className="purple">Angular, React.js and Next.js.</b> and learning new <b className="purple">Technical Skills.</b>
               </i>
               <br />
               <br />
-              Some Product Ideas in My Bucket Currently&nbsp;
+              Some Product Ideas in My Bucket Currently:<br />
               <i>
-                <b className="purple">Tech Blogs, <br /> Health Jarvis, Improve Me and Digital Resume.</b>
+                <b className="purple">Tech Blogs, Health Jarvis, Improve Me and Digital Resume.</b>
               </i>
             </p>
           </Col>
