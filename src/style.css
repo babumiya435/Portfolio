@@ -449,7 +449,11 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #a588c0 !important;
+  color: #7FFFD4 !important;
+}
+
+.blockquote-text {
+  color: #B9E8FC !important;
 }
 /* --------- */
 /* Projects */
@@ -1085,7 +1089,7 @@ button:focus {
 
 @keyframes rotate {
   0% {--a: 0deg}
-  0% {--a: 360deg}
+  100% {--a: 360deg}
 }
 
 .anime {
@@ -1094,12 +1098,17 @@ button:focus {
   position: relative;
   background: repeating-conic-gradient(
     from var(--a),
-    #ff2770 0%,
-    #ff2770 5%,
+    white 0%,
+    #e81416  5%,
     transparent 5%,
-    transparent 5%,
-    #ff2770 50%
+    transparent 40%,
+    #7FFFD4 50%
   );
   animation: rotate 4s linear infinite;
   border-radius: 10px;
+}
+
+.anime-auto {
+  width: auto;
+  height: auto;
 }
