@@ -14,11 +14,14 @@ import {
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
 import myImg from "../Assets/avatar.svg";
+import { useLocation } from 'react-router-dom';
 
 function NavBar() {
+  const location = useLocation();
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
-  const [selectedItem, setSelectedItem] = useState(null);
+  
+  const [selectedItem, setSelectedItem] = useState(location.pathname.slice(1));
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
