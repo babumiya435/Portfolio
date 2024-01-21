@@ -53,7 +53,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <div className="anime anime-auto">
+          <div>
             <p className="blockquote-text">
               "Stay Hungry Stay Foolish"{" "}
             </p>
