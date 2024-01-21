@@ -448,6 +448,10 @@ button:focus {
   padding: 0 !important;
 }
 
+.blockquote {
+  font-size: 1.2em !important;
+}
+
 .blockquote-footer {
   color: #FFFFF0 !important;
 }
