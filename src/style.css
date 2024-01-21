@@ -1094,11 +1094,11 @@ button:focus {
   position: relative;
   background: repeating-conic-gradient(
     from var(--a),
-    orangered 0%,
-    green 5%,
+    #ff2770 0%,
+    #ff2770 5%,
     transparent 5%,
     transparent 5%,
-    yellow 50%
+    #ff2770 50%
   );
   animation: rotate 4s linear infinite;
   border-radius: 10px;
