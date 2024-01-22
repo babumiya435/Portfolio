@@ -37,7 +37,23 @@
                                 "paraId" : "0",
                                 "paraTitle": "What Is NodeJs",
                                 "paraContent" : [
-                                    "1. What Is NodeJs ? 2"
+                                    "1. What Is NodeJs ?",
+                                    "2. What is Node.js and how it works?",
+                                    "3. How is Node.js better than other frameworks most popularly used?"
+                                ]
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "NPM role in nodejs",
+                                "paraContent" : [
+                                    "1. How do you manage packages in your node.js project?"
+                                ]
+                            },
+                            {
+                                "paraId" : "3",
+                                "paraTitle": "Nodejs basic project",
+                                "paraContent" : [
+                                    "How do you create a simple server in Node.js that returns Hello World?"
                                 ]
                             },
                             {
@@ -53,27 +69,6 @@
                                 "paraTitle": "",
                                 "paraContent" : [
                                     "What is a first class function in Javascript?"
-                                ]
-                            },
-                            {
-                                "paraId" : "3",
-                                "paraTitle": "",
-                                "paraContent" : [
-                                    "What is Node.js and how it works?"
-                                ]
-                            },
-                            {
-                                "paraId" : "3",
-                                "paraTitle": "",
-                                "paraContent" : [
-                                    "3. How do you manage packages in your node.js project?"
-                                ]
-                            },
-                            {
-                                "paraId" : "3",
-                                "paraTitle": "",
-                                "paraContent" : [
-                                    "How is Node.js better than other frameworks most popularly used?"
                                 ]
                             },
                             {
@@ -102,13 +97,6 @@
                                 "paraTitle": "",
                                 "paraContent" : [
                                     "What is fork in node JS?"
-                                ]
-                            },
-                            {
-                                "paraId" : "3",
-                                "paraTitle": "",
-                                "paraContent" : [
-                                    "How do you create a simple server in Node.js that returns Hello World?"
                                 ]
                             },
                             {
