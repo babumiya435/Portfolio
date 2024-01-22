@@ -22,7 +22,7 @@ function Projects() {
               isBlog={false}
               isProject={true}
               title="My-Tech-Blogs ( In-progress )"
-              description="My Technical Content page build with React Js"
+              description="My Technical Content blog page build with React Js"
               ghLink="/tech-learning"
             />
           </Col>
