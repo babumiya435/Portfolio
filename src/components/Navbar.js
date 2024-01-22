@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
@@ -22,10 +22,21 @@ import { GrDocumentDownload } from "react-icons/gr";
 
 function NavBar() {
   const location = useLocation();
+  const path = location.pathname.slice(1) ? location.pathname.slice(1) : "home";
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
   
-  const [selectedItem, setSelectedItem] = useState(location.pathname.slice(1) ? location.pathname.slice(1) : "home");
+  const [selectedItem, setSelectedItem] = useState(path);
+
+  useEffect(() => {
+    // Your method or logic to be executed when the path changes
+    handleItemClick(path.indexOf("content-details") ? path : "tech-learning")
+
+    // Cleanup function (if needed)
+    return () => {
+      // Any cleanup logic you want to perform when the component is unmounted
+    };
+  }, [path]);
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
