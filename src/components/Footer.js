@@ -23,6 +23,7 @@ function Footer() {
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>BABU MIYA MOHAMMAD</h3>
+          <h3>INDIA</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
