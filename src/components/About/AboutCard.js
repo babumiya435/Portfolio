@@ -10,15 +10,15 @@ function AboutCard() {
           <p style={{ textAlign: "left" }}>
             Hi Everyone, I am <b className="purple"> BABU MIYA MOHAMMAD </b>
             from <b className="purple"> Hyderabad, India.</b>
-            <br /> I am currently working as a <b className="purple">UI Team Lead</b> in a dynamic product-based company located in Hyderabad.<br />
+            <br /> I am currently working as a <b className="purple">UI Team Lead</b> in a product-based company located in Hyderabad.<br />
             <br />
-            Responsibilities in Current Role:
+            Responsibilities in Current Role :
             <br />
             <b className="purple">Managing Offshore Team:</b><br />
             &nbsp;&nbsp;&nbsp;- Oversight and management of the offshore development team.<br />
 
             <b className="purple">Task Distribution:</b><br />
-            &nbsp;&nbsp;- Creation and distribution of development and defect-related tasks among the team based on development stories.<br />
+            &nbsp;&nbsp;- Creation and distribution of development and defect - related tasks among the team based on development stories / releases.<br />
 
             <b className="purple">Development Activities:</b><br />
             &nbsp;&nbsp;&nbsp;- Involvement in defect fixing and development activities.<br />
@@ -39,7 +39,7 @@ function AboutCard() {
             </i>
             <br />
             <br />
-            Apart from coding, some other activities that I love to do !
+            Apart from coding, some other activities I love to do :
           </p>
           <ul>
             <li className="about-activity">
