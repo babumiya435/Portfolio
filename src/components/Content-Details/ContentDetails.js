@@ -7,6 +7,7 @@ import { useLocation } from 'react-router-dom';
 import Accordion from "../helper-components/Accordion";
 import { IoArrowBack } from "react-icons/io5";
 import { useNavigate } from 'react-router-dom';
+import Button from "react-bootstrap/Button";
 
 function ContentDetails() {
   const location = useLocation();
@@ -25,7 +26,7 @@ function ContentDetails() {
           <Container className="content-details-section container-fluid">
             <div className="mb-5 other-links-section">
               <div className="text-left">
-                <IoArrowBack className="svg-align-hw" onClick={navigateBack}/>
+                <IoArrowBack className="svg-align-hw" onClick={navigateBack} />
               </div>
               <h2>{dataFromParent.topicName}</h2>
               <p>Topic Id : {id}</p>
@@ -55,6 +56,9 @@ function ContentDetails() {
                   )) : <p>No Links available</p>
                   }
                 </ul>
+                <Button variant="primary" onClick={navigateBack}>
+                  Back
+                </Button>
               </div>
             </Container>
           </Container>
