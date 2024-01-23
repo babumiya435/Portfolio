@@ -13,7 +13,7 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
-import myImg from "../Assets/avatar.svg";
+import myImg from "../Assets/svg/avatar.svg";
 import { useLocation } from 'react-router-dom';
 import { IoDocumentAttachOutline } from "react-icons/io5";
 import { SiFuturelearn } from "react-icons/si";

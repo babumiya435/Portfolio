@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaSquareThreads } from "react-icons/fa6";
+import myImg from "../Assets/svg/made-with-react.svg";
 
 function Footer() {
   let date = new Date();
@@ -24,6 +25,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>BABU MIYA MOHAMMAD</h3>
           <h3>INDIA</h3>
+          {/* <img src={myImg} className="made-with-react-svg" alt="avatar" /> */}
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

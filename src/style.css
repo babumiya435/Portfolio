@@ -1116,3 +1116,7 @@ button:focus {
   width: auto;
   height: auto;
 }
+
+.made-with-react-svg {
+  width: 40% !important;
+}
