@@ -14,7 +14,7 @@ function Type() {
           "Javascript Developer",
           // "Full Stack Developer",
         ],
-        autoStart: true,
+        autoStart: false,
         loop: true,
         delay: 0,
         deleteSpeed: 0,

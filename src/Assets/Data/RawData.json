@@ -36,14 +36,19 @@
                                 "paraContent" : [
                                     "1. What Is NodeJs ?",
                                     "2. What is Node.js and how it works?",
-                                    "3. How is Node.js better than other frameworks most popularly used?"
+                                    "3. How is Node.js better than other frameworks most popularly used?",
+                                    "4. What is Node.js? Where can you use it?",
+                                    "5. Why use Node.js?",
+                                    "6. How does Node.js work?"
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "NPM role in nodejs",
                                 "paraContent" : [
-                                    "1. How do you manage packages in your node.js project?"
+                                    "1. How do you manage packages in your node.js project?",
+                                    "2. What is NPM?",
+                                    "3. What are the modules in Node.js?"
                                 ]
                             },
                             {
@@ -63,16 +68,22 @@
                             },
                             {
                                 "paraId" : "3",
-                                "paraTitle": "",
+                                "paraTitle": "Callbacks in Nodejs",
                                 "paraContent" : [
-                                    "What is a first class function in Javascript?"
+                                    "1. What is a first class function in Javascript?",
+                                    "2. Explain callback in Node.js",
+                                    "3. What are the advantages of using promises instead of callbacks?"
                                 ]
                             },
                             {
                                 "paraId" : "3",
-                                "paraTitle": "",
+                                "paraTitle": "Other Questions",
                                 "paraContent" : [
-                                    "Explain the steps how “Control Flow” controls the functions calls?"
+                                    "1. Explain the steps how “Control Flow” controls the functions calls?",
+                                    "2. What are some commonly used timing features of Node.js?",
+                                    "3. How would you define the term I/O?",
+                                    "4. How is Node.js most frequently used?",
+                                    "5. Explain the difference between frontend and backend development?"
                                 ]
                             },
                             {

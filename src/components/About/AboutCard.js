@@ -12,7 +12,7 @@ function AboutCard() {
             from <b className="purple"> Hyderabad, India.</b>
             <br /> I am currently working as a <b className="purple">UI Team Lead</b> in a product-based company located in Hyderabad.<br />
             <br />
-            Responsibilities in Current Role :
+            Responsibilities in Current Role as UI Team Lead :
             <br />
             <b className="purple">Managing Offshore Team:</b><br />
             &nbsp;&nbsp;&nbsp;- Oversight and management of the offshore development team.<br />
