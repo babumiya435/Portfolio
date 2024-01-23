@@ -45,17 +45,17 @@ function ContentDetails() {
             <Container className="paragraph-section other-topics">
               <div className="other-links-section">
                 <h3 className="text-decorate">Other Topic Links</h3>
-                <ul className="list-section">
-                  {dataFromParent.relatedTopics ? dataFromParent.relatedTopics.map((item, index) => (
+                {dataFromParent.relatedTopics.length > 0 ? <ul className="list-section">
+                  {dataFromParent.relatedTopics.map((item, index) => (
                     <li key={index} id={"id" + index}>
                       <Link
                         className="list-links">
                         {item.topicName}
                       </Link>
                     </li>
-                  )) : <p>No Links available</p>
+                  ))
                   }
-                </ul>
+                </ul> : <p>No Links available</p>}
                 <Button variant="primary" onClick={navigateBack}>
                   Back
                 </Button>

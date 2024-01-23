@@ -20,8 +20,8 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
               }
               <strong>{title}</strong>
             </section>
-            {isOpen && (<FaEdit />)
-            }
+            {/* {isOpen && (<FaEdit />)
+            } */}
           </div>
         </h2>
       </div>
