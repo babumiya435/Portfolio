@@ -5,10 +5,7 @@
         "topicNumber": "nodejs",
         "topicDescription": "Learn and practice basic to advance Node JS skills",
         "topicImg": "Nodejs.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Node JS Important Questions/Topics",
@@ -282,10 +279,7 @@
         "topicNumber": "expressjs",
         "topicDescription": "Learn and practice basic to advance Express JS skills",
         "topicImg": "Expressjs.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Introduction to Express JS",
@@ -351,10 +345,7 @@
         "topicNumber": "redux",
         "topicDescription": "Learn and practice basic to advance Redux skills",
         "topicImg": "Redux.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Redux Definition",
@@ -413,10 +404,7 @@
         "topicNumber": "cp",
         "topicDescription": "Is used to learn and practice basic to advance C skills",
         "topicImg": "C.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "C Programming Definition",
@@ -553,10 +541,7 @@
         "topicNumber": "angular",
         "topicDescription": "Is used to learn and practice basic to advance Anguar skills",
         "topicImg": "Angular.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Angular Definition",
@@ -622,10 +607,7 @@
         "topicNumber": "reactjs",
         "topicDescription": "Is used to learn and practice basic to advance ReactJS skills",
         "topicImg": "React.svg",
-        "relatedTopics": [
-            "topic1",
-            "topic2"
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "ReactJS Definition",
