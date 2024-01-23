@@ -25,7 +25,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>BABU MIYA MOHAMMAD</h3>
           <h3>INDIA</h3>
-          {/* <img src={myImg} className="made-with-react-svg" alt="avatar" /> */}
+          <img src={myImg} className="made-with-react-svg" alt="avatar" />
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
