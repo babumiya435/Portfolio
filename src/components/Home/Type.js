@@ -12,7 +12,7 @@ function Type() {
           "ReactJS Developer",
           "NextJS Developer",
           "Javascript Developer",
-          // "Full Stack Developer",
+          "Full Stack Developer",
         ],
         autoStart: true,
         loop: true,
