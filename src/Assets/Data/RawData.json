@@ -83,56 +83,62 @@
                                     "2. What are some commonly used timing features of Node.js?",
                                     "3. How would you define the term I/O?",
                                     "4. How is Node.js most frequently used?",
-                                    "5. Explain the difference between frontend and backend development?"
+                                    "5. Explain the difference between frontend and backend development?",
+                                    "6. What are some commonly used timing features of Node.js?",
+                                    "7. What is fork in node JS?",
+                                    "8. How many types of API functions are there in Node.js?",
+                                    "9. List down the two arguments that async.queue takes as input?",
+                                    "10. What is the purpose of module.exports?",
+                                    "11. What tools can be used to assure consistent code style?"
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. What are some commonly used timing features of Node.js?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. Explain callback in Node.js. , What are the advantages of using promises instead of callbacks?", "What are the advantages of using promises instead of callbacks?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. What is fork in node JS?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. How many types of API functions are there in Node.js?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. List down the two arguments that async.queue takes as input?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. What is the purpose of module.exports?"
+                                    
                                 ]
                             },
                             {
                                 "paraId" : "3",
                                 "paraTitle": "",
                                 "paraContent" : [
-                                    "1. What tools can be used to assure consistent code style?"
+                                    
                                 ]
                             },
                             {
