@@ -326,20 +326,13 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Node JS Important Questions/Topics</h2>",
+                        "sectionName": "<h2>Node JS Definition</h2>",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is NodeJs",
+                                "paraTitle": "Node JS Definition",
                                 "paraContent": [
-                                    "1. What Is NodeJs ? 1"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent": [
-                                    "2. Is NodeJS is single threaded ? 1"
+                                    "Node JS Definition"
                                 ]
                             }
                         ],
