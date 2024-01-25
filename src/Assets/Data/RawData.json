@@ -34,7 +34,12 @@
                                 "paraId": "0",
                                 "paraTitle": "Usefull Links",
                                 "paraContent": [
-                                    "https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions"
+                                    "https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions",
+                                    "https://www.turing.com/interview-questions/node-js",
+                                    "https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/",
+                                    "https://intellipaat.com/blog/interview-question/node-js-interview-questions/",
+                                    "https://www.toptal.com/nodejs/interview-questions",
+                                    "https://www.geeksforgeeks.org/nodejs-interview-questions-and-answers-beginner-level/"
                                 ]
                             },
                             {
