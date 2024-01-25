@@ -31,9 +31,16 @@
                         "sectionName": "<h2>Node JS Important Questions/Topics</h2>",
                         "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
+                                "paraTitle": "Usefull Links",
+                                "paraContent": [
+                                    "https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
                                 "paraTitle": "What Is NodeJs",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is NodeJs ?",
                                     "2. What is Node.js and how it works?",
                                     "3. How is Node.js better than other frameworks most popularly used?",
@@ -43,42 +50,42 @@
                                 ]
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "NPM role in nodejs",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. How do you manage packages in your node.js project?",
                                     "2. What is NPM?",
                                     "3. What are the modules in Node.js?"
                                 ]
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "Nodejs basic project",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. How do you create a simple server in Node.js that returns Hello World?"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. Why is Node.js single-threaded?",
                                     "2. If Node.js is single-threaded, then how does it handle concurrency?"
                                 ]
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "Callbacks in Nodejs",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What is a first class function in Javascript?",
                                     "2. Explain callback in Node.js",
                                     "3. What are the advantages of using promises instead of callbacks?"
                                 ]
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "Other Questions",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. Explain the steps how “Control Flow” controls the functions calls?",
                                     "2. What are some commonly used timing features of Node.js?",
                                     "3. How would you define the term I/O?",
@@ -89,146 +96,207 @@
                                     "8. How many types of API functions are there in Node.js?",
                                     "9. List down the two arguments that async.queue takes as input?",
                                     "10. What is the purpose of module.exports?",
-                                    "11. What tools can be used to assure consistent code style?"
+                                    "11. What tools can be used to assure consistent code style?",
+                                    "14. Why is Node.js preferred over other backend technologies like Java and PHP?",
+                                    "15. What is the difference between Angular and Node.js?",
+                                    "16. Which database is more popularly used with Node.js?",
+                                    "17. What are some of the most commonly used libraries in Node.js?",
+                                    "18. What are the pros and cons of Node.js?",
+                                    "19. What is the command used to import external libraries?",
+                                    "20. What does event-driven programming mean?",
+                                    "21. What is an Event Loop in Node.js?",
+                                    "22. Differentiate between process.nextTick() and setImmediate()?",
+                                    "23. What is an EventEmitter in Node.js?",
+                                    "24. What are the two types of API functions in Node.js?",
+                                    "25. What is the package.json file?",
+                                    "26. How would you use a URL module in Node.js?",
+                                    "27. What is the Express.js package?",
+                                    "28. How do you create a simple Express.js application?",
+                                    "29. What are streams in Node.js?",
+                                    "30. How do you install, update, and delete a dependency?",
+                                    "31. How do you create a simple server in Node.js that returns Hello World?",
+                                    "32. Explain asynchronous and non-blocking APIs in Node.js.",
+                                    "33. How do we implement async in Node.js?",
+                                    "34. What is a callback function in Node.js?",
+                                    "35. What is REPL in Node.js?",
+                                    "36. What is the control flow function?",
+                                    "37. How does control flow manage the function calls?",
+                                    "38. What is the difference between fork() and spawn() methods in Node.js?",
+                                    "39. What is the buffer class in Node.js?",
+                                    "40. What is piping in Node.js?",
+                                    "41. What are some of the flags used in the read/write operations in files?",
+                                    "42. How do you open a file in Node.js?",
+                                    "43. What is callback hell?",
+                                    "44. What is a reactor pattern in Node.js?",
+                                    "45. What is a test pyramid in Node.js?",
+                                    "46. For Node.js, why does Google use the V8 engine?",
+                                    "47. Describe Node.js exit codes.",
+                                    "48. Explain the concept of middleware in Node.js.",
+                                    "49. What are the different types of HTTP requests?",
+                                    "50. How would you connect a MongoDB database to Node.js?",
+                                    "51. What is the purpose of NODE_ENV?",
+                                    "52. List the various Node.js timing features.",
+                                    "53. What is WASI, and why is it being introduced?",
+                                    "54. What is a first-class function in Javascript?",
+                                    "55. How do you manage packages in your Node.Js project?",
+                                    "56. How is Node.js better than other frameworks?",
+                                    "57. What is a fork in node JS?",
+                                    "58. List down the two arguments that async. First, does the queue take as input?",
+                                    "59. What is the purpose of the module.exports?",
+                                    "60. What tools can be used to assure consistent code style?",
+                                    "61. What is the difference between JavaScript and Node.js?",
+                                    "62. What is the difference between asynchronous and synchronous functions?",
+                                    "63. What are the asynchronous tasks that should occur in an event loop?",
+                                    "64. What is the order of execution in control flow statements?",
+                                    "65. What are the input arguments for an asynchronous queue?",
+                                    "66. Are there any disadvantages to using Node.js?",
+                                    "67. What is the primary reason for using the event-based model in Node.js?",
+                                    "68. What is the difference between Node.js and Ajax?",
+                                    "69. What is the advantage of using Node.js?",
+                                    "70. Does Node run on Windows?",
+                                    "71. Can you access DOM in Node?",
+                                    "72. Why is Node.JS quickly gaining attention from JAVA programmers?",
+                                    "73. What are the Challenges with Node.js?",
+                                    "74. What is 'non-blocking' in node.js?",
+                                    "75. How does Node.js overcome the problem of blocking I/O operations?",
+                                    "76. How can we use async await in node.js?",
+                                    "77. Why should you separate the Express app and server?",
+                                    "78. Explain the concept of stub in Node.js.",
+                                    "79. What is the framework that is used majorly in Node.js today?",
+                                    "80. What are the security implementations that are present in Node.js?",
+                                    "81. What is Libuv?",
+                                    "82. What are global objects in Node.js?",
+                                    "83. Why is assert used in Node.js?",
+                                    "84. Why is ExpressJS used?",
+                                    "85. What is the use of the connect module in Node.js?",
+                                    "86. What's the difference between 'front-end' and 'back-end' development?",
+                                    "87. What are LTS releases of Node.js?",
+                                    "88. What do you understand about ESLint?",
+                                    "89. Define the concept of the test pyramid. Please explain the process of implementing them in terms of HTTP APIs.",
+                                    "90. How does Node.js handle the child threads?",
+                                    "91. What is an Event Emitter in Node.js?",
+                                    "92. How to Enhance Node.js Performance through Clustering?",
+                                    "93. What is a thread pool, and which library handles it in Node.js?",
+                                    "94. How are worker threads different from clusters?",
+                                    "95. How to measure the duration of async operations?",
+                                    "96. How to measure the performance of async operations?",
+                                    "97. What are the types of streams available in Node.js?",
+                                    "98. What is meant by tracing in Node.js?",
+                                    "99. Where is package.json used in Node.js?",
+                                    "100. What is the difference between readFile and createReadStream in Node.js?",
+                                    "101. What is the use of the crypto module in Node.js?",
+                                    "102. What is a passport in Node.js?",
+                                    "103. How to get information about a file in Node.js?",
+                                    "104. How does the DNS lookup function work in Node.js?",
+                                    "105. What is the difference between setImmediate() and setTimeout()?",
+                                    "106. Explain the concept of Punycode in Node.js.",
+                                    "107. Does Node.js provide any Debugger?",
+                                    "108. Is cryptography supported in Node.js?",
+                                    "109. Why do you think you are the right fit for this Node.js role?",
+                                    "110. Do you have any past Node.js work experience?",
+                                    "111. Do you have any experience working in the same industry as ours?",
+                                    "112. Do you have any certification to boost your candidature for this Node.js role?"
                                 ]
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             },
                             {
-                                "paraId" : "3",
+                                "paraId": "3",
                                 "paraTitle": "",
-                                "paraContent" : [
-                                    
-                                ]
+                                "paraContent": []
                             }
                         ],
                         "sectionId": "Introduction to Node JS",
                         "sectionCode": "Introduction to Node JS",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             },
@@ -256,23 +324,23 @@
                         "sectionName": "<h2>Node JS Important Questions/Topics</h2>",
                         "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is NodeJs",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is NodeJs ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is NodeJS is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to Node JS",
                         "sectionCode": "Introduction to Node JS",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -320,25 +388,25 @@
                 "contentSections": [
                     {
                         "sectionName": "<h2>Introduction to Express JS</h2>",
-                        "sectionContent":  [
+                        "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is Express JS",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is Express JS ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is Express JS is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is Express JS is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to Express JS",
                         "sectionCode": "Introduction to Express JS",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -388,16 +456,16 @@
                         "sectionName": "<h2>Redux Important Questions/Topics</h2>",
                         "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is Redux",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is NodeJs ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to Redux",
                         "sectionCode": "Introduction to Redux",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -445,25 +513,25 @@
                 "contentSections": [
                     {
                         "sectionName": "<h2>Introduction to C Programming</h2>",
-                        "sectionContent":  [
+                        "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is C Programming",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is C Programming ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is C Programming is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is C Programming is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to C Programming",
                         "sectionCode": "Introduction to C Programming",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -516,25 +584,25 @@
                 "contentSections": [
                     {
                         "sectionName": "Javascript Definition Section 1",
-                        "sectionContent":  [
+                        "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is Javascript",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is Javascript ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is Javascript is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is Javascript is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Javascript Section 1",
                         "sectionCode": "Javascript Definition Section Content Code 1",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -582,25 +650,25 @@
                 "contentSections": [
                     {
                         "sectionName": "<h2>Introduction to Angular</h2>",
-                        "sectionContent":  [
+                        "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is Angular",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is Angular ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is Angular is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is Angular is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to Angular",
                         "sectionCode": "Introduction to Angular",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -648,25 +716,25 @@
                 "contentSections": [
                     {
                         "sectionName": "<h2>Introduction to ReactJS</h2>",
-                        "sectionContent":  [
+                        "sectionContent": [
                             {
-                                "paraId" : "0",
+                                "paraId": "0",
                                 "paraTitle": "What Is ReactJS",
-                                "paraContent" : [
+                                "paraContent": [
                                     "1. What Is ReactJS ? 1"
                                 ]
                             },
                             {
-                                "paraId" : "1",
+                                "paraId": "1",
                                 "paraTitle": "Is ReactJS is single threaded",
-                                "paraContent" : [
+                                "paraContent": [
                                     "2. Is ReactJS is single threaded ? 1"
                                 ]
                             }
                         ],
                         "sectionId": "Introduction to ReactJS",
                         "sectionCode": "Introduction to ReactJS",
-                        "sectionCodeImg":"url"
+                        "sectionCodeImg": "url"
                     }
                 ]
             }
@@ -685,4 +753,3 @@
         ]
     }
 ]
-  
