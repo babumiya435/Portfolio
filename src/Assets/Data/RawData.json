@@ -1,5 +1,76 @@
 [
     {
+        "topicName": "Java Script",
+        "topicId": "js",
+        "topicNumber": "js",
+        "topicDescription": "Learn and practice basic to advance Javascript skills",
+        "topicImg": "Javascript.svg",
+        "relatedTopics": [
+            {
+                "topicNumber": 1,
+                "topicName": "C Programming"
+            },
+            {
+                "topicNumber": 3,
+                "topicName": "Angular"
+            },
+            {
+                "topicNumber": 4,
+                "topicName": "ReactJS"
+            }
+        ],
+        "topicContent": [
+            {
+                "contentName": "Javascript Definition",
+                "contentId": "JavascriptDefinition",
+                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Javascript Definition Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Javascript",
+                                "paraContent": [
+                                    "1. What Is Javascript ? 1"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Is Javascript is single threaded",
+                                "paraContent": [
+                                    "2. Is Javascript is single threaded ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Javascript Section 1",
+                        "sectionCode": "Javascript Definition Section Content Code 1",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Javascript Definition",
+                "contentId": "JavascriptDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
         "topicName": "Node JS",
         "topicId": "nodejs",
         "topicNumber": "nodejs",
@@ -357,72 +428,6 @@
         ]
     },
     {
-        "topicName": "Svelte",
-        "topicId": "svelte",
-        "topicNumber": "svelte",
-        "topicDescription": "Learn and practice basic to advance Svelte skills",
-        "topicImg": "Svelte.svg",
-        "relatedTopics": [],
-        "topicContent": [
-            {
-                "contentName": "Introduction to Svelte",
-                "contentId": "SvelteDefinition",
-                "content": "Svelte",
-                "contentRelatedCode": "Svelte Content Code",
-                "otherContentLinks": [
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "<h2>Introduction to Svelte</h2>",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Usefull Links",
-                                "paraContent": [
-                                    "https://svelte.dev/blog/frameworks-without-the-framework"
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What and Why Is Svelte",
-                                "paraContent": [
-                                    "And once your app is up and running, according to js-framework-benchmark Svelte is fast as heck. It's faster than React. It's faster than Vue. It's faster than Angular, or Ember, or Ractive, or Preact, or Riot, or Mithril. It's competitive with Inferno, which is probably the fastest UI framework in the world, for now"
-                                ]
-                            }
-                        ],
-                        "sectionId": "Introduction to Express JS",
-                        "sectionCode": "Introduction to Express JS",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
-                "content": "Video",
-                "contentRelatedCode": "Javascript Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
         "topicName": "Express JS",
         "topicId": "expressjs",
         "topicNumber": "expressjs",
@@ -479,202 +484,6 @@
             {
                 "contentName": "C Programming Definition",
                 "contentId": "CProgrammingDefinition",
-                "content": "Video",
-                "contentRelatedCode": "Javascript Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
-        "topicName": "Redux",
-        "topicId": "redux",
-        "topicNumber": "redux",
-        "topicDescription": "Learn and practice basic to advance Redux skills",
-        "topicImg": "Redux.svg",
-        "relatedTopics": [],
-        "topicContent": [
-            {
-                "contentName": "Redux Definition",
-                "contentId": "ReduxDefinition",
-                "content": "Redux",
-                "contentRelatedCode": "Redux Content Code",
-                "otherContentLinks": [
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "<h2>Redux Important Questions/Topics</h2>",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is Redux",
-                                "paraContent": [
-                                    "1. What Is NodeJs ? 1"
-                                ]
-                            }
-                        ],
-                        "sectionId": "Introduction to Redux",
-                        "sectionCode": "Introduction to Redux",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "Redux Definition",
-                "contentId": "ReduxDefinition",
-                "content": "Video",
-                "contentRelatedCode": "Redux Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
-        "topicName": "C Programming",
-        "topicId": "cp",
-        "topicNumber": "cp",
-        "topicDescription": "Learn and practice basic to advance C skills",
-        "topicImg": "C.svg",
-        "relatedTopics": [],
-        "topicContent": [
-            {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
-                "content": "The C programming language is a procedural and general-purpose language that provides low-level access to system memory. A program written in C must be run through a C compiler to convert it into an executable that a computer can run.",
-                "contentRelatedCode": "C Programming Content Code",
-                "otherContentLinks": [
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "<h2>Introduction to C Programming</h2>",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is C Programming",
-                                "paraContent": [
-                                    "1. What Is C Programming ? 1"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Is C Programming is single threaded",
-                                "paraContent": [
-                                    "2. Is C Programming is single threaded ? 1"
-                                ]
-                            }
-                        ],
-                        "sectionId": "Introduction to C Programming",
-                        "sectionCode": "Introduction to C Programming",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
-                "content": "Video",
-                "contentRelatedCode": "Javascript Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
-        "topicName": "Java Script",
-        "topicId": "js",
-        "topicNumber": "js",
-        "topicDescription": "Learn and practice basic to advance Javascript skills",
-        "topicImg": "Javascript.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
-        "topicContent": [
-            {
-                "contentName": "Javascript Definition",
-                "contentId": "JavascriptDefinition",
-                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
-                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "Javascript Definition Section 1",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is Javascript",
-                                "paraContent": [
-                                    "1. What Is Javascript ? 1"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Is Javascript is single threaded",
-                                "paraContent": [
-                                    "2. Is Javascript is single threaded ? 1"
-                                ]
-                            }
-                        ],
-                        "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Definition Section Content Code 1",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "Javascript Definition",
-                "contentId": "JavascriptDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
@@ -809,6 +618,132 @@
                 "contentId": "ReactJSDefinition",
                 "content": "Video",
                 "contentRelatedCode": "ReactJS Content Code",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Redux",
+        "topicId": "redux",
+        "topicNumber": "redux",
+        "topicDescription": "Learn and practice basic to advance Redux skills",
+        "topicImg": "Redux.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Redux Definition",
+                "contentId": "ReduxDefinition",
+                "content": "Redux",
+                "contentRelatedCode": "Redux Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Redux Important Questions/Topics</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Redux",
+                                "paraContent": [
+                                    "1. What Is NodeJs ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Redux",
+                        "sectionCode": "Introduction to Redux",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Redux Definition",
+                "contentId": "ReduxDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Redux Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Svelte",
+        "topicId": "svelte",
+        "topicNumber": "svelte",
+        "topicDescription": "Learn and practice basic to advance Svelte skills",
+        "topicImg": "Svelte.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Introduction to Svelte",
+                "contentId": "SvelteDefinition",
+                "content": "Svelte",
+                "contentRelatedCode": "Svelte Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Introduction to Svelte</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Usefull Links",
+                                "paraContent": [
+                                    "https://svelte.dev/blog/frameworks-without-the-framework"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What and Why Is Svelte",
+                                "paraContent": [
+                                    "Svelte is a free and open-source front-end component framework and language created by Rich Harris and maintained by the Svelte core team members.",
+                                    "And once your app is up and running, according to js-framework-benchmark Svelte is fast as heck. It's faster than React. It's faster than Vue. It's faster than Angular, or Ember, or Ractive, or Preact, or Riot, or Mithril. It's competitive with Inferno, which is probably the fastest UI framework in the world, for now"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Express JS",
+                        "sectionCode": "Introduction to Express JS",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
