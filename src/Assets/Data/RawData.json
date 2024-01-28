@@ -357,6 +357,72 @@
         ]
     },
     {
+        "topicName": "Svelte",
+        "topicId": "svelte",
+        "topicNumber": "svelte",
+        "topicDescription": "Learn and practice basic to advance Svelte skills",
+        "topicImg": "Svelte.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Introduction to Svelte",
+                "contentId": "SvelteDefinition",
+                "content": "Svelte",
+                "contentRelatedCode": "Svelte Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Introduction to Svelte</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Usefull Links",
+                                "paraContent": [
+                                    "https://svelte.dev/blog/frameworks-without-the-framework"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What and Why Is Svelte",
+                                "paraContent": [
+                                    "And once your app is up and running, according to js-framework-benchmark Svelte is fast as heck. It's faster than React. It's faster than Vue. It's faster than Angular, or Ember, or Ractive, or Preact, or Riot, or Mithril. It's competitive with Inferno, which is probably the fastest UI framework in the world, for now"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Express JS",
+                        "sectionCode": "Introduction to Express JS",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "C Programming Definition",
+                "contentId": "CProgrammingDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
         "topicName": "Express JS",
         "topicId": "expressjs",
         "topicNumber": "expressjs",
