@@ -71,6 +71,70 @@
         ]
     },
     {
+        "topicName": "Type Script",
+        "topicId": "ts",
+        "topicNumber": "ts",
+        "topicDescription": "Learn and practice basic to advance Typescript skills",
+        "topicImg": "Typescript.svg",
+        "relatedTopics": [
+            {
+                "topicNumber": 1,
+                "topicName": "C Programming"
+            },
+            {
+                "topicNumber": 3,
+                "topicName": "Angular"
+            },
+            {
+                "topicNumber": 4,
+                "topicName": "ReactJS"
+            }
+        ],
+        "topicContent": [
+            {
+                "contentName": "Typescript Definition",
+                "contentId": "TypescriptDefinition",
+                "content": "Typescript",
+                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Typescript Definition Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Typescript",
+                                "paraContent": [
+                                    "1. What Is Typescript ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "JavTypescriptascript Section 1",
+                        "sectionCode": "Typescript Definition Section Content Code 1",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Typescript Definition",
+                "contentId": "TypescriptDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Typescript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
         "topicName": "Data Structures and Algorithms",
         "topicId": "dsa",
         "topicNumber": "dsa",
