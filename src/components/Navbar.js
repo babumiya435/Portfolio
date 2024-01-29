@@ -19,13 +19,14 @@ import { IoDocumentAttachOutline } from "react-icons/io5";
 import { SiFuturelearn } from "react-icons/si";
 import { FaLaptopCode } from "react-icons/fa";
 import { GrDocumentDownload } from "react-icons/gr";
+import LikeCounter from "./likeCounter";
 
 function NavBar() {
   const location = useLocation();
   const path = location.pathname.slice(1) ? location.pathname.slice(1) : "home";
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
-  
+
   const [selectedItem, setSelectedItem] = useState(path);
 
   useEffect(() => {
@@ -64,6 +65,9 @@ function NavBar() {
         <Navbar.Brand href="/" className="d-flex">
           <img src={myImg} className="img-fluid logo" alt="avatar" />
         </Navbar.Brand>
+        <Navbar.Brand>
+          <LikeCounter />
+        </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -76,15 +80,15 @@ function NavBar() {
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
-            <Nav.Item  className={`nav-item ${selectedItem === 'home' ? 'selected' : ''}`}
-            onClick={() => handleItemClick('home')}>
+            <Nav.Item className={`nav-item ${selectedItem === 'home' ? 'selected' : ''}`}
+              onClick={() => handleItemClick('home')}>
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className={`nav-item ${selectedItem === 'about' ? 'selected' : ''}`}
-          onClick={() => handleItemClick('about')}>
+              onClick={() => handleItemClick('about')}>
               <Nav.Link
                 as={Link}
                 to="/about"
@@ -95,7 +99,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item className={`nav-item ${selectedItem === 'projects' ? 'selected' : ''}`}
-          onClick={() => handleItemClick('projects')}>
+              onClick={() => handleItemClick('projects')}>
               <Nav.Link
                 as={Link}
                 to="/projects"
@@ -109,7 +113,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item className={`nav-item ${selectedItem === 'resume' ? 'selected' : ''}`}
-          onClick={() => handleItemClick('resume')}>
+              onClick={() => handleItemClick('resume')}>
               <Nav.Link
                 as={Link}
                 to="/resume"
@@ -120,7 +124,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item className={`nav-item ${selectedItem === 'tech-learning' ? 'selected' : ''}`}
-          onClick={() => handleItemClick('tech-learning')}>
+              onClick={() => handleItemClick('tech-learning')}>
               <Nav.Link
                 as={Link}
                 to="/tech-learning"
