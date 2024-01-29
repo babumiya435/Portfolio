@@ -754,65 +754,6 @@
         ]
     },
     {
-        "topicName": "Redux",
-        "topicId": "redux",
-        "topicNumber": "redux",
-        "topicDescription": "Learn and practice basic to advance Redux skills",
-        "topicImg": "Redux.svg",
-        "relatedTopics": [],
-        "topicContent": [
-            {
-                "contentName": "Redux Definition",
-                "contentId": "ReduxDefinition",
-                "content": "Redux",
-                "contentRelatedCode": "Redux Content Code",
-                "otherContentLinks": [
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "<h2>Redux Important Questions/Topics</h2>",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is Redux",
-                                "paraContent": [
-                                    "1. What Is NodeJs ? 1"
-                                ]
-                            }
-                        ],
-                        "sectionId": "Introduction to Redux",
-                        "sectionCode": "Introduction to Redux",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "Redux Definition",
-                "contentId": "ReduxDefinition",
-                "content": "Video",
-                "contentRelatedCode": "Redux Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
         "topicName": "Svelte",
         "topicId": "svelte",
         "topicNumber": "svelte",
@@ -872,6 +813,183 @@
                 "contentId": "CProgrammingDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Javascript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Rxjs",
+        "topicId": "rxjs",
+        "topicNumber": "rxjs",
+        "topicDescription": "Learn and practice basic to advance Rxjs skills",
+        "topicImg": "Rxjs.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Rxjs Definition",
+                "contentId": "RxjsDefinition",
+                "content": "Rxjs",
+                "contentRelatedCode": "Rxjs Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Rxjs Important Questions/Topics</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Rxjs",
+                                "paraContent": [
+                                    "1. What Is Rxjs ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Rxjs",
+                        "sectionCode": "Introduction to Rxjs",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Rxjs Definition",
+                "contentId": "RxjsDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Rxjs Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Ngrx",
+        "topicId": "ngrx",
+        "topicNumber": "ngrx",
+        "topicDescription": "Learn and practice basic to advance Ngrx skills",
+        "topicImg": "Ngrx.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Ngrx Definition",
+                "contentId": "NgrxDefinition",
+                "content": "Ngrx",
+                "contentRelatedCode": "Ngrx Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Ngrx Important Questions/Topics</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Ngrx",
+                                "paraContent": [
+                                    "1. What Is Ngrx ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Ngrx",
+                        "sectionCode": "Introduction to Ngrx",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Ngrx Definition",
+                "contentId": "NgrxDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Ngrx Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
+        "topicName": "Redux",
+        "topicId": "redux",
+        "topicNumber": "redux",
+        "topicDescription": "Learn and practice basic to advance Redux skills",
+        "topicImg": "Redux.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Redux Definition",
+                "contentId": "ReduxDefinition",
+                "content": "Redux",
+                "contentRelatedCode": "Redux Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Redux Important Questions/Topics</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Redux",
+                                "paraContent": [
+                                    "1. What Is Redux ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Redux",
+                        "sectionCode": "Introduction to Redux",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Redux Definition",
+                "contentId": "ReduxDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Redux Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
