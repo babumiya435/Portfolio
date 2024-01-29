@@ -996,5 +996,64 @@
                 ]
             }
         ]
+    },
+    {
+        "topicName": "Vercel",
+        "topicId": "vercel",
+        "topicNumber": "vercel",
+        "topicDescription": "Learn and practice basic to advance Vercel skills",
+        "topicImg": "Vercel.svg",
+        "relatedTopics": [],
+        "topicContent": [
+            {
+                "contentName": "Vercel Definition",
+                "contentId": "VercelDefinition",
+                "content": "Vercel",
+                "contentRelatedCode": "Vercel Content Code",
+                "otherContentLinks": [
+                    {
+                        "topicNumber": 2,
+                        "topicName": "Java Script"
+                    },
+                    {
+                        "topicNumber": 3,
+                        "topicName": "Angular"
+                    },
+                    {
+                        "topicNumber": 4,
+                        "topicName": "ReactJS"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "<h2>Vercel Important Questions/Topics</h2>",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is Vercel",
+                                "paraContent": [
+                                    "1. What Is Vercel ? 1"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Introduction to Vercel",
+                        "sectionCode": "Introduction to Vercel",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "Vercel Definition",
+                "contentId": "VercelDefinition",
+                "content": "Video",
+                "contentRelatedCode": "Vercel Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
     }
 ]
