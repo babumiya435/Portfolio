@@ -825,7 +825,7 @@
         "topicId": "rxjs",
         "topicNumber": "rxjs",
         "topicDescription": "Learn and practice basic to advance Rxjs skills",
-        "topicImg": "Rxjs.svg",
+        "topicImg": "RXJS.svg",
         "relatedTopics": [],
         "topicContent": [
             {
@@ -884,7 +884,7 @@
         "topicId": "ngrx",
         "topicNumber": "ngrx",
         "topicDescription": "Learn and practice basic to advance Ngrx skills",
-        "topicImg": "Ngrx.svg",
+        "topicImg": "NGRX.svg",
         "relatedTopics": [],
         "topicContent": [
             {
