@@ -65,9 +65,9 @@ function NavBar() {
         <Navbar.Brand href="/" className="d-flex">
           <img src={myImg} className="img-fluid logo" alt="avatar" />
         </Navbar.Brand>
-        <Navbar.Brand>
+        {/* <Navbar.Brand>
           <LikeCounter />
-        </Navbar.Brand>
+        </Navbar.Brand> */}
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
