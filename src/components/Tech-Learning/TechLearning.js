@@ -33,7 +33,15 @@ const TechLearning = () => {
 
   return (
     <div>
-      <Container fluid className="tech-learning-section">
+      <Container className="tech-learning-section">
+        <h1 className="project-heading">
+          My Recent <strong className="purple">Works </strong>
+        </h1>
+        <p style={{ color: "white" }}>
+          Here are a few projects I've worked on recently.
+        </p>
+      </Container>
+      <Container fluid className="tech-learning-section pt-20">
         {data.map((item, index) => (
           <Row key={index} className="card-style">
             <Col md={4} className="tech-learning-card">
