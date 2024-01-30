@@ -33,20 +33,48 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Definition Section 1",
+                        "sectionName": "Javascript Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Javascript",
+                                "paraTitle": "What Is 'Javascript'",
                                 "paraContent": [
-                                    "1. What Is Javascript ? 1"
+                                    "What Is 'Javascript'"
                                 ]
                             },
                             {
                                 "paraId": "1",
-                                "paraTitle": "Is Javascript is single threaded",
+                                "paraTitle": "Why 'JavaScript' is required and its importance",
                                 "paraContent": [
-                                    "2. Is Javascript is single threaded ? 1"
+                                    "Why 'JavaScript' is required and its importance"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after 'JavaScript'",
+                                "paraContent": [
+                                    "Before and after 'JavaScript'"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of 'JavaScript'",
+                                "paraContent": [
+                                    "Real-time use cases or implementations of 'JavaScript'"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    "How to answer or what to answer in an interview"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    "Follow-up questions and brief answers"
                                 ]
                             }
                         ],
