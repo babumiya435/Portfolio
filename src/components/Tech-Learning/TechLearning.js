@@ -35,10 +35,10 @@ const TechLearning = () => {
     <div>
       <Container className="tech-learning-section">
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My Recent <strong className="purple">Tech Learnings </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here a few Technical Concepts I am Learning and Practiced recently.
         </p>
       </Container>
       <Container fluid className="tech-learning-section pt-20">
