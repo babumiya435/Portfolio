@@ -1120,3 +1120,7 @@ button:focus {
 .made-with-react-svg {
   width: 40% !important;
 }
+
+.pt-20 {
+  padding-top: 20px !important;
+}
