@@ -18,7 +18,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="my-tech-blogs.png"
+              imgPath="project_one.png"
               isBlog={false}
               isProject={true}
               title="My-Tech-Blogs ( In-progress )"
