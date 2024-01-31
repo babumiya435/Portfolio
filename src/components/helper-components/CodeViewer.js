@@ -19,12 +19,11 @@ function CodeViewer(props) {
   return (
     <div className="container">
       <SyntaxHighlighter language="javascript"
-        style={atomDark}
+        style={docco}
         className={"syntax-highlighter"}
         useInlineStyles={true}
-        showLineNumbers={true}
-        lineNumberStyle={{ minWidth: calcMinLineNumberWidth(props.contentRelatedCode) }}
-        wrapLines={false}
+        showLineNumbers={false}
+        wrapLines={true}
       >
         {props.contentRelatedCode}
       </SyntaxHighlighter>
