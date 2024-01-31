@@ -42,7 +42,7 @@ const TechLearning = () => {
             My Recent <strong className="purple">Tech Learnings </strong>
           </h1>
           <p style={{ color: "white" }}>
-          Here are a few technical concepts I am currently learning and practicing:
+          Here are a few <strong className="purple">Tech Stacks </strong>I am currently learning and practicing.
         </p>
         </Container>
         <Container fluid className="tech-learning-section pt-20">
