@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../Projects/ProjectCards";
 import data from "../../Assets/Data/RawData.json";
 import axios from 'axios';
+import Particle from "../Particle";
 
 const TechLearning = () => {
 
@@ -33,33 +34,34 @@ const TechLearning = () => {
 
   return (
     <div>
-      <Container className="tech-learning-section">
-        <h1 className="project-heading">
-          My Recent <strong className="purple">Tech Learnings </strong>
-        </h1>
-        <p style={{ color: "white" }}>
+      <Container fluid className="tech-learning-section">
+        <Particle />
+        <Container className="tech-learning-section pt-20">
+          {/* <Particle /> */}
+          <h1 className="project-heading">
+            My Recent <strong className="purple">Tech Learnings </strong>
+          </h1>
+          <p style={{ color: "white" }}>
           Here are a few technical concepts I am currently learning and practicing:
         </p>
+        </Container>
+        <Container fluid className="tech-learning-section pt-20">
+          {data.map((item, index) => (
+            <Row key={index} className="card-style">
+              <Col md={4} className="tech-learning-card">
+                <ProjectCard
+                  imgPath={item.topicImg}
+                  isBlog={true}
+                  title={item.topicName}
+                  description={item.topicDescription}
+                  demoLink={"/content-details/" + item.topicNumber}
+                  data={item}
+                />
+              </Col>
+            </Row>
+          ))}
+        </Container>
       </Container>
-      <Container fluid className="tech-learning-section pt-20">
-        {data.map((item, index) => (
-          <Row key={index} className="card-style">
-            <Col md={4} className="tech-learning-card">
-              <ProjectCard
-                imgPath={item.topicImg}
-                isBlog={true}
-                title={item.topicName}
-                description={item.topicDescription}
-                demoLink={"/content-details/" + item.topicNumber}
-                data={item}
-              />
-            </Col>
-          </Row>
-        ))}
-      </Container>
-      {/* <Container fluid className="tech-learning-section">
-        <pre>{JSON.stringify(jsonData, null, 2)}</pre>
-      </Container> */}
     </div>
   );
 }

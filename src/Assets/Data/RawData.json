@@ -24,7 +24,7 @@
                 "contentName": "Javascript Definition",
                 "contentId": "JavascriptDefinition",
                 "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
-                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
+                "contentRelatedCode": "function greet(name) {\n  console.log('Hello, ' + name + '!');\n}\n\ngreet('World');",
                 "contentLinks": [
                     {
                         "linkName": "GFG",
@@ -79,7 +79,7 @@
                             }
                         ],
                         "sectionId": "Javascript Section 1",
-                        "sectionCode": "Javascript Definition Section Content Code 1",
+                        "sectionCode": "// App.js\n\nimport React from 'react';\nimport './App.css'; // Import styles\n\nfunction App() {\n  return (\n    <div className='app'>\n      <header className='app-header'>\n        <h1>Welcome to My React App</h1>\n        <p>This is a simple React.js example.</p>\n      </header>\n    </div>\n  );\n}\n\nexport default App;",
                         "sectionCodeImg": "url"
                     }
                 ]
