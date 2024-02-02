@@ -50,9 +50,9 @@ function About() {
 
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <h1 className="project-heading">
-          My <strong className="purple">GitHub</strong> Data
-        </h1>
-        <Col md={4} className="gitHubData">
+            My <strong className="purple">GitHub</strong> Data
+          </h1>
+          <Col md={4} className="gitHubData">
             <Tilt>
               <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=babumiya435&show_icons=true" height={500} width={500} className="img-fluid my-pic-mt" />
             </Tilt>
