@@ -136,9 +136,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Typescript",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Typescript ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -200,9 +235,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is DSA",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "DSA"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -529,6 +599,48 @@
                         "sectionId": "Introduction to Node JS",
                         "sectionCode": "Introduction to Node JS",
                         "sectionCodeImg": "url"
+                    },
+                    {
+                        "paraId": "0",
+                        "paraTitle": "What Is ''",
+                        "paraContent": [
+                            ""
+                        ]
+                    },
+                    {
+                        "paraId": "1",
+                        "paraTitle": "Why '' is required and its importance",
+                        "paraContent": [
+                            ""
+                        ]
+                    },
+                    {
+                        "paraId": "1",
+                        "paraTitle": "Before and after ''",
+                        "paraContent": [
+                            ""
+                        ]
+                    },
+                    {
+                        "paraId": "1",
+                        "paraTitle": "Real-time use cases or implementations of ''",
+                        "paraContent": [
+                            ""
+                        ]
+                    },
+                    {
+                        "paraId": "1",
+                        "paraTitle": "How to answer or what to answer in an interview",
+                        "paraContent": [
+                            ""
+                        ]
+                    },
+                    {
+                        "paraId": "1",
+                        "paraTitle": "Follow-up questions and brief answers",
+                        "paraContent": [
+                            ""
+                        ]
                     }
                 ]
             },
@@ -616,16 +728,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Express JS",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Express JS ? 1"
+                                    ""
                                 ]
                             },
                             {
                                 "paraId": "1",
-                                "paraTitle": "Is Express JS is single threaded",
+                                "paraTitle": "Why '' is required and its importance",
                                 "paraContent": [
-                                    "2. Is Express JS is single threaded ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -682,16 +822,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Angular",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Angular ? 1"
+                                    ""
                                 ]
                             },
                             {
                                 "paraId": "1",
-                                "paraTitle": "Is Angular is single threaded",
+                                "paraTitle": "Why '' is required and its importance",
                                 "paraContent": [
-                                    "2. Is Angular is single threaded ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -748,16 +916,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ReactJS",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is ReactJS ? 1"
+                                    ""
                                 ]
                             },
                             {
                                 "paraId": "1",
-                                "paraTitle": "Is ReactJS is single threaded",
+                                "paraTitle": "Why '' is required and its importance",
                                 "paraContent": [
-                                    "2. Is ReactJS is single threaded ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -821,10 +1017,45 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "What and Why Is Svelte",
+                                "paraTitle": "What is Svelte",
                                 "paraContent": [
                                     "Svelte is a free and open-source front-end component framework and language created by Rich Harris and maintained by the Svelte core team members.",
                                     "And once your app is up and running, according to js-framework-benchmark Svelte is fast as heck. It's faster than React. It's faster than Vue. It's faster than Angular, or Ember, or Ractive, or Preact, or Riot, or Mithril. It's competitive with Inferno, which is probably the fastest UI framework in the world, for now"
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -881,9 +1112,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Rxjs",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Rxjs ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -940,9 +1206,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Ngrx",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Ngrx ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -999,9 +1300,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Redux",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Redux ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
@@ -1058,9 +1394,44 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is Vercel",
+                                "paraTitle": "What Is ''",
                                 "paraContent": [
-                                    "1. What Is Vercel ? 1"
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Why '' is required and its importance",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Real-time use cases or implementations of ''",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "How to answer or what to answer in an interview",
+                                "paraContent": [
+                                    ""
+                                ]
+                            },
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Follow-up questions and brief answers",
+                                "paraContent": [
+                                    ""
                                 ]
                             }
                         ],
