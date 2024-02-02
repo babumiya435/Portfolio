@@ -39,7 +39,7 @@ const TechLearning = () => {
         <Container className="tech-learning-section pt-20">
           {/* <Particle /> */}
           <h1 className="project-heading">
-            My Recent <strong className="purple">Tech Learnings </strong>
+            My Recent <strong className="purple">Tech Learnings </strong>  ( In-progress )
           </h1>
           <p style={{ color: "white" }}>
           Here are a few <strong className="purple">Tech Stacks </strong>I am currently learning and practicing.
