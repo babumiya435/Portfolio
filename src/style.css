@@ -1124,3 +1124,10 @@ button:focus {
 .pt-20 {
   padding-top: 20px !important;
 }
+
+.gitHubData {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
