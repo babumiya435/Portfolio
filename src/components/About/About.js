@@ -52,12 +52,12 @@ function About() {
           <h1 className="project-heading">
             My <strong className="purple">GitHub</strong> Data
           </h1>
-          <Col md={4} className="gitHubData">
+          <Col md={6} className="gitHubData">
             <Tilt>
               <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=babumiya435&show_icons=true" height={500} width={500} className="img-fluid my-pic-mt" />
             </Tilt>
           </Col>
-          <Col md={4} className="gitHubData">
+          <Col md={6} className="gitHubData">
             <Tilt >
               <img src="https://github-readme-streak-stats.herokuapp.com/?user=babumiya435&" height={500} width={500} className="img-fluid my-pic-mt" alt="babumiya" />
             </Tilt>
