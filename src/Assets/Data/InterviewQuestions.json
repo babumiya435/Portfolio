@@ -36,6 +36,13 @@
                             "reactjs": [
                                 ""
                             ]
+                        },
+                        {
+                            "id": "other",
+                            "other": [
+                                "1. Knowledge of containerization environment Docker/Kubernetes.",
+                                "2. Knowledge in using OAuth or JWT to secure API."
+                            ]
                         }
                     ]
                 }
