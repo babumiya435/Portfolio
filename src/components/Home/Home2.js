@@ -4,7 +4,6 @@ import myImg from "../../Assets/my-pics/moba0222.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -103,7 +102,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/babumiya435"
+                  href="https://twitter.com/babumiyatcs"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
