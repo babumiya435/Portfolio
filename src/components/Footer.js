@@ -8,6 +8,7 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaSquareThreads } from "react-icons/fa6";
 import myImg from "../Assets/svg/made-with-react.svg";
+import { FaXTwitter } from "react-icons/fa6";
 
 function Footer() {
   let date = new Date();
@@ -66,7 +67,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <FaXTwitter />
               </a>
             </li>
             <li className="social-icons">
