@@ -9,6 +9,7 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaSquareThreads } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 
 function Home2() {
   return (
@@ -107,12 +108,12 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <FaXTwitter />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/babumiya435"
+                  href="https://www.threads.net/@iam_sameer_md_"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
