@@ -63,7 +63,13 @@
                                     "How to answer or what to answer in an interview"
                                 ]
                             },
-                            
+                            {
+                                "paraId": "1",
+                                "paraTitle": "Before and after 'JavaScript' & Other ways of implementation",
+                                "paraContent": [
+                                    "Before and after 'JavaScript' & Other ways of implementation"
+                                ]
+                            },
                             {
                                 "paraId": "1",
                                 "paraTitle": "Follow-up questions and brief answers",
