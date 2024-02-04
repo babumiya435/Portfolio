@@ -51,13 +51,6 @@
                             },
                             {
                                 "paraId": "1",
-                                "paraTitle": "Before and after 'JavaScript'",
-                                "paraContent": [
-                                    "Before and after 'JavaScript'"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
                                 "paraTitle": "Real-time use cases or implementations of 'JavaScript'",
                                 "paraContent": [
                                     "Real-time use cases or implementations of 'JavaScript'"
@@ -70,6 +63,7 @@
                                     "How to answer or what to answer in an interview"
                                 ]
                             },
+                            
                             {
                                 "paraId": "1",
                                 "paraTitle": "Follow-up questions and brief answers",
@@ -79,7 +73,7 @@
                             }
                         ],
                         "sectionId": "Javascript Section 1",
-                        "sectionCode": "// App.js\n\nimport React from 'react';\nimport './App.css'; // Import styles\n\nfunction App() {\n  return (\n    <div className='app'>\n      <header className='app-header'>\n        <h1>Welcome to My React App</h1>\n        <p>This is a simple React.js example.</p>\n      </header>\n    </div>\n  );\n}\n\nexport default App;",
+                        "sectionCode": "1.javascript",
                         "sectionCodeImg": "url"
                     }
                 ]
