@@ -3,7 +3,7 @@
         "topicName": "Java Script",
         "topicId": "js",
         "topicNumber": "js",
-        "topicDescription": "Learn and practice basic to advance Javascript skills",
+        "topicDescription": "Learn and practice basic to advance JavaScript skills",
         "topicImg": "Javascript.svg",
         "relatedTopics": [
             {
@@ -21,8 +21,8 @@
         ],
         "topicContent": [
             {
-                "contentName": "Javascript Definition",
-                "contentId": "JavascriptDefinition",
+                "contentName": "JavaScript Definition",
+                "contentId": "JavaScriptDefinition",
                 "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
                 "contentRelatedCode": "function greet(name) {\n  console.log('Hello, ' + name + '!');\n}\n\ngreet('World');",
                 "contentLinks": [
@@ -33,13 +33,13 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Javascript Definition",
+                        "sectionName": "JavaScript Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is 'Javascript'",
+                                "paraTitle": "What Is 'JavaScript'",
                                 "paraContent": [
-                                    "What Is 'Javascript'"
+                                    "What Is 'JavaScript'"
                                 ]
                             },
                             {
@@ -78,8 +78,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "Javascript Section 1",
-                        "sectionCode": "1.javascript",
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -87,10 +87,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "Javascript Definition",
-                "contentId": "JavascriptDefinition",
+                "contentName": "JavaScript Definition",
+                "contentId": "JavaScriptDefinition",
                 "content": "Video",
-                "contentRelatedCode": "Javascript Content",
+                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -285,10 +285,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "Javascript Definition",
-                "contentId": "JavascriptDefinition",
+                "contentName": "JavaScript Definition",
+                "contentId": "JavaScriptDefinition",
                 "content": "Video",
-                "contentRelatedCode": "Javascript Content",
+                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -379,7 +379,7 @@
                                 "paraId": "3",
                                 "paraTitle": "Callbacks in Nodejs",
                                 "paraContent": [
-                                    "1. What is a first class function in Javascript?",
+                                    "1. What is a first class function in JavaScript?",
                                     "2. Explain callback in Node.js",
                                     "3. What are the advantages of using promises instead of callbacks?"
                                 ]
@@ -439,7 +439,7 @@
                                     "51. What is the purpose of NODE_ENV?",
                                     "52. List the various Node.js timing features.",
                                     "53. What is WASI, and why is it being introduced?",
-                                    "54. What is a first-class function in Javascript?",
+                                    "54. What is a first-class function in JavaScript?",
                                     "55. How do you manage packages in your Node.Js project?",
                                     "56. How is Node.js better than other frameworks?",
                                     "57. What is a fork in node JS?",
@@ -687,7 +687,7 @@
                 "contentName": "C Programming Definition",
                 "contentId": "CProgrammingDefinition",
                 "content": "Video",
-                "contentRelatedCode": "Javascript Content",
+                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -781,7 +781,7 @@
                 "contentName": "C Programming Definition",
                 "contentId": "CProgrammingDefinition",
                 "content": "Video",
-                "contentRelatedCode": "Javascript Content",
+                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -1071,7 +1071,7 @@
                 "contentName": "C Programming Definition",
                 "contentId": "CProgrammingDefinition",
                 "content": "Video",
-                "contentRelatedCode": "Javascript Content",
+                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
