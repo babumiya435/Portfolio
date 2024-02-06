@@ -17,7 +17,7 @@
             ]
         },
         {
-            "paraId": "0",
+            "paraId": "1",
             "paraTitle": "What Is 'JavaScript'",
             "paraContent": [
                 "CELEBRATING 27 years of JavaScript",
@@ -35,38 +35,41 @@
             ]
         },
         {
-            "paraId": "1",
+            "paraId": "2",
             "paraTitle": "Why 'JavaScript' is required and its importance and What it do",
             "paraContent": [
                 ""
             ]
         },
         {
-            "paraId": "1",
+            "paraId": "3",
             "paraTitle": "Before and after ''",
             "paraContent": [
                 ""
             ]
         },
         {
-            "paraId": "1",
+            "paraId": "4",
             "paraTitle": "Real-time use cases or implementations of ''",
             "paraContent": [
                 ""
             ]
         },
         {
-            "paraId": "1",
+            "paraId": "5",
             "paraTitle": "How to answer or what to answer in an interview",
             "paraContent": [
                 ""
             ]
         },
         {
-            "paraId": "1",
+            "paraId": "6",
             "paraTitle": "Follow-up questions and brief answers",
             "paraContent": [
-                ""
+                "Why JS called Scripting or Programming Language?",
+                "Is JS is server side or client side language?",
+                "Why name is Javascript?",
+                "What is ECMAScript ?"
             ]
         }
     ]
