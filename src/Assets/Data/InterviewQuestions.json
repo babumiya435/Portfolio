@@ -47,6 +47,11 @@
                     ]
                 }
             ]
+        },
+        {
+            "chatGptQestionFormats": [
+                "create list of array strings :"
+            ]
         }
     ]
 }
