@@ -37,6 +37,22 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
+                                "paraTitle": "Usefull Links",
+                                "paraContent": [
+                                    "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
+                                    "https://www.w3schools.com/whatis/whatis_js.asp",
+                                    "https://www.geeksforgeeks.org/introduction-to-javascript/",
+                                    "https://en.wikipedia.org/wiki/JavaScript",
+                                    "https://www.hostinger.in/tutorials/what-is-javascript",
+                                    "https://www.semrush.com/blog/javascript/",
+                                    "https://www.tutorialspoint.com/javascript/javascript_overview.htm",
+                                    "https://aws.amazon.com/what-is/javascript/",
+                                    "https://www.javatpoint.com/javascript-tutorial",
+                                    "https://www.javascript.com/"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
                                 "paraTitle": "What Is 'JavaScript'",
                                 "paraContent": [
                                     "What Is 'JavaScript'"
