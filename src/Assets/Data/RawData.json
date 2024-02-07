@@ -101,7 +101,10 @@
                                 "paraId": "1",
                                 "paraTitle": "Follow-up questions and brief answers",
                                 "paraContent": [
-                                    "Follow-up questions and brief answers"
+                                    "Why JS called Scripting or Programming Language?",
+                                    "Is JS is server side or client side language?",
+                                    "Why name is Javascript?",
+                                    "What is ECMAScript ?"
                                 ]
                             }
                         ],
