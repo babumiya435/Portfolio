@@ -21,6 +21,64 @@
         ],
         "topicContent": [
             {
+                "contentName": "DSA Definition",
+                "contentId": "DSADefinition",
+                "content": "DSA",
+                "contentRelatedCode": "DSA",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "DSA Definition",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "What Is 'DSA'",
+                                "paraContent": [
+                                    "Introduction to Data Structures and Algorithms"
+                                ]
+                            }
+                        ],
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "DSA Usefull Links",
+                "contentId": "DSAUSefullLinks",
+                "content": "DSA",
+                "contentRelatedCode": "DSA",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "DSA Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "DSA Usefull Links",
+                                "paraContent": [
+                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                ]
+                            }
+                        ],
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
                 "contentName": "List of important topics in Data Structures and Algorithms (DSA)",
                 "contentId": "DSA",
                 "content": "DSA",
@@ -37,9 +95,50 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of important topics in Data Structures and Algorithms (DSA)",
+                                "paraTitle": "List of Basic Topics in DSA",
                                 "paraContent": [
-                                    ""
+                                    "1. Introduction to Data Structures and Algorithms: Understanding basic concepts and importance.",
+                                    "2. Time and Space Complexity Analysis: Big O notation, asymptotic analysis.",
+                                    "3. Arrays: Basic operations, accessing elements, dynamic arrays.",
+                                    "4. Linked Lists: Singly linked lists, doubly linked lists, circular linked lists, operations (insertion, deletion, traversal).",
+                                    "5. Stacks and Queues: Implementations, applications (stack-based algorithms, breadth-first search), complexities.",
+                                    "6. Trees: Binary trees, binary search trees, balanced trees (AVL, Red-Black), operations (insertion, deletion, traversal).",
+                                    "7. Graphs: Basics, representation (adjacency matrix, adjacency list), traversal algorithms (DFS, BFS).",
+                                    "8. Searching Algorithms: Linear search, binary search, interpolation search.",
+                                    "9. Sorting Algorithms: Bubble sort, selection sort, insertion sort, merge sort, quick sort, heap sort, counting sort, radix sort, bucket sort.",
+                                    "10. Hashing: Hash tables, hash functions, collision resolution techniques (chaining, open addressing)."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in DSA",
+                                "paraContent": [
+                                    "11. Dynamic Programming: Principles, memoization, tabulation, examples (fibonacci series, shortest path problems, longest common subsequence).",
+                                    "12. Greedy Algorithms: Principles, examples (Dijkstra's algorithm, Prim's algorithm, Huffman coding).",
+                                    "13. Backtracking: Principles, examples (N-Queens problem, Sudoku solver).",
+                                    "14. Trie (Prefix Tree): Construction, applications (autocomplete, dictionary).",
+                                    "15. Segment Trees and Fenwick Trees (Binary Indexed Trees): Range query and update operations, applications (interval sum, frequency counting).",
+                                    "16. Disjoint Set (Union-Find): Operations, applications (connected components, Kruskal's algorithm).",
+                                    "17. Advanced Graph Algorithms: Topological sorting, minimum spanning trees (Prim's and Kruskal's algorithms), shortest path algorithms (Dijkstra's, Bellman-Ford, Floyd-Warshall), network flow algorithms (Ford-Fulkerson, Edmonds-Karp).",
+                                    "18. String Algorithms: Pattern searching (KMP algorithm, Rabin-Karp algorithm), string matching (Levenshtein distance), suffix arrays and suffix trees.",
+                                    "19. Heuristic Search Algorithms: A* algorithm, simulated annealing.",
+                                    "20. Probabilistic Data Structures: Bloom filters, skip lists."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in DSA",
+                                "paraContent": [
+                                    "21. Persistent Data Structures: Immutable data structures.",
+                                    "22. Spatial Data Structures: Quad trees, k-d trees, R-trees.",
+                                    "23. Online Algorithms: Algorithms designed for processing data as it arrives.",
+                                    "24. Approximation Algorithms: Algorithms providing near-optimal solutions.",
+                                    "25. External Memory Algorithms: Algorithms optimized for disk-based storage.",
+                                    "26. Parallel Algorithms: Algorithms designed for parallel computing architectures.",
+                                    "27. Compressed Data Structures: Representing data structures with reduced memory usage.",
+                                    "28. Machine Learning with Algorithms: Applying algorithms to machine learning tasks (clustering, classification, regression).",
+                                    "29. Bioinformatics Algorithms: Algorithms for analyzing biological data (sequence alignment, genome assembly).",
+                                    "30. Quantum Algorithms: Algorithms designed for quantum computers."
                                 ]
                             }
                         ],
@@ -101,22 +200,6 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Usefull Links",
-                                "paraContent": [
-                                    "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
-                                    "https://www.w3schools.com/whatis/whatis_js.asp",
-                                    "https://www.geeksforgeeks.org/introduction-to-javascript/",
-                                    "https://en.wikipedia.org/wiki/JavaScript",
-                                    "https://www.hostinger.in/tutorials/what-is-javascript",
-                                    "https://www.semrush.com/blog/javascript/",
-                                    "https://www.tutorialspoint.com/javascript/javascript_overview.htm",
-                                    "https://aws.amazon.com/what-is/javascript/",
-                                    "https://www.javatpoint.com/javascript-tutorial",
-                                    "https://www.javascript.com/"
-                                ]
-                            },
-                            {
-                                "paraId": "0",
                                 "paraTitle": "What Is 'JavaScript'",
                                 "paraContent": [
                                     "CELEBRATING 27 years of JavaScript",
@@ -132,43 +215,91 @@
                                     "JavaScript was first known as LiveScript, but Netscape changed its name to JavaScript, possibly because of the excitement being generated by Java. JavaScript made its first appearance in Netscape 2.0 in 1995 with the name LiveScript. The general-purpose core of the language has been embedded in Netscape, Internet Explorer, and other web browsers.",
                                     "JavaScript is a programming language that developers use to make interactive webpages. From refreshing social media feeds to displaying animations and interactive maps, JavaScript functions can improve a website's user experience. As a client-side scripting language, it is one of the core technologies of the World Wide Web. For example, when browsing the internet, anytime you see an image carousel, a click-to-show dropdown menu, or dynamically changing element colors on a webpage, you see the effects of JavaScript."
                                 ]
-                            },
+                            }
+                        ],
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Usefull Links",
+                "contentId": "JavaScriptDefinition",
+                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+                "contentRelatedCode": "function greet(name) {\n  console.log('Hello, ' + name + '!');\n}\n\ngreet('World');",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Usefull Links",
+                        "sectionContent": [
                             {
-                                "paraId": "1",
-                                "paraTitle": "Why 'JavaScript' is required and its importance",
+                                "paraId": "0",
+                                "paraTitle": "JavaScript Usefull Links",
                                 "paraContent": [
-                                    "Why 'JavaScript' is required and its importance"
+                                    "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
+                                    "https://www.w3schools.com/whatis/whatis_js.asp",
+                                    "https://www.geeksforgeeks.org/introduction-to-javascript/",
+                                    "https://en.wikipedia.org/wiki/JavaScript",
+                                    "https://www.hostinger.in/tutorials/what-is-javascript",
+                                    "https://www.semrush.com/blog/javascript/",
+                                    "https://www.tutorialspoint.com/javascript/javascript_overview.htm",
+                                    "https://aws.amazon.com/what-is/javascript/",
+                                    "https://www.javatpoint.com/javascript-tutorial",
+                                    "https://www.javascript.com/"
                                 ]
-                            },
+                            }
+                        ],
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Basic to Advance JavaScript Topics",
+                "contentId": "JavaScriptDefinition",
+                "content": "JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page",
+                "contentRelatedCode": "function greet(name) {\n  console.log('Hello, ' + name + '!');\n}\n\ngreet('World');",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Basic to Advance JavaScript Topics",
+                        "sectionContent": [
                             {
                                 "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of 'JavaScript'",
+                                "paraTitle": "Basic to Advance JavaScript Topics",
                                 "paraContent": [
-                                    "Real-time use cases or implementations of 'JavaScript'"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    "How to answer or what to answer in an interview"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after 'JavaScript' & Other ways of implementation",
-                                "paraContent": [
-                                    "Before and after 'JavaScript' & Other ways of implementation"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    "Why JS called Scripting or Programming Language?",
-                                    "Is JS is server side or client side language?",
-                                    "Why name is Javascript?",
-                                    "What is ECMAScript ?"
+                                    "1. Basic Syntax and Data Types: Variables (var, let, const), Primitive data types (string, number, boolean), Arrays and objects, Operators (arithmetic, comparison, logical).",
+                                    "2. Control Flow: Conditional statements (if, else, else if), Loops (for, while, do...while), Switch statements.",
+                                    "3. Functions: Declaring functions, Function expressions vs. function declarations, Arrow functions, Higher-order functions, Closures.",
+                                    "4. Scope and Hoisting: Global scope vs. local scope, Variable hoisting.",
+                                    "5. Arrays and Array Methods: Iterating over arrays (e.g., forEach, map, filter), Modifying arrays (e.g., push, pop, splice), Array destructuring.",
+                                    "6. Objects: Creating objects, Accessing and modifying object properties, Object methods, Prototypes and inheritance, ES6 Classes.",
+                                    "7. Asynchronous JavaScript: Callbacks, Promises, async/await, Error handling in asynchronous code.",
+                                    "8. DOM Manipulation: Selecting elements, Modifying element content, attributes, and styles, Event handling, Creating and removing elements.",
+                                    "9. Browser APIs: Local Storage, Fetch API, Geolocation API, WebSockets, Canvas API.",
+                                    "10. ES6+ Features: Template literals, Destructuring, Default parameters, Rest and spread operators, Modules, let and const.",
+                                    "11. Error Handling: try...catch statements, Throwing and catching errors.",
+                                    "12. Regular Expressions: Pattern matching with RegExp, RegExp methods (test, exec, etc.).",
+                                    "13. Functional Programming: Higher-order functions, Pure functions, Immutability.",
+                                    "14. Testing: Unit testing with frameworks like Jest or Mocha, Testing libraries like React Testing Library or Enzyme (for React applications).",
+                                    "15. Debugging: Using browser developer tools, Console methods (console.log, console.error, etc.).",
+                                    "16. Performance Optimization: Minification and bundling, Lazy loading, Caching, Debouncing and throttling.",
+                                    "17. Security: Cross-site scripting (XSS) prevention, Cross-site request forgery (CSRF) prevention, Content Security Policy (CSP).",
+                                    "18. Frameworks and Libraries: React.js, Vue.js, Angular, Express.js (for server-side JavaScript), Node.js.",
+                                    "19. Package Managers: npm, Yarn.",
+                                    "20. Build Tools: Webpack, Babel, ESLint."
                                 ]
                             }
                         ],
@@ -214,10 +345,10 @@
         ],
         "topicContent": [
             {
-                "contentName": "Typescript Definition",
-                "contentId": "TypescriptDefinition",
-                "content": "Typescript",
-                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
+                "contentName": "Type Script Definition",
+                "contentId": "TypeScriptDefinition",
+                "content": "Type Script",
+                "contentRelatedCode": "Type Script",
                 "contentLinks": [
                     {
                         "linkName": "GFG",
@@ -226,53 +357,138 @@
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "Typescript Definition Section 1",
+                        "sectionName": "Type Script Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Type Script'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Type Script"
                                 ]
                             }
                         ],
-                        "sectionId": "JavTypescriptascript Section 1",
-                        "sectionCode": "Typescript Definition Section Content Code 1",
+                        "sectionId": "JavaScript Section 1",
+                        "sectionCode": "1.JavaScript",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Type Script Usefull Links",
+                "contentId": "Type ScriptUSefullLinks",
+                "content": "Type Script",
+                "contentRelatedCode": "Type Script",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Type Script Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Type Script Usefull Links",
+                                "paraContent": [
+                                    "https://www.typescriptlang.org/"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Type Script Section 1",
+                        "sectionCode": "1.Type Script",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Type Script",
+                "contentId": "TypeScript",
+                "content": "Type Script",
+                "contentRelatedCode": "Type Script",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "List of important topics in Type Script",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Type Script",
+                                "paraContent": [
+                                    "1. Types and Variables: Understanding basic data types (string, number, boolean).",
+                                    "2. Declaring variables with let, const, and var.",
+                                    "3. Type annotations and type inference.",
+                                    "4. Functions: Declaring functions with parameters and return types.",
+                                    "5. Optional and default parameters.",
+                                    "6. Arrow functions and their scoping rules.",
+                                    "7. Arrays and Tuples: Declaring arrays and their types.",
+                                    "8. Working with array methods and generics.",
+                                    "9. Understanding tuples and their usage.",
+                                    "10. Interfaces: Defining custom types with interfaces.",
+                                    "11. Optional properties and readonly properties.",
+                                    "12. Extending interfaces and intersection types.",
+                                    "13. Classes: Creating classes with properties and methods.",
+                                    "14. Constructors and access modifiers (public, private, protected).",
+                                    "15. Inheritance and method overriding."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Type Script",
+                                "paraContent": [
+                                    "16. Generics: Writing generic functions and classes.",
+                                    "17. Constraints on generic types.",
+                                    "18. Using built-in generic types like Array<T> and Promise<T>.",
+                                    "19. Enums: Defining and using enums.",
+                                    "20. Understanding numeric and string enums.",
+                                    "21. Reverse mappings in enums.",
+                                    "22. Type Assertion: Using type assertion to override the inferred type.",
+                                    "23. Understanding as keyword and <> syntax.",
+                                    "24. Type Aliases: Creating aliases with type.",
+                                    "25. Combining types using union (|) and intersection (&) operators.",
+                                    "26. Advanced Types: Conditional types.",
+                                    "27. Mapped types.",
+                                    "28. Type inference in conditional expressions."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Type Script",
+                                "paraContent": [
+                                    "29. Decorators: Writing custom decorators for classes, methods, and properties.",
+                                    "30. Common use cases like logging, caching, and validation.",
+                                    "31. Modules and Namespaces: Organizing code with modules and namespaces.",
+                                    "32. Understanding module loaders and bundlers.",
+                                    "33. Using import and export statements.",
+                                    "34. Asynchronous Programming: Promises and async/await syntax.",
+                                    "35. Error handling in asynchronous code.",
+                                    "36. Promise.all and Promise.race.",
+                                    "37. TypeScript Compiler Options: Configuring tsconfig.json.",
+                                    "38. Understanding compiler options like target, module, and strict.",
+                                    "39. TypeScript with Frameworks: Integrating TypeScript with popular frameworks like React, Angular, and Express.js.",
+                                    "40. Leveraging TypeScript features specific to each framework.",
+                                    "41. Error Handling: Custom error classes and error handling strategies.",
+                                    "42. Error boundaries in React applications.",
+                                    "43. TypeScript with Web APIs: Typing browser APIs like DOM, Fetch, and Local Storage.",
+                                    "44. Working with third-party libraries and typings.",
+                                    "45. TypeScript Best Practices: Using strict mode and enabling strict type checking.",
+                                    "46. Avoiding any type and type assertion wherever possible.",
+                                    "47. Writing clean, readable, and maintainable code.",
+                                    "48. Testing and Debugging: Writing unit tests with testing frameworks like Jest or Mocha.",
+                                    "49. Debugging TypeScript code using browser dev tools and IDE debuggers.",
+                                    "50. Continuous Integration and Deployment: Integrating TypeScript projects with CI/CD pipelines.",
+                                    "51. Automating code linting, testing, and deployment processes."
+                                ]
+                            }
+                        ],
+                        "sectionId": "Type Script Section 1",
+                        "sectionCode": "Type Script Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -300,378 +516,99 @@
         "relatedTopics": [],
         "topicContent": [
             {
-                "contentName": "Node JS Important Questions/Topics",
-                "contentId": "NodeJSImportantQuestionsTopics",
-                "content": "Node JS",
-                "contentRelatedCode": "Node JS Content Code",
-                "otherContentLinks": [
+                "contentName": "Node JS Definition",
+                "contentId": "Node JSDefinition",
+                "content": "NodeJS",
+                "contentRelatedCode": "Node JS",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Node JS Important Questions/Topics</h2>",
+                        "sectionName": "Node JS Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Usefull Links",
+                                "paraTitle": "What Is 'Node JS'",
                                 "paraContent": [
-                                    "https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions",
-                                    "https://www.turing.com/interview-questions/node-js",
-                                    "https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/",
-                                    "https://intellipaat.com/blog/interview-question/node-js-interview-questions/",
-                                    "https://www.toptal.com/nodejs/interview-questions",
-                                    "https://www.geeksforgeeks.org/nodejs-interview-questions-and-answers-beginner-level/"
+                                    "Introduction to Node JS"
                                 ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is NodeJs",
-                                "paraContent": [
-                                    "1. What Is NodeJs ?",
-                                    "2. What is Node.js and how it works?",
-                                    "3. How is Node.js better than other frameworks most popularly used?",
-                                    "4. What is Node.js? Where can you use it?",
-                                    "5. Why use Node.js?",
-                                    "6. How does Node.js work?"
-                                ]
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "NPM role in nodejs",
-                                "paraContent": [
-                                    "1. How do you manage packages in your node.js project?",
-                                    "2. What is NPM?",
-                                    "3. What are the modules in Node.js?"
-                                ]
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "Nodejs basic project",
-                                "paraContent": [
-                                    "1. How do you create a simple server in Node.js that returns Hello World?"
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Is NodeJS is single threaded",
-                                "paraContent": [
-                                    "1. Why is Node.js single-threaded?",
-                                    "2. If Node.js is single-threaded, then how does it handle concurrency?"
-                                ]
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "Callbacks in Nodejs",
-                                "paraContent": [
-                                    "1. What is a first class function in JavaScript?",
-                                    "2. Explain callback in Node.js",
-                                    "3. What are the advantages of using promises instead of callbacks?"
-                                ]
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "Other Questions",
-                                "paraContent": [
-                                    "1. Explain the steps how “Control Flow” controls the functions calls?",
-                                    "2. What are some commonly used timing features of Node.js?",
-                                    "3. How would you define the term I/O?",
-                                    "4. How is Node.js most frequently used?",
-                                    "5. Explain the difference between frontend and backend development?",
-                                    "6. What are some commonly used timing features of Node.js?",
-                                    "7. What is fork in node JS?",
-                                    "8. How many types of API functions are there in Node.js?",
-                                    "9. List down the two arguments that async.queue takes as input?",
-                                    "10. What is the purpose of module.exports?",
-                                    "11. What tools can be used to assure consistent code style?",
-                                    "14. Why is Node.js preferred over other backend technologies like Java and PHP?",
-                                    "15. What is the difference between Angular and Node.js?",
-                                    "16. Which database is more popularly used with Node.js?",
-                                    "17. What are some of the most commonly used libraries in Node.js?",
-                                    "18. What are the pros and cons of Node.js?",
-                                    "19. What is the command used to import external libraries?",
-                                    "20. What does event-driven programming mean?",
-                                    "21. What is an Event Loop in Node.js?",
-                                    "22. Differentiate between process.nextTick() and setImmediate()?",
-                                    "23. What is an EventEmitter in Node.js?",
-                                    "24. What are the two types of API functions in Node.js?",
-                                    "25. What is the package.json file?",
-                                    "26. How would you use a URL module in Node.js?",
-                                    "27. What is the Express.js package?",
-                                    "28. How do you create a simple Express.js application?",
-                                    "29. What are streams in Node.js?",
-                                    "30. How do you install, update, and delete a dependency?",
-                                    "31. How do you create a simple server in Node.js that returns Hello World?",
-                                    "32. Explain asynchronous and non-blocking APIs in Node.js.",
-                                    "33. How do we implement async in Node.js?",
-                                    "34. What is a callback function in Node.js?",
-                                    "35. What is REPL in Node.js?",
-                                    "36. What is the control flow function?",
-                                    "37. How does control flow manage the function calls?",
-                                    "38. What is the difference between fork() and spawn() methods in Node.js?",
-                                    "39. What is the buffer class in Node.js?",
-                                    "40. What is piping in Node.js?",
-                                    "41. What are some of the flags used in the read/write operations in files?",
-                                    "42. How do you open a file in Node.js?",
-                                    "43. What is callback hell?",
-                                    "44. What is a reactor pattern in Node.js?",
-                                    "45. What is a test pyramid in Node.js?",
-                                    "46. For Node.js, why does Google use the V8 engine?",
-                                    "47. Describe Node.js exit codes.",
-                                    "48. Explain the concept of middleware in Node.js.",
-                                    "49. What are the different types of HTTP requests?",
-                                    "50. How would you connect a MongoDB database to Node.js?",
-                                    "51. What is the purpose of NODE_ENV?",
-                                    "52. List the various Node.js timing features.",
-                                    "53. What is WASI, and why is it being introduced?",
-                                    "54. What is a first-class function in JavaScript?",
-                                    "55. How do you manage packages in your Node.Js project?",
-                                    "56. How is Node.js better than other frameworks?",
-                                    "57. What is a fork in node JS?",
-                                    "58. List down the two arguments that async. First, does the queue take as input?",
-                                    "59. What is the purpose of the module.exports?",
-                                    "60. What tools can be used to assure consistent code style?",
-                                    "61. What is the difference between JavaScript and Node.js?",
-                                    "62. What is the difference between asynchronous and synchronous functions?",
-                                    "63. What are the asynchronous tasks that should occur in an event loop?",
-                                    "64. What is the order of execution in control flow statements?",
-                                    "65. What are the input arguments for an asynchronous queue?",
-                                    "66. Are there any disadvantages to using Node.js?",
-                                    "67. What is the primary reason for using the event-based model in Node.js?",
-                                    "68. What is the difference between Node.js and Ajax?",
-                                    "69. What is the advantage of using Node.js?",
-                                    "70. Does Node run on Windows?",
-                                    "71. Can you access DOM in Node?",
-                                    "72. Why is Node.JS quickly gaining attention from JAVA programmers?",
-                                    "73. What are the Challenges with Node.js?",
-                                    "74. What is 'non-blocking' in node.js?",
-                                    "75. How does Node.js overcome the problem of blocking I/O operations?",
-                                    "76. How can we use async await in node.js?",
-                                    "77. Why should you separate the Express app and server?",
-                                    "78. Explain the concept of stub in Node.js.",
-                                    "79. What is the framework that is used majorly in Node.js today?",
-                                    "80. What are the security implementations that are present in Node.js?",
-                                    "81. What is Libuv?",
-                                    "82. What are global objects in Node.js?",
-                                    "83. Why is assert used in Node.js?",
-                                    "84. Why is ExpressJS used?",
-                                    "85. What is the use of the connect module in Node.js?",
-                                    "86. What's the difference between 'front-end' and 'back-end' development?",
-                                    "87. What are LTS releases of Node.js?",
-                                    "88. What do you understand about ESLint?",
-                                    "89. Define the concept of the test pyramid. Please explain the process of implementing them in terms of HTTP APIs.",
-                                    "90. How does Node.js handle the child threads?",
-                                    "91. What is an Event Emitter in Node.js?",
-                                    "92. How to Enhance Node.js Performance through Clustering?",
-                                    "93. What is a thread pool, and which library handles it in Node.js?",
-                                    "94. How are worker threads different from clusters?",
-                                    "95. How to measure the duration of async operations?",
-                                    "96. How to measure the performance of async operations?",
-                                    "97. What are the types of streams available in Node.js?",
-                                    "98. What is meant by tracing in Node.js?",
-                                    "99. Where is package.json used in Node.js?",
-                                    "100. What is the difference between readFile and createReadStream in Node.js?",
-                                    "101. What is the use of the crypto module in Node.js?",
-                                    "102. What is a passport in Node.js?",
-                                    "103. How to get information about a file in Node.js?",
-                                    "104. How does the DNS lookup function work in Node.js?",
-                                    "105. What is the difference between setImmediate() and setTimeout()?",
-                                    "106. Explain the concept of Punycode in Node.js.",
-                                    "107. Does Node.js provide any Debugger?",
-                                    "108. Is cryptography supported in Node.js?",
-                                    "109. Why do you think you are the right fit for this Node.js role?",
-                                    "110. Do you have any past Node.js work experience?",
-                                    "111. Do you have any experience working in the same industry as ours?",
-                                    "112. Do you have any certification to boost your candidature for this Node.js role?"
-                                ]
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "3",
-                                "paraTitle": "",
-                                "paraContent": []
                             }
                         ],
-                        "sectionId": "Introduction to Node JS",
-                        "sectionCode": "Introduction to Node JS",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "1.Node JS",
                         "sectionCodeImg": "url"
-                    },
-                    {
-                        "paraId": "0",
-                        "paraTitle": "What Is ''",
-                        "paraContent": [
-                            ""
-                        ]
-                    },
-                    {
-                        "paraId": "1",
-                        "paraTitle": "Why '' is required and its importance",
-                        "paraContent": [
-                            ""
-                        ]
-                    },
-                    {
-                        "paraId": "1",
-                        "paraTitle": "Before and after ''",
-                        "paraContent": [
-                            ""
-                        ]
-                    },
-                    {
-                        "paraId": "1",
-                        "paraTitle": "Real-time use cases or implementations of ''",
-                        "paraContent": [
-                            ""
-                        ]
-                    },
-                    {
-                        "paraId": "1",
-                        "paraTitle": "How to answer or what to answer in an interview",
-                        "paraContent": [
-                            ""
-                        ]
-                    },
-                    {
-                        "paraId": "1",
-                        "paraTitle": "Follow-up questions and brief answers",
-                        "paraContent": [
-                            ""
-                        ]
                     }
                 ]
             },
             {
-                "contentName": "Node JS Definition",
-                "contentId": "NodeJSDefinition",
+                "contentName": "Node JS Usefull Links",
+                "contentId": "NodeJSUSefullLinks",
                 "content": "Node JS",
-                "contentRelatedCode": "Node JS Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Node JS",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Node JS Definition</h2>",
+                        "sectionName": "Node JS Usefull Links",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Node JS Definition",
+                                "paraTitle": "Node JS Usefull Links",
                                 "paraContent": [
-                                    "Node JS Definition"
+                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Node JS",
-                        "sectionCode": "Introduction to Node JS",
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "1.Node JS",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Node JS",
+                "contentId": "Node JS",
+                "content": "Node JS",
+                "contentRelatedCode": "Node JS",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Node JS Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Node JS",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Node JS",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Node JS",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Node JS Section 1",
+                        "sectionCode": "Node JS Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
