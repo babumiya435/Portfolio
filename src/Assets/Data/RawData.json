@@ -1,5 +1,69 @@
 [
     {
+        "topicName": "Data Structures and Algorithms",
+        "topicId": "dsa",
+        "topicNumber": "dsa",
+        "topicDescription": "Learn and practice basic to advance DSA skills",
+        "topicImg": "DSA.svg",
+        "relatedTopics": [
+            {
+                "topicNumber": 1,
+                "topicName": "C Programming"
+            },
+            {
+                "topicNumber": 3,
+                "topicName": "Angular"
+            },
+            {
+                "topicNumber": 4,
+                "topicName": "ReactJS"
+            }
+        ],
+        "topicContent": [
+            {
+                "contentName": "List of important topics in Data Structures and Algorithms (DSA)",
+                "contentId": "DSA",
+                "content": "DSA",
+                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "DSA Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of important topics in Data Structures and Algorithms (DSA)",
+                                "paraContent": [
+                                    ""
+                                ]
+                            }
+                        ],
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "DSA Definition Section Content Code 1",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            }
+        ],
+        "topicVideoContent": [
+            {
+                "contentName": "JavaScript Definition",
+                "contentId": "JavaScriptDefinition",
+                "content": "Video",
+                "contentRelatedCode": "JavaScript Content",
+                "otherVideoContentLinks": [
+                    "link1",
+                    "link2"
+                ]
+            }
+        ]
+    },
+    {
         "topicName": "Java Script",
         "topicId": "js",
         "topicNumber": "js",
@@ -220,105 +284,6 @@
                 "contentId": "TypescriptDefinition",
                 "content": "Video",
                 "contentRelatedCode": "Typescript Content",
-                "otherVideoContentLinks": [
-                    "link1",
-                    "link2"
-                ]
-            }
-        ]
-    },
-    {
-        "topicName": "Data Structures and Algorithms",
-        "topicId": "dsa",
-        "topicNumber": "dsa",
-        "topicDescription": "Learn and practice basic to advance DSA skills",
-        "topicImg": "DSA.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
-        "topicContent": [
-            {
-                "contentName": "DSA",
-                "contentId": "DSA",
-                "content": "DSA",
-                "contentRelatedCode": "function addNumbers(a, b) { return a + b;}\nfunction subtractNumbers(a, b) { return a - b;}",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "DSA Section 1",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "What Is ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
-                                ]
-                            }
-                        ],
-                        "sectionId": "DSA Section 1",
-                        "sectionCode": "DSA Definition Section Content Code 1",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            }
-        ],
-        "topicVideoContent": [
-            {
-                "contentName": "JavaScript Definition",
-                "contentId": "JavaScriptDefinition",
-                "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
