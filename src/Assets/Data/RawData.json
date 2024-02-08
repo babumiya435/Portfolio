@@ -151,10 +151,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "JavaScript Definition",
-                "contentId": "JavaScriptDefinition",
+                "contentName": "DSA Definition",
+                "contentId": "DSADefinition",
                 "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
+                "contentRelatedCode": "DSA Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -616,10 +616,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
+                "contentName": "Nodejs Definition",
+                "contentId": "NodejsDefinition",
                 "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
+                "contentRelatedCode": "Nodejs Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
