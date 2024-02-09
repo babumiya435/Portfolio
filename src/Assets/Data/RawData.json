@@ -838,7 +838,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Angular Usefull Links",
                                 "paraContent": [
-                                    "Angular"
+                                    "(1) Angular Official Documentation: https://angular.io/docs",
+                                    "(2) FreeCodeCamp - Angular Tutorial for Beginners: https://www.freecodecamp.org/news/learn-angular-7-in-50-minutes-a-free-courses/",
+                                    "(3) Angular Crash Course by Traversy Media on YouTube: https://www.youtube.com/watch?v=3q4cLnlXf9o",
+                                    "(4) Angular Tutorial for Beginners: Learn Angular & TypeScript by Academind on YouTube: https://www.youtube.com/watch?v=htPYk6QxacQ",
+                                    "(5) Angular Tutorial - Learn Angular from Scratch by The Net Ninja on YouTube: https://www.youtube.com/watch?v=htPYk6QxacQ",
+                                    "(6) Udemy - Angular - The Complete Guide (2022 Edition): https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+                                    "(7) Pluralsight - Angular Path: https://www.pluralsight.com/paths/angular",
+                                    "(8) LinkedIn Learning - Learning Angular: https://www.linkedin.com/learning/learning-angular-2",
+                                    "(9) Medium - Angular articles and tutorials: https://medium.com/topic/angular",
+                                    "(10) GitHub - Angular repository: https://github.com/angular/angular"
                                 ]
                             }
                         ],
@@ -958,7 +967,16 @@
                                 "paraId": "0",
                                 "paraTitle": "ReactJS Usefull Links",
                                 "paraContent": [
-                                    "ReactJS"
+                                    "(1) React.js Official Documentation: https://reactjs.org/docs/getting-started.html",
+                                    "(2) FreeCodeCamp - React.js Tutorial for Beginners: https://www.freecodecamp.org/news/learn-react-js-in-a-minute/",
+                                    "(3) React.js Crash Course by Traversy Media on YouTube: https://www.youtube.com/watch?v=sBws8MSXN7A",
+                                    "(4) React.js Tutorial - Learn React.js Frontend Web Development: https://www.youtube.com/watch?v=DLX62G4lc44",
+                                    "(5) React.js Introduction by The Net Ninja on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR",
+                                    "(6) Udemy - React - The Complete Guide (incl Hooks, React Router, Redux): https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+                                    "(7) Pluralsight - React.js Path: https://www.pluralsight.com/paths/react",
+                                    "(8) LinkedIn Learning - Learning React.js: https://www.linkedin.com/learning/learning-react-js-5",
+                                    "(9) React.js Documentation: https://reactjs.org/docs/getting-started.html",
+                                    "(10) React.js - A JavaScript library for building user interfaces: https://github.com/facebook/react"
                                 ]
                             }
                         ],
@@ -1078,7 +1096,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Svelte Usefull Links",
                                 "paraContent": [
-                                    "Svelte"
+                                    "(1) Svelte Official Documentation: https://svelte.dev/docs",
+                                    "(2) Svelte Tutorial for Beginners by Traversy Media on YouTube: https://www.youtube.com/watch?v=ujbE0mzX-CU",
+                                    "(3) Svelte Tutorial - Building Web Applications with Svelte by Academind on YouTube: https://www.youtube.com/watch?v=itv4I5KAQbI",
+                                    "(4) Svelte Crash Course by The Net Ninja on YouTube: https://www.youtube.com/watch?v=uK2RnIzrQ0M",
+                                    "(5) Udemy - Svelte.js - The Complete Guide: https://www.udemy.com/course/sveltejs-the-complete-guide/",
+                                    "(6) Pluralsight - Building Web Applications with Svelte: https://www.pluralsight.com/courses/building-web-applications-svelte",
+                                    "(7) LinkedIn Learning - Learning Svelte.js: https://www.linkedin.com/learning/learning-svelte-js",
+                                    "(8) Medium - Svelte articles and tutorials: https://medium.com/topic/svelte",
+                                    "(9) GitHub - Svelte repository: https://github.com/sveltejs/svelte",
+                                    "(10) Svelte Society YouTube Channel: https://www.youtube.com/channel/UCn1Oap0zhN3I0k_-bQnGNzg"
                                 ]
                             }
                         ],
@@ -1198,7 +1225,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Rxjs Usefull Links",
                                 "paraContent": [
-                                    "Rxjs"
+                                    "(1) RxJS Official Documentation: https://rxjs.dev/guide/overview",
+                                    "(2) Learn RxJS - Free Interactive Tutorials: https://www.learnrxjs.io/",
+                                    "(3) RxJS Observable Course on Udemy: https://www.udemy.com/course/rxjs-reactive-programming/",
+                                    "(4) RxJS In Depth by Ben Lesh on YouTube: https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi",
+                                    "(5) Egghead.io - Reactive Programming and RxJS Course: https://egghead.io/courses/introduction-to-reactive-programming",
+                                    "(6) Pluralsight - RxJS Path: https://www.pluralsight.com/paths/rxjs",
+                                    "(7) LinkedIn Learning - Learning RxJS: https://www.linkedin.com/learning/learning-rxjs-2",
+                                    "(8) RxJS Observables Crash Course by Traversy Media on YouTube: https://www.youtube.com/watch?v=ei7FsoXKPl0",
+                                    "(9) Medium - RxJS articles and tutorials: https://medium.com/topic/rxjs",
+                                    "(10) GitHub - RxJS repository: https://github.com/ReactiveX/rxjs"
                                 ]
                             }
                         ],
@@ -1318,7 +1354,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Ngrx Usefull Links",
                                 "paraContent": [
-                                    "Ngrx"
+                                    "(1) Ngrx Official Documentation: https://ngrx.io/",
+                                    "(2) FreeCodeCamp - State Management with Ngrx for Angular: https://www.freecodecamp.org/news/angular-ngrx-store-and-effects-crash-course/",
+                                    "(3) Ngrx Store in 10 minutes - A Step-by-Step Guide: https://www.digitalocean.com/community/tutorials/angular-ngrx-store-redux-javascript",
+                                    "(4) Ngrx Crash Course - Building a Notes App: https://www.youtube.com/watch?v=5Kl0x8FqLws",
+                                    "(5) Pluralsight - Angular NgRx: Getting Started: https://www.pluralsight.com/courses/angular-ngrx-getting-started",
+                                    "(6) Udemy - NgRx (with Angular) - The Complete Guide: https://www.udemy.com/course/ngrx-course/",
+                                    "(7) Medium - Ngrx articles and tutorials: https://medium.com/tag/ngrx",
+                                    "(8) GitHub - Ngrx repository: https://github.com/ngrx/platform",
+                                    "(9) Egghead.io - Managing State in Angular with NgRx: https://egghead.io/courses/manage-state-in-angular-with-ngrx",
+                                    "(10) YouTube - Ngrx Store in Angular: https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDMbCxotAq2zke8g0Ahe__c"
                                 ]
                             }
                         ],
@@ -1438,7 +1483,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Redux Useful Links",
                                 "paraContent": [
-                                    "Redux"
+                                    "(1) Redux Official Documentation: https://redux.js.org/",
+                                    "(2) FreeCodeCamp - Learn Redux for Beginners: https://www.freecodecamp.org/news/learning-redux/",
+                                    "(3) Redux Tutorial - Learn Redux from Scratch by The Net Ninja on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG",
+                                    "(4) Redux Crash Course with React by Traversy Media on YouTube: https://www.youtube.com/watch?v=poQXNp9ItL4",
+                                    "(5) Redux Core Concepts by Dan Abramov on Egghead.io: https://egghead.io/courses/getting-started-with-redux",
+                                    "(6) Redux in Depth by Dave Ceddia on Egghead.io: https://egghead.io/courses/redux-in-depth",
+                                    "(7) Udemy - Modern React with Redux: https://www.udemy.com/course/react-redux/",
+                                    "(8) Pluralsight - Building Applications with React and Redux: https://www.pluralsight.com/courses/react-redux-react-router-es6",
+                                    "(9) LinkedIn Learning - Learning Redux: https://www.linkedin.com/learning/learning-redux",
+                                    "(10) Medium - Redux articles and tutorials: https://medium.com/topic/redux"
                                 ]
                             }
                         ],
@@ -1555,7 +1609,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Vercel Useful Links",
                                 "paraContent": [
-                                    "Vercel"
+                                    "(1) Vercel Documentation: https://vercel.com/docs",
+                                    "(2) Next.js Documentation (by Vercel): https://nextjs.org/docs",
+                                    "(3) Vercel YouTube Channel: https://www.youtube.com/c/VercelHQ",
+                                    "(4) Vercel Blog: https://vercel.com/blog",
+                                    "(5) Vercel Learning Center: https://vercel.com/learn",
+                                    "(6) Vercel GitHub Repository: https://github.com/vercel/vercel",
+                                    "(7) Vercel CLI Documentation: https://vercel.com/docs/cli",
+                                    "(8) Vercel Support Center: https://vercel.com/support",
+                                    "(9) Vercel Examples: https://github.com/vercel/examples",
+                                    "(10) Vercel Community Forums: https://github.com/vercel/feedback/discussions"
                                 ]
                             }
                         ],
