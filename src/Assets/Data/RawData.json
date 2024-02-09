@@ -43,8 +43,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "JavaScript Section 1",
-                        "sectionCode": "1.JavaScript",
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "1.DSA",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -72,8 +72,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "JavaScript Section 1",
-                        "sectionCode": "1.JavaScript",
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "1.DSA",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -367,8 +367,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "JavaScript Section 1",
-                        "sectionCode": "1.JavaScript",
+                        "sectionId": "Typescript Section 1",
+                        "sectionCode": "1.Typescript",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -636,73 +636,99 @@
         "relatedTopics": [],
         "topicContent": [
             {
-                "contentName": "Introduction to Express JS",
-                "contentId": "NodeJSDefinition",
-                "content": "Express JS",
-                "contentRelatedCode": "Express JS Content Code",
-                "otherContentLinks": [
+                "contentName": "Expressjs Definition",
+                "contentId": "ExpressjsDefinition",
+                "content": "Expressjs",
+                "contentRelatedCode": "Expressjs",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Introduction to Express JS</h2>",
+                        "sectionName": "Expressjs Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Expressjs'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Expressjs"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Express JS",
-                        "sectionCode": "Introduction to Express JS",
+                        "sectionId": "Expressjs Section 1",
+                        "sectionCode": "1.Expressjs",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Expressjs Usefull Links",
+                "contentId": "ExpressjsUSefullLinks",
+                "content": "Expressjs",
+                "contentRelatedCode": "Expressjs",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Expressjs Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Expressjs Usefull Links",
+                                "paraContent": [
+                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Expressjs Section 1",
+                        "sectionCode": "1.Expressjs",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Expressjs",
+                "contentId": "Expressjs",
+                "content": "Expressjs",
+                "contentRelatedCode": "Expressjs",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Expressjs Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Expressjs",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Expressjs",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Expressjs",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Expressjs Section 1",
+                        "sectionCode": "Expressjs Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -710,10 +736,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
+                "contentName": "Expressjs Definition",
+                "contentId": "ExpressjsDefinition",
                 "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
+                "contentRelatedCode": "Expressjs Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"

@@ -119,8 +119,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "JavaScript Section 1",
-                        "sectionCode": "1.JavaScript",
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "1.DSA",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -148,8 +148,8 @@
                                 ]
                             }
                         ],
-                        "sectionId": "JavaScript Section 1",
-                        "sectionCode": "1.JavaScript",
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "1.DSA",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -197,10 +197,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "JavaScript Definition",
-                "contentId": "JavaScriptDefinition",
+                "contentName": "DSA Definition",
+                "contentId": "DSADefinition",
                 "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
+                "contentRelatedCode": "DSA Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
