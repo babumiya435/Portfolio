@@ -98,7 +98,7 @@
         "topicContent": [
             {
                 "contentName": "DSA Definition",
-                "contentId": "DSADefinition",
+                "contentId": "DSA",
                 "content": "DSA",
                 "contentRelatedCode": "DSA",
                 "contentLinks": [
@@ -127,7 +127,7 @@
             },
             {
                 "contentName": "DSA Usefull Links",
-                "contentId": "DSAUSefullLinks",
+                "contentId": "DSA",
                 "content": "DSA",
                 "contentRelatedCode": "DSA",
                 "contentLinks": [
@@ -144,7 +144,7 @@
                                 "paraId": "0",
                                 "paraTitle": "DSA Usefull Links",
                                 "paraContent": [
-                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                    "DSA"
                                 ]
                             }
                         ],
@@ -198,7 +198,7 @@
         "topicVideoContent": [
             {
                 "contentName": "DSA Definition",
-                "contentId": "DSADefinition",
+                "contentId": "DSA",
                 "content": "Video",
                 "contentRelatedCode": "DSA Content",
                 "otherVideoContentLinks": [

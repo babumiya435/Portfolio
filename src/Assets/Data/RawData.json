@@ -68,7 +68,15 @@
                                 "paraId": "0",
                                 "paraTitle": "DSA Usefull Links",
                                 "paraContent": [
-                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                    "(1) GeeksforGeeks - Data Structures: https://www.geeksforgeeks.org/data-structures/",
+                                    "(2) GeeksforGeeks - Algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+                                    "(3) Coursera - Data Structures and Algorithms Specialization: https://www.coursera.org/specializations/data-structures-algorithms",
+                                    "(4) edX - Algorithmic Thinking: https://www.edx.org/course/algorithmic-thinking-1",
+                                    "(5) MIT OpenCourseWare - Introduction to Algorithms: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
+                                    "(6) HackerRank - Data Structures: https://www.hackerrank.com/domains/data-structures",
+                                    "(7) HackerRank - Algorithms: https://www.hackerrank.com/domains/algorithms",
+                                    "(8) Topcoder - Tutorials on Data Structures and Algorithms: https://www.topcoder.com/thrive/tutorials/",
+                                    "(9) LeetCode - Data Structures and Algorithms: https://leetcode.com/problemset/all/"
                                 ]
                             }
                         ],
@@ -242,16 +250,16 @@
                                 "paraId": "0",
                                 "paraTitle": "JavaScript Usefull Links",
                                 "paraContent": [
-                                    "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
-                                    "https://www.w3schools.com/whatis/whatis_js.asp",
-                                    "https://www.geeksforgeeks.org/introduction-to-javascript/",
-                                    "https://en.wikipedia.org/wiki/JavaScript",
-                                    "https://www.hostinger.in/tutorials/what-is-javascript",
-                                    "https://www.semrush.com/blog/javascript/",
-                                    "https://www.tutorialspoint.com/javascript/javascript_overview.htm",
-                                    "https://aws.amazon.com/what-is/javascript/",
-                                    "https://www.javatpoint.com/javascript-tutorial",
-                                    "https://www.javascript.com/"
+                                    "(1) FreeCodeCamp - Data Structures and Algorithms in JavaScript: https://www.freecodecamp.org/learn",
+                                    "(2) JavaScript Algorithms and Data Structures Masterclass by Colt Steele on Udemy: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/",
+                                    "(3) The Odin Project - JavaScript Data Structures and Algorithms: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript",
+                                    "(4) Coursera - Algorithms and Data Structures in JavaScript: https://www.coursera.org/courses?query=algorithms%20and%20data%20structures%20javascript",
+                                    "(5) HackerRank - JavaScript Data Structures: https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=javascript",
+                                    "(6) LeetCode - JavaScript Algorithms and Data Structures: https://leetcode.com/problemset/all/?search=javascript",
+                                    "(7) AlgoExpert - JavaScript Algorithms and Data Structures: https://www.algoexpert.io/product",
+                                    "(8) Educative.io - Grokking the Coding Interview: Patterns for Coding Questions (JavaScript): https://www.educative.io/courses/grokking-the-coding-interview",
+                                    "(9) JavaScript.info - Data Structures in JavaScript: https://javascript.info/data-structures",
+                                    "(10) Exercism - JavaScript Track: https://exercism.io/tracks/javascript"
                                 ]
                             }
                         ],
@@ -392,7 +400,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Type Script Usefull Links",
                                 "paraContent": [
-                                    "https://www.typescriptlang.org/"
+                                    "(1) TypeScript Documentation: https://www.typescriptlang.org/docs/",
+                                    "(2) TypeScript Handbook: https://www.typescriptlang.org/docs/handbook/intro.html",
+                                    "(3) FreeCodeCamp - TypeScript Tutorial for Beginners: https://www.freecodecamp.org/news/typescript-tutorial-for-beginners-1b93026fb7cc/",
+                                    "(4) TypeScript Deep Dive: https://basarat.gitbook.io/typescript/",
+                                    "(5) Pluralsight - TypeScript Path: https://www.pluralsight.com/paths/typescript",
+                                    "(6) TypeScript Exercises, Practice, Solution: https://www.w3resource.com/typescript-exercises/",
+                                    "(7) Codecademy - Learn TypeScript: https://www.codecademy.com/learn/learn-typescript",
+                                    "(8) Egghead.io - Introduction to TypeScript: https://egghead.io/courses/introduction-to-typescript",
+                                    "(9) LinkedIn Learning - Learning TypeScript: https://www.linkedin.com/learning/learning-typescript",
+                                    "(10) YouTube - TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E"
                                 ]
                             }
                         ],
@@ -563,7 +580,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Node JS Usefull Links",
                                 "paraContent": [
-                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                    "(1) Node.js Official Documentation: https://nodejs.org/en/docs/",
+                                    "(2) FreeCodeCamp - Node.js Tutorial for Beginners: https://www.freecodecamp.org/news/learn-node-js-in-a-day-node-js-tutorial-for-beginners/",
+                                    "(3) Node.js Tutorial by The Net Ninja on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+                                    "(4) Learn Node.js - Full Tutorial for Beginners by Mosh Hamedani on YouTube: https://www.youtube.com/watch?v=TlB_eWDSMt4",
+                                    "(5) NodeSchool: https://nodeschool.io/ - Provides interactive workshops for learning Node.js.",
+                                    "(6) Udemy - The Complete Node.js Developer Course: https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+                                    "(7) Pluralsight - Node.js Path: https://www.pluralsight.com/paths/node-js",
+                                    "(8) LinkedIn Learning - Node.js Essential Training: https://www.linkedin.com/learning/node-js-essential-training",
+                                    "(9) Node.js Design Patterns by Packt: https://www.packtpub.com/product/node-js-design-patterns-third-edition/9781839214110",
+                                    "(10) Express.js Official Documentation: https://expressjs.com/ - Express.js is a popular web application framework for Node.js."
                                 ]
                             }
                         ],
@@ -683,7 +709,16 @@
                                 "paraId": "0",
                                 "paraTitle": "Expressjs Usefull Links",
                                 "paraContent": [
-                                    "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                                    "(1) Express.js Official Documentation: https://expressjs.com/",
+                                    "(2) FreeCodeCamp - Express.js Tutorial for Beginners: https://www.freecodecamp.org/news/express-js-tutorial/",
+                                    "(3) Express.js Crash Course by Traversy Media on YouTube: https://www.youtube.com/watch?v=L72fhGm1tfE",
+                                    "(4) Express.js Tutorial: Building RESTful APIs with Node.js and Express by Academind on YouTube: https://www.youtube.com/watch?v=pKd0Rpw7O48",
+                                    "(5) Express.js Introduction by The Net Ninja on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+                                    "(6) Udemy - The Complete Node.js & Express.js Developer Course: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+                                    "(7) Pluralsight - Building Web Applications with Node.js and Express: https://www.pluralsight.com/courses/building-web-applications-nodejs-express",
+                                    "(8) LinkedIn Learning - Learning Express.js: https://www.linkedin.com/learning/learning-express-js",
+                                    "(9) Medium - Express.js articles and tutorials: https://medium.com/topic/expressjs",
+                                    "(10) GitHub - Express.js repository: https://github.com/expressjs/express"
                                 ]
                             }
                         ],
@@ -758,71 +793,97 @@
             {
                 "contentName": "Angular Definition",
                 "contentId": "AngularDefinition",
-                "content": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications.",
-                "contentRelatedCode": "Angular Content Code",
-                "otherContentLinks": [
+                "content": "Angular",
+                "contentRelatedCode": "Angular",
+                "contentLinks": [
                     {
-                        "topicNumber": 1,
-                        "topicName": "C Programming"
-                    },
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Introduction to Angular</h2>",
+                        "sectionName": "Angular Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Angular'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Angular"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Angular",
-                        "sectionCode": "Introduction to Angular",
+                        "sectionId": "Angular Section 1",
+                        "sectionCode": "1.Angular",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Angular Usefull Links",
+                "contentId": "AngularUSefullLinks",
+                "content": "Angular",
+                "contentRelatedCode": "Angular",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Angular Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Angular Usefull Links",
+                                "paraContent": [
+                                    "Angular"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Angular Section 1",
+                        "sectionCode": "1.Angular",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Angular",
+                "contentId": "Angular",
+                "content": "Angular",
+                "contentRelatedCode": "Angular",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Angular Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Angular",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Angular",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Angular",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Angular Section 1",
+                        "sectionCode": "Angular Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -852,71 +913,97 @@
             {
                 "contentName": "ReactJS Definition",
                 "contentId": "ReactJSDefinition",
-                "content": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
-                "contentRelatedCode": "ReactJS Content Code",
-                "otherContentLinks": [
+                "content": "ReactJS",
+                "contentRelatedCode": "ReactJS",
+                "contentLinks": [
                     {
-                        "topicNumber": 1,
-                        "topicName": "C Programming"
-                    },
-                    {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Introduction to ReactJS</h2>",
+                        "sectionName": "ReactJS Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'ReactJS'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to ReactJS"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to ReactJS",
-                        "sectionCode": "Introduction to ReactJS",
+                        "sectionId": "ReactJS Section 1",
+                        "sectionCode": "1.ReactJS",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "ReactJS Usefull Links",
+                "contentId": "ReactJSUSefullLinks",
+                "content": "ReactJS",
+                "contentRelatedCode": "ReactJS",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "ReactJS Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "ReactJS Usefull Links",
+                                "paraContent": [
+                                    "ReactJS"
+                                ]
+                            }
+                        ],
+                        "sectionId": "ReactJS Section 1",
+                        "sectionCode": "1.ReactJS",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in ReactJS",
+                "contentId": "ReactJS",
+                "content": "ReactJS",
+                "contentRelatedCode": "ReactJS",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "ReactJS Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in ReactJS",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in ReactJS",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in ReactJS",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "ReactJS Section 1",
+                        "sectionCode": "ReactJS Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -944,81 +1031,99 @@
         "relatedTopics": [],
         "topicContent": [
             {
-                "contentName": "Introduction to Svelte",
+                "contentName": "Svelte Definition",
                 "contentId": "SvelteDefinition",
                 "content": "Svelte",
-                "contentRelatedCode": "Svelte Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Svelte",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Introduction to Svelte</h2>",
+                        "sectionName": "Svelte Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Usefull Links",
+                                "paraTitle": "What Is 'Svelte'",
                                 "paraContent": [
-                                    "https://svelte.dev/blog/frameworks-without-the-framework"
+                                    "Introduction to Svelte"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Svelte Section 1",
+                        "sectionCode": "1.Svelte",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Svelte Usefull Links",
+                "contentId": "SvelteUSefullLinks",
+                "content": "Svelte",
+                "contentRelatedCode": "Svelte",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Svelte Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Svelte Usefull Links",
+                                "paraContent": [
+                                    "Svelte"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Svelte Section 1",
+                        "sectionCode": "1.Svelte",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Svelte",
+                "contentId": "Svelte",
+                "content": "Svelte",
+                "contentRelatedCode": "Svelte",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Svelte Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Svelte",
+                                "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "What is Svelte",
+                                "paraTitle": "List of Intermediate Topics in Svelte",
                                 "paraContent": [
-                                    "Svelte is a free and open-source front-end component framework and language created by Rich Harris and maintained by the Svelte core team members.",
-                                    "And once your app is up and running, according to js-framework-benchmark Svelte is fast as heck. It's faster than React. It's faster than Vue. It's faster than Angular, or Ember, or Ractive, or Preact, or Riot, or Mithril. It's competitive with Inferno, which is probably the fastest UI framework in the world, for now"
                                 ]
                             },
                             {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Svelte",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Express JS",
-                        "sectionCode": "Introduction to Express JS",
+                        "sectionId": "Svelte Section 1",
+                        "sectionCode": "Svelte Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -1026,10 +1131,10 @@
         ],
         "topicVideoContent": [
             {
-                "contentName": "C Programming Definition",
-                "contentId": "CProgrammingDefinition",
+                "contentName": "Svelte Definition",
+                "contentId": "SvelteDefinition",
                 "content": "Video",
-                "contentRelatedCode": "JavaScript Content",
+                "contentRelatedCode": "Svelte Content",
                 "otherVideoContentLinks": [
                     "link1",
                     "link2"
@@ -1047,72 +1152,98 @@
         "topicContent": [
             {
                 "contentName": "Rxjs Definition",
-                "contentId": "RxjsDefinition",
+                "contentId": "Rxjs",
                 "content": "Rxjs",
-                "contentRelatedCode": "Rxjs Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Rxjs",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Rxjs Important Questions/Topics</h2>",
+                        "sectionName": "Rxjs Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Rxjs'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Rxjs"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Rxjs",
-                        "sectionCode": "Introduction to Rxjs",
+                        "sectionId": "Rxjs Section 1",
+                        "sectionCode": "1.Rxjs",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Rxjs Usefull Links",
+                "contentId": "Rxjs",
+                "content": "Rxjs",
+                "contentRelatedCode": "Rxjs",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Rxjs Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Rxjs Usefull Links",
+                                "paraContent": [
+                                    "Rxjs"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Rxjs Section 1",
+                        "sectionCode": "1.Rxjs",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Rxjs",
+                "contentId": "Rxjs",
+                "content": "Rxjs",
+                "contentRelatedCode": "Rxjs",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Rxjs Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Rxjs",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Rxjs",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Rxjs",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Rxjs Section 1",
+                        "sectionCode": "Rxjs Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -1121,7 +1252,7 @@
         "topicVideoContent": [
             {
                 "contentName": "Rxjs Definition",
-                "contentId": "RxjsDefinition",
+                "contentId": "Rxjs",
                 "content": "Video",
                 "contentRelatedCode": "Rxjs Content",
                 "otherVideoContentLinks": [
@@ -1141,72 +1272,98 @@
         "topicContent": [
             {
                 "contentName": "Ngrx Definition",
-                "contentId": "NgrxDefinition",
+                "contentId": "Ngrx",
                 "content": "Ngrx",
-                "contentRelatedCode": "Ngrx Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Ngrx",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Ngrx Important Questions/Topics</h2>",
+                        "sectionName": "Ngrx Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Ngrx'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Ngrx"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Ngrx",
-                        "sectionCode": "Introduction to Ngrx",
+                        "sectionId": "Ngrx Section 1",
+                        "sectionCode": "1.Ngrx",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Ngrx Usefull Links",
+                "contentId": "Ngrx",
+                "content": "Ngrx",
+                "contentRelatedCode": "Ngrx",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Ngrx Usefull Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Ngrx Usefull Links",
+                                "paraContent": [
+                                    "Ngrx"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Ngrx Section 1",
+                        "sectionCode": "1.Ngrx",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Ngrx",
+                "contentId": "Ngrx",
+                "content": "Ngrx",
+                "contentRelatedCode": "Ngrx",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Ngrx Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Ngrx",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Ngrx",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Ngrx",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Ngrx Section 1",
+                        "sectionCode": "Ngrx Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -1235,72 +1392,95 @@
         "topicContent": [
             {
                 "contentName": "Redux Definition",
-                "contentId": "ReduxDefinition",
+                "contentId": "Redux",
                 "content": "Redux",
-                "contentRelatedCode": "Redux Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Redux",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Redux Important Questions/Topics</h2>",
+                        "sectionName": "Redux Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Redux'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Redux"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Redux",
-                        "sectionCode": "Introduction to Redux",
+                        "sectionId": "Redux Section 1",
+                        "sectionCode": "1.Redux",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Redux Useful Links",
+                "contentId": "Redux",
+                "content": "Redux",
+                "contentRelatedCode": "Redux",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Redux Useful Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Redux Useful Links",
+                                "paraContent": [
+                                    "Redux"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Redux Section 1",
+                        "sectionCode": "1.Redux",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Redux",
+                "contentId": "Redux",
+                "content": "Redux",
+                "contentRelatedCode": "Redux",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Redux Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Redux",
+                                "paraContent": []
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Redux",
+                                "paraContent": []
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Redux",
+                                "paraContent": []
+                            }
+                        ],
+                        "sectionId": "Redux Section 1",
+                        "sectionCode": "Redux Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
@@ -1329,72 +1509,95 @@
         "topicContent": [
             {
                 "contentName": "Vercel Definition",
-                "contentId": "VercelDefinition",
+                "contentId": "Vercel",
                 "content": "Vercel",
-                "contentRelatedCode": "Vercel Content Code",
-                "otherContentLinks": [
+                "contentRelatedCode": "Vercel",
+                "contentLinks": [
                     {
-                        "topicNumber": 2,
-                        "topicName": "Java Script"
-                    },
-                    {
-                        "topicNumber": 3,
-                        "topicName": "Angular"
-                    },
-                    {
-                        "topicNumber": 4,
-                        "topicName": "ReactJS"
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
                     }
                 ],
                 "contentSections": [
                     {
-                        "sectionName": "<h2>Vercel Important Questions/Topics</h2>",
+                        "sectionName": "Vercel Definition",
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "What Is ''",
+                                "paraTitle": "What Is 'Vercel'",
                                 "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Why '' is required and its importance",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Before and after ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Real-time use cases or implementations of ''",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "How to answer or what to answer in an interview",
-                                "paraContent": [
-                                    ""
-                                ]
-                            },
-                            {
-                                "paraId": "1",
-                                "paraTitle": "Follow-up questions and brief answers",
-                                "paraContent": [
-                                    ""
+                                    "Introduction to Vercel"
                                 ]
                             }
                         ],
-                        "sectionId": "Introduction to Vercel",
-                        "sectionCode": "Introduction to Vercel",
+                        "sectionId": "Vercel Section 1",
+                        "sectionCode": "1.Vercel",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Vercel Useful Links",
+                "contentId": "Vercel",
+                "content": "Vercel",
+                "contentRelatedCode": "Vercel",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Vercel Useful Links",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Vercel Useful Links",
+                                "paraContent": [
+                                    "Vercel"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Vercel Section 1",
+                        "sectionCode": "1.Vercel",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "List of important topics in Vercel",
+                "contentId": "Vercel",
+                "content": "Vercel",
+                "contentRelatedCode": "Vercel",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Vercel Section 1",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Basic Topics in Vercel",
+                                "paraContent": []
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Intermediate Topics in Vercel",
+                                "paraContent": []
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Advanced Topics in Vercel",
+                                "paraContent": []
+                            }
+                        ],
+                        "sectionId": "Vercel Section 1",
+                        "sectionCode": "Vercel Definition Section Content Code 1",
                         "sectionCodeImg": "url"
                     }
                 ]
