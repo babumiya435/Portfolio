@@ -618,18 +618,64 @@
                                 "paraId": "0",
                                 "paraTitle": "List of Basic Topics in Node JS",
                                 "paraContent": [
+                                    "(1) Introduction to Node.js: Understanding what Node.js is and its features.",
+                                    "(2) Asynchronous Programming: Callbacks, Promises, Async/Await.",
+                                    "(3) Event Loop: Understanding the event-driven architecture of Node.js.",
+                                    "(4) Modules: Creating, exporting, and importing modules.",
+                                    "(5) npm (Node Package Manager): Managing dependencies, package.json.",
+                                    "(6) HTTP Module: Creating a basic HTTP server and handling requests.",
+                                    "(7) File System Module: Reading and writing files.",
+                                    "(8) Streams: Working with readable and writable streams.",
+                                    "(9) Error Handling: Handling errors in Node.js applications.",
+                                    "(10) Debugging: Using debuggers like node-inspect or built-in debugger.",
+                                    "(11) Basic Security: Understanding common security threats and best practices."
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Intermediate Topics in Node JS",
                                 "paraContent": [
+                                    "(1) Express.js: Building web applications using the Express framework.",
+                                    "(2) Middleware: Writing and using middleware functions in Express.",
+                                    "(3) Routing: Implementing RESTful APIs and routing in Express.",
+                                    "(4) Template Engines: Using template engines like EJS or Handlebars.",
+                                    "(5) Database Connectivity: Connecting to databases like MongoDB, MySQL, or PostgreSQL.",
+                                    "(6) ORM/ODM: Using libraries like Mongoose or Sequelize for object-relational mapping.",
+                                    "(7) Authentication and Authorization: Implementing user authentication and authorization.",
+                                    "(8) WebSockets: Real-time communication using WebSockets (e.g., with Socket.io).",
+                                    "(9) GraphQL: Understanding and implementing GraphQL APIs.",
+                                    "(10) Unit Testing: Writing and executing unit tests using frameworks like Mocha or Jest.",
+                                    "(11) REST API Design: Designing robust and scalable REST APIs.",
+                                    "(12) Logging and Monitoring: Implementing logging and monitoring solutions.",
+                                    "(13) Caching: Using caching mechanisms like Redis or Memcached.",
+                                    "(14) Docker: Containerizing Node.js applications for easy deployment.",
+                                    "(15) Microservices Architecture: Building and deploying Node.js microservices.",
+                                    "(16) Performance Optimization: Optimizing Node.js applications for speed and efficiency."
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Advanced Topics in Node JS",
                                 "paraContent": [
+                                    "(1) Cluster Module: Scaling Node.js applications across multiple CPU cores.",
+                                    "(2) Worker Threads: Utilizing multiple threads for CPU-intensive tasks.",
+                                    "(3) Security Best Practices: Implementing advanced security measures.",
+                                    "(4) Load Balancing: Implementing load balancing strategies.",
+                                    "(5) Serverless Architectures: Deploying Node.js applications on serverless platforms.",
+                                    "(6) GraphQL Subscriptions: Real-time subscriptions with GraphQL.",
+                                    "(7) Distributed Tracing: Implementing distributed tracing for debugging and monitoring.",
+                                    "(8) Machine Learning Integration: Integrating machine learning models with Node.js.",
+                                    "(9) Blockchain Integration: Integrating blockchain technologies with Node.js applications."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Miscellaneous Topics in Node JS",
+                                "paraContent": [
+                                    "(1) Code Organization: Structuring Node.js applications for scalability and maintainability.",
+                                    "(2) Documentation: Writing comprehensive documentation for Node.js projects.",
+                                    "(3) Continuous Integration/Continuous Deployment (CI/CD): Automating the build and deployment process.",
+                                    "(4) Community Involvement: Participating in the Node.js community, contributing to open-source projects, attending meetups/conferences."
                                 ]
                             }
                         ],
