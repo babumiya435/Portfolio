@@ -947,20 +947,54 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic Topics in Angular",
+                                "paraTitle": "List of Basic To Advance Topics in Angular",
                                 "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in Angular",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Advanced Topics in Angular",
-                                "paraContent": [
+                                    "(1) TypeScript fundamentals (since Angular is built with TypeScript)",
+                                    "(2) Understanding Angular architecture and components",
+                                    "(3) Setting up Angular environment using Angular CLI",
+                                    "(4) Creating components, services, modules, and directives",
+                                    "(5) Data binding (interpolation, property binding, event binding, two-way binding)",
+                                    "(6) Dependency Injection",
+                                    "(7) Template syntax (interpolation, property binding, event binding, template expressions, template statements)",
+                                    "(8) Structural directives (ngIf, ngFor, ngSwitch)",
+                                    "(9) Attribute directives (ngClass, ngStyle)",
+                                    "(10) Template-driven forms",
+                                    "(11) Reactive forms (Model-driven forms)",
+                                    "(12) Form validation",
+                                    "(13) Custom form controls",
+                                    "(14) Setting up routing in Angular",
+                                    "(15) Router outlets and router links",
+                                    "(16) Route parameters and query parameters",
+                                    "(17) Lazy loading modules",
+                                    "(18) Guards (CanActivate, CanDeactivate, Resolve, CanLoad)",
+                                    "(19) Making HTTP requests using Angular HttpClient",
+                                    "(20) Handling responses and errors",
+                                    "(21) Interceptors",
+                                    "(22) Creating and consuming services",
+                                    "(23) Understanding hierarchical injectors",
+                                    "(24) Injection tokens and providers",
+                                    "(25) Using @Input and @Output decorators",
+                                    "(26) Parent to child communication",
+                                    "(27) Child to parent communication",
+                                    "(28) Using services for cross-component communication",
+                                    "(29) Component lifecycle hooks",
+                                    "(30) ViewChild and ContentChild",
+                                    "(31) Change detection strategies",
+                                    "(32) RxJS and Observables",
+                                    "(33) State management (ngrx, NgRx Store)",
+                                    "(34) Internationalization (i18n)",
+                                    "(35) Server-Side Rendering (SSR) with Angular Universal",
+                                    "(36) Progressive Web Apps (PWA)",
+                                    "(37) Angular Material for UI components",
+                                    "(38) Testing Angular applications (unit testing, end-to-end testing)",
+                                    "(39) Lazy loading modules for performance optimization",
+                                    "(40) Tree-shaking and AOT (Ahead-of-Time) compilation",
+                                    "(41) Performance profiling and optimization techniques",
+                                    "(42) Cross-site scripting (XSS) protection",
+                                    "(43) Content Security Policy (CSP)",
+                                    "(44) Authentication and Authorization",
+                                    "(45) Deployment strategies (e.g., deploying to Firebase, AWS, Netlify)",
+                                    "(46) Optimizing builds for production"
                                 ]
                             }
                         ],
