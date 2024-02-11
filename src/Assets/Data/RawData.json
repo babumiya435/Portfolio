@@ -793,18 +793,45 @@
                                 "paraId": "0",
                                 "paraTitle": "List of Basic Topics in Expressjs",
                                 "paraContent": [
+                                    "(1) Introduction to Express.js: Understanding what Express.js is and its role in building web applications.",
+                                    "(2) Setting Up: Installing Express.js and setting up a basic project structure.",
+                                    "(3) Routing: Defining routes for handling different HTTP requests (GET, POST, PUT, DELETE).",
+                                    "(4) Middleware: Understanding middleware functions and how to use them in Express.js for tasks like logging, authentication, etc.",
+                                    "(5) Request and Response Objects: Familiarizing yourself with the request and response objects and their properties/methods.",
+                                    "(6) Template Engines: Integrating template engines like EJS, Handlebars, Pug, etc., for dynamic content rendering.",
+                                    "(7) Static Files: Serving static files (HTML, CSS, images, etc.) using express.static middleware.",
+                                    "(8) Error Handling: Implementing error handling middleware to handle errors gracefully."
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Intermediate Topics in Expressjs",
                                 "paraContent": [
+                                    "(1) Data Validation: Validating user input using libraries like express-validator.",
+                                    "(2) Authentication: Implementing authentication mechanisms (e.g., JWT, sessions) for user login/signup.",
+                                    "(3) Authorization: Managing user roles and permissions using middleware.",
+                                    "(4) Database Integration: Connecting Express.js with databases (e.g., MongoDB, PostgreSQL) using libraries like Mongoose, Sequelize.",
+                                    "(5) RESTful APIs: Designing and implementing RESTful APIs using Express.js.",
+                                    "(6) CRUD Operations: Performing CRUD (Create, Read, Update, Delete) operations on database entities.",
+                                    "(7) Middleware Chaining: Understanding how to chain multiple middleware functions for route handling.",
+                                    "(8) File Uploads: Handling file uploads using libraries like multer.",
+                                    "(9) Cookies and Sessions: Managing cookies and sessions for user authentication and state management.",
+                                    "(10) Testing: Writing unit tests and integration tests for Express.js applications using tools like Mocha, Chai, Jest, Supertest."
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Advanced Topics in Expressjs",
                                 "paraContent": [
+                                    "(1) WebSockets: Integrating WebSockets for real-time communication using libraries like Socket.io.",
+                                    "(2) Caching: Implementing caching mechanisms to improve performance using tools like Redis.",
+                                    "(3) Security: Ensuring application security by implementing best practices like input validation, CSRF protection, etc.",
+                                    "(4) Performance Optimization: Optimizing Express.js applications for better performance using techniques like caching, compression, etc.",
+                                    "(5) Microservices: Building microservices architecture with Express.js and managing communication between services.",
+                                    "(6) GraphQL Integration: Integrating GraphQL for API development and data querying.",
+                                    "(7) Deployment: Deploying Express.js applications to production environments using platforms like Heroku, AWS, DigitalOcean, etc.",
+                                    "(8) Containerization: Containerizing Express.js applications using Docker for easier deployment and scaling.",
+                                    "(9) Monitoring and Logging: Implementing logging and monitoring solutions to track application behavior and performance."
                                 ]
                             }
                         ],
