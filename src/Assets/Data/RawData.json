@@ -947,7 +947,7 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic To Advance Topics in Angular",
+                                "paraTitle": "List of Basics To Advance Topics in Angular",
                                 "paraContent": [
                                     "(1) TypeScript fundamentals (since Angular is built with TypeScript)",
                                     "(2) Understanding Angular architecture and components",
@@ -1110,20 +1110,69 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic Topics in ReactJS",
+                                "paraTitle": "List of Basics To Advance Topics in ReactJS",
                                 "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in ReactJS",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Advanced Topics in ReactJS",
-                                "paraContent": [
+                                    "(1) Understanding JSX syntax and how it integrates HTML-like syntax into JavaScript.",
+                                    "(2) Functional components",
+                                    "(3) Class components",
+                                    "(4) Stateful vs. Stateless components",
+                                    "(5) Passing data from parent to child components",
+                                    "(6) PropTypes for type-checking",
+                                    "(7) useState hook",
+                                    "(8) useReducer hook",
+                                    "(9) Managing state in class components",
+                                    "(10) componentDidMount",
+                                    "(11) componentDidUpdate",
+                                    "(12) componentWillUnmount",
+                                    "(13) shouldComponentUpdate (for performance optimization)",
+                                    "(14) useState",
+                                    "(15) useEffect",
+                                    "(16) useContext",
+                                    "(17) Custom hooks",
+                                    "(18) React Router for declarative routing",
+                                    "(19) Handling form data",
+                                    "(20) Controlled vs. Uncontrolled components",
+                                    "(21) Using if-else statements",
+                                    "(22) Ternary operator",
+                                    "(23) Logical && operator",
+                                    "(24) Rendering lists of data",
+                                    "(25) Understanding the importance of keys",
+                                    "(26) Inline styling",
+                                    "(27) CSS modules",
+                                    "(28) Styled components",
+                                    "(29) Error boundaries",
+                                    "(30) componentDidCatch lifecycle method",
+                                    "(31) Fetch API",
+                                    "(32) Axios or other HTTP client libraries",
+                                    "(33) Asynchronous data fetching with useEffect",
+                                    "(34) Memoization",
+                                    "(35) Virtualization (e.g., React Virtualized)",
+                                    "(36) Code splitting and lazy loading",
+                                    "(37) Global state management",
+                                    "(38) Redux",
+                                    "(39) MobX",
+                                    "(40) Recoil",
+                                    "(41) Next.js or other SSR frameworks",
+                                    "(42) Profiling and optimizing performance with React DevTools",
+                                    "(43) Virtual DOM and reconciliation process understanding",
+                                    "(44) Adding TypeScript to React projects for static typing",
+                                    "(45) Supporting multiple languages and locales",
+                                    "(46) Offline support",
+                                    "(47) Push notifications",
+                                    "(48) Apollo Client or Relay for GraphQL data fetching",
+                                    "(49) Local Storage",
+                                    "(50) Cookies",
+                                    "(51) Session Storage",
+                                    "(52) Configuring and deploying React applications to various platforms (e.g., Netlify, Vercel, AWS, Heroku)",
+                                    "(53) XSS prevention",
+                                    "(54) CSRF protection",
+                                    "(55) Content Security Policy (CSP)",
+                                    "(56) Semantic HTML",
+                                    "(57) ARIA roles and attributes",
+                                    "(58) Testing with screen readers",
+                                    "(59) Dynamic imports",
+                                    "(60) React.lazy and Suspense",
+                                    "(61) Integrating serverless functions for backend tasks"
                                 ]
                             }
                         ],
@@ -1239,20 +1288,21 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic Topics in Svelte",
+                                "paraTitle": "List of Basics To Advance Topics in Svelte",
                                 "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in Svelte",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Advanced Topics in Svelte",
-                                "paraContent": [
+                                    "(1) Introduction to Svelte: Understanding the philosophy and key concepts behind Svelte.",
+                                    "(2) Setting up a Svelte project using various methods (SvelteKit, Rollup, Vite).",
+                                    "(3) Components: Creating reusable UI components in Svelte. Understanding the component lifecycle and reactivity in Svelte. Using props to pass data into components. Understanding slots for component composition.",
+                                    "(4) Reactivity: Understanding Svelte's reactive declarations. Working with reactive statements and blocks. Using reactive assignments to update DOM elements.",
+                                    "(5) State Management: Managing state using the store API. Using stores like writable, readable, and derived. Implementing global state management in Svelte applications.",
+                                    "(6) Routing: Implementing client-side routing using SvelteKit or libraries like svelte-routing. Handling route parameters and nested routes.",
+                                    "(7) Forms and User Input: Handling form submission and validation in Svelte. Binding form inputs to component state. Implementing custom form controls.",
+                                    "(8) Animations and Transitions: Animating components and elements using Svelte's built-in transitions. Understanding the animate function for complex animations. Using transitions for route animations.",
+                                    "(9) Server Communication: Making HTTP requests using the fetch API or libraries like axios. Handling API responses and error states. Integrating third-party APIs into Svelte applications.",
+                                    "(10) Optimizations: Code-splitting and lazy loading components. Optimizing bundle size and performance. Implementing server-side rendering (SSR) for better SEO and performance.",
+                                    "(11) Testing: Writing unit tests for Svelte components using testing libraries like @testing-library/svelte. Mocking dependencies for isolated testing. End-to-end testing with tools like Cypress.",
+                                    "(12) Accessibility: Ensuring accessibility in Svelte applications. Using ARIA attributes and semantic HTML for better accessibility. Testing accessibility using tools like axe-core.",
+                                    "(13) Advanced Topics: Integrating Svelte with TypeScript for type safety. Using Svelte with other libraries and frameworks (e.g., integrating Svelte components into React or Vue applications). Understanding advanced Svelte compiler options and optimizations."
                                 ]
                             }
                         ],
@@ -1370,18 +1420,53 @@
                                 "paraId": "0",
                                 "paraTitle": "List of Basic Topics in Rxjs",
                                 "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in Rxjs",
-                                "paraContent": [
+                                    "(1) Observables:",
+                                    "   - Creating observables (Observable.create, of, from, etc.)",
+                                    "   - Subscribing to observables",
+                                    "   - Unsubscribing from observables",
+                                    "(2) Operators:",
+                                    "   - Common operators like map, filter, mergeMap, switchMap, concatMap, etc.",
+                                    "   - Understanding the differences between creation, transformation, filtering, combination, and utility operators.",
+                                    "(3) Subjects:",
+                                    "   - Understanding Subject, BehaviorSubject, ReplaySubject, and AsyncSubject.",
+                                    "   - Working with Subject as both an Observable and Observer.",
+                                    "(4) Subscription Management:",
+                                    "   - Managing subscriptions using unsubscribe, take, takeUntil, etc.",
+                                    "   - Understanding memory management and avoiding memory leaks."
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Advanced Topics in Rxjs",
                                 "paraContent": [
+                                    "(1) Custom Operators:\n- Creating custom operators using pipe.\n- Understanding higher-order observables.",
+                                    "(2) Backpressure Handling:\n- Dealing with backpressure in observables.\n- Using buffer, bufferCount, bufferTime, etc.",
+                                    "(3) Testing RxJS Code:\n- Writing unit tests for RxJS code using testing utilities like TestScheduler.\n- Understanding marble testing for RxJS observables.",
+                                    "(4) Performance Optimization:\n- Optimizing RxJS code for better performance.\n- Identifying performance bottlenecks and resolving them."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Real-world Application Topics in Rxjs",
+                                "paraContent": [
+                                    "(1) Integrating RxJS with popular frameworks like Angular, React, Vue.js, etc.",
+                                    "(2) Understanding how observables fit into the framework's ecosystem.",
+                                    "(3) Handling Complex State: Managing complex state using observables.",
+                                    "(4) Utilizing observables for state management in large-scale applications.",
+                                    "(5) Using Streams for UI: Building reactive UIs using observables.",
+                                    "(6) Handling user interactions, data fetching, and UI updates using RxJS."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "List of Best Practices and Patterns Topics in Rxjs",
+                                "paraContent": [
+                                    "(1) Reactive Architecture: Designing applications with reactive architecture patterns.",
+                                    "(2) Implementing concepts like event sourcing, CQRS, etc., using RxJS.",
+                                    "(3) Code Organization: Organizing RxJS code for maintainability and readability.",
+                                    "(4) Using modularization and separation of concerns.",
+                                    "(5) Error Handling Strategies: Implementing robust error handling strategies for reactive applications.",
+                                    "(6) Dealing with errors at various levels of the application."
                                 ]
                             }
                         ],
@@ -1497,20 +1582,45 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic Topics in Ngrx",
+                                "paraTitle": "List of Basics To Advance Topics in Ngrx",
                                 "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in Ngrx",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Advanced Topics in Ngrx",
-                                "paraContent": [
+                                    "(1) Introduction to NgRx: Understand the need for state management in Angular applications.",
+                                    "(2) Basics of Redux architecture and how NgRx implements it in Angular.",
+                                    "(3) Core principles: Store, Actions, Reducers, Selectors, and Effects.",
+                                    "(4) Store: Learn how to set up the store in an Angular application using @ngrx/store.",
+                                    "(5) Managing application state using the store.",
+                                    "(6) State composition and structuring.",
+                                    "(7) Actions: Actions as a way to describe state changes in your application.",
+                                    "(8) Defining different types of actions: regular actions, async actions, etc.",
+                                    "(9) Best practices for organizing action types and creators.",
+                                    "(10) Reducers: Reducers as pure functions to update the state based on dispatched actions.",
+                                    "(11) Writing reducers to handle various actions and update the state accordingly.",
+                                    "(12) Combining reducers for managing different parts of the state tree.",
+                                    "(13) Selectors: Selectors for deriving data from the store.",
+                                    "(14) Memoized selectors for efficient data retrieval.",
+                                    "(15) Composing selectors to derive complex data structures.",
+                                    "(16) Effects: Understanding side effects and their management in NgRx using @ngrx/effects.",
+                                    "(17) Handling asynchronous operations like HTTP requests, timers, etc.",
+                                    "(18) Combining multiple effects.",
+                                    "(19) Entities: Entity state adapter for managing collections of entities in the store.",
+                                    "(20) Normalization and denormalization of data.",
+                                    "(21) Router Store: Integration of the Angular Router with NgRx using @ngrx/router-store.",
+                                    "(22) Storing router state in the NgRx store.",
+                                    "(23) Time-travel debugging with router state.",
+                                    "(24) Form State Management: Managing form state with NgRx using @ngrx/forms.",
+                                    "(25) Integration with Angular reactive forms.",
+                                    "(26) Advanced Concepts: Middleware: Custom middleware for intercepting and modifying actions.",
+                                    "(27) Custom Router State Serialization: Serializing router state for more advanced use cases.",
+                                    "(28) Testing: Strategies for testing NgRx applications.",
+                                    "(29) Error handling and debugging techniques.",
+                                    "(30) Performance optimization: Techniques for optimizing NgRx applications.",
+                                    "(31) Best Practices and Patterns: Structuring NgRx code for maintainability and scalability.",
+                                    "(32) Code organization patterns like feature-based organization.",
+                                    "(33) Error handling strategies.",
+                                    "(34) Performance optimizations.",
+                                    "(35) Community and Resources: Engage with the NgRx community through forums, GitHub, and conferences.",
+                                    "(36) Explore advanced articles, tutorials, and books on NgRx.",
+                                    "(37) Contribute to open-source NgRx projects to deepen your understanding."
                                 ]
                             }
                         ],
@@ -1626,18 +1736,46 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "List of Basic Topics in Redux",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Intermediate Topics in Redux",
-                                "paraContent": []
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "List of Advanced Topics in Redux",
-                                "paraContent": []
+                                "paraTitle": "List of Basics To Advance Topics in Redux",
+                                "paraContent": [
+                                    "(1) Introduction to NgRx: Understand the need for state management in Angular applications.",
+                                    "(2) Basics of Redux architecture and how NgRx implements it in Angular.",
+                                    "(3) Core principles: Store, Actions, Reducers, Selectors, and Effects.",
+                                    "(4) Store: Learn how to set up the store in an Angular application using @ngrx/store.",
+                                    "(5) Managing application state using the store.",
+                                    "(6) State composition and structuring.",
+                                    "(7) Actions: Actions as a way to describe state changes in your application.",
+                                    "(8) Defining different types of actions: regular actions, async actions, etc.",
+                                    "(9) Best practices for organizing action types and creators.",
+                                    "(10) Reducers: Reducers as pure functions to update the state based on dispatched actions.",
+                                    "(11) Writing reducers to handle various actions and update the state accordingly.",
+                                    "(12) Combining reducers for managing different parts of the state tree.",
+                                    "(13) Selectors: Selectors for deriving data from the store.",
+                                    "(14) Memoized selectors for efficient data retrieval.",
+                                    "(15) Composing selectors to derive complex data structures.",
+                                    "(16) Effects: Understanding side effects and their management in NgRx using @ngrx/effects.",
+                                    "(17) Handling asynchronous operations like HTTP requests, timers, etc.",
+                                    "(18) Combining multiple effects.",
+                                    "(19) Entities: Entity state adapter for managing collections of entities in the store.",
+                                    "(20) Normalization and denormalization of data.",
+                                    "(21) Router Store: Integration of the Angular Router with NgRx using @ngrx/router-store.",
+                                    "(22) Storing router state in the NgRx store.",
+                                    "(23) Time-travel debugging with router state.",
+                                    "(24) Form State Management: Managing form state with NgRx using @ngrx/forms.",
+                                    "(25) Integration with Angular reactive forms.",
+                                    "(26) Advanced Concepts: Middleware: Custom middleware for intercepting and modifying actions.",
+                                    "(27) Custom Router State Serialization: Serializing router state for more advanced use cases.",
+                                    "(28) Testing: Strategies for testing NgRx applications.",
+                                    "(29) Error handling and debugging techniques.",
+                                    "(30) Performance optimization: Techniques for optimizing NgRx applications.",
+                                    "(31) Best Practices and Patterns: Structuring NgRx code for maintainability and scalability.",
+                                    "(32) Code organization patterns like feature-based organization.",
+                                    "(33) Error handling strategies.",
+                                    "(34) Performance optimizations.",
+                                    "(35) Community and Resources: Engage with the NgRx community through forums, GitHub, and conferences.",
+                                    "(36) Explore advanced articles, tutorials, and books on NgRx.",
+                                    "(37) Contribute to open-source NgRx projects to deepen your understanding."
+                                ]
                             }
                         ],
                         "sectionId": "Redux Section 1",
