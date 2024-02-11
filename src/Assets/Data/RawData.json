@@ -1891,17 +1891,43 @@
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Basic Topics in Vercel",
-                                "paraContent": []
+                                "paraContent": [
+                                    "(1) Introduction to Vercel: Understanding what Vercel is and its core features.",
+                                    "(2) Creating an Account: Signing up for a Vercel account.",
+                                    "(3) Deployment Basics: Deploying a simple static site or application.",
+                                    "(4) Custom Domains: Configuring custom domains for your deployments.",
+                                    "(5) Environment Variables: Managing environment variables for different environments (development, staging, production).",
+                                    "(6) Collaboration: Inviting collaborators to your projects."
+                                ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Intermediate Topics in Vercel",
-                                "paraContent": []
+                                "paraContent": [
+                                    "(1) Routing: Understanding how routing works in Vercel and configuring routes for your application.",
+                                    "(2) Serverless Functions: Creating and deploying serverless functions on Vercel for dynamic functionality.",
+                                    "(3) Deployment Strategies: Exploring different deployment strategies like atomic, immutable, etc.",
+                                    "(4) Deployment Hooks: Using deployment hooks for automating tasks before or after deployment.",
+                                    "(5) Environment Configuration: Managing environment-specific configurations effectively.",
+                                    "(6) Custom Server: Using a custom server with Vercel for more advanced use cases.",
+                                    "(7) API Routes: Creating API routes using serverless functions for dynamic data handling.",
+                                    "(8) Webhooks: Utilizing webhooks for integrating external services with your Vercel deployments."
+                                ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "List of Advanced Topics in Vercel",
-                                "paraContent": []
+                                "paraContent": [
+                                    "(1) Authentication and Authorization: Implementing authentication and authorization mechanisms in your application.",
+                                    "(2) Scaling: Strategies for scaling your application on Vercel for increased traffic.",
+                                    "(3) Optimization: Performance optimization techniques for your deployments.",
+                                    "(4) Monitoring and Logging: Setting up monitoring and logging for your applications on Vercel.",
+                                    "(5) Custom Builds: Configuring custom build settings for your projects.",
+                                    "(6) CI/CD Integration: Integrating Vercel deployments into your CI/CD pipelines.",
+                                    "(7) Advanced Routing: Implementing complex routing scenarios using Vercel's routing capabilities.",
+                                    "(8) Secrets Management: Securely managing secrets and sensitive information in your deployments.",
+                                    "(9) Serverless Databases: Integrating serverless databases like FaunaDB or DynamoDB with your Vercel functions."
+                                ]
                             }
                         ],
                         "sectionId": "Vercel Section 1",
