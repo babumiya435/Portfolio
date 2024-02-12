@@ -316,6 +316,35 @@
                         "sectionCodeImg": "url"
                     }
                 ]
+            },
+            {
+                "contentName": "JavaScript Basic Syntax",
+                "contentId": "BasicSyntax",
+                "content": "Basic Syntax",
+                "contentRelatedCode": "Basic Syntax",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Basic Syntax",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax",
+                                "paraContent": [
+                                    "console.log('Salam Java Script');"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Basic Syntax",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
             }
         ],
         "topicVideoContent": [
