@@ -313,6 +313,35 @@
                         "sectionCodeImg": "url"
                     }
                 ]
+            },
+            {
+                "contentName": "1. Introduction to Data Structures and Algorithms: Understanding basic concepts and importance.",
+                "contentId": "DSADefinition",
+                "content": "DSA",
+                "contentRelatedCode": "DSA",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "1. Introduction to Data Structures and Algorithms: Understanding basic concepts and importance.",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "",
+                                "paraContent": [
+                                    "1. Introduction to Data Structures and Algorithms: Understanding basic concepts and importance."
+                                ]
+                            }
+                        ],
+                        "sectionId": "DSA Section 1",
+                        "sectionCode": "1.DSA",
+                        "sectionCodeImg": "url"
+                    }
+                ]
             }
         ],
         "topicVideoContent": [
