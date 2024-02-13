@@ -4,13 +4,14 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import { CgGitFork, CgCoffee } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillHeart,
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
 import myImg from "../Assets/svg/avatar.svg";
@@ -154,10 +155,14 @@ function NavBar() {
               </Button>
             </Nav.Item>
             <Nav.Item className="fork-btn">
-                <a href="https://www.buymeacoffee.com/babumiyamohammad435" target="_blank">
-                  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50px" width="150px" 
-                  />
-                  </a>
+              <Button
+                href="https://www.buymeacoffee.com/babumiyamohammad435"
+                target="_blank"
+                className="fork-btn-inner"
+              >
+                <CgCoffee style={{ fontSize: "1.2em" }} />{" "}
+                <AiFillHeart style={{ fontSize: "1.1em" }} />
+              </Button>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
