@@ -143,7 +143,6 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
             </Nav.Item>
-
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/babumiya435/Portfolio"
@@ -153,6 +152,12 @@ function NavBar() {
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
+            </Nav.Item>
+            <Nav.Item className="fork-btn">
+                <a href="https://www.buymeacoffee.com/babumiyamohammad435" target="_blank">
+                  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50px" width="150px" 
+                  />
+                  </a>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
