@@ -151,7 +151,7 @@ function NavBar() {
                 className="fork-btn-inner"
               >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
+                <AiFillStar style={{ fontSize: "1.1em", fill: 'gold'  }} />
               </Button>
             </Nav.Item>
             <Nav.Item className="fork-btn">
@@ -161,7 +161,7 @@ function NavBar() {
                 className="fork-btn-inner"
               >
                 <CgCoffee style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillHeart style={{ fontSize: "1.1em" }} />
+                <AiFillHeart style={{ fontSize: "1.1em", fill: 'red' }} />
               </Button>
             </Nav.Item>
           </Nav>
