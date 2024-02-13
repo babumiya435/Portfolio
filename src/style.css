@@ -1059,6 +1059,7 @@ button:focus {
   margin: 0px 0px 20px 0px;
   border: 1px solid greenyellow;
   background-color: aliceblue;
+  line-break: anywhere;
 }
 
 .svg-align-plus {
