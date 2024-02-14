@@ -437,16 +437,7 @@
                                 "paraId": "0",
                                 "paraTitle": "JavaScript Usefull Links",
                                 "paraContent": [
-                                    "(1) FreeCodeCamp - Data Structures and Algorithms in JavaScript: https://www.freecodecamp.org/learn",
-                                    "(2) JavaScript Algorithms and Data Structures Masterclass by Colt Steele on Udemy: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/",
-                                    "(3) The Odin Project - JavaScript Data Structures and Algorithms: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript",
-                                    "(4) Coursera - Algorithms and Data Structures in JavaScript: https://www.coursera.org/courses?query=algorithms%20and%20data%20structures%20javascript",
-                                    "(5) HackerRank - JavaScript Data Structures: https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=javascript",
-                                    "(6) LeetCode - JavaScript Algorithms and Data Structures: https://leetcode.com/problemset/all/?search=javascript",
-                                    "(7) AlgoExpert - JavaScript Algorithms and Data Structures: https://www.algoexpert.io/product",
-                                    "(8) Educative.io - Grokking the Coding Interview: Patterns for Coding Questions (JavaScript): https://www.educative.io/courses/grokking-the-coding-interview",
-                                    "(9) JavaScript.info - Data Structures in JavaScript: https://javascript.info/data-structures",
-                                    "(10) Exercism - JavaScript Track: https://exercism.io/tracks/javascript"
+                                    
                                 ]
                             }
                         ],
