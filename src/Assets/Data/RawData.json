@@ -613,7 +613,7 @@
                                 "paraId": "0",
                                 "paraTitle": "Basic Syntax - Objects",
                                 "paraContent": [
-                                    "(let person = {",
+                                    "let person = {",
                                     "    name: \"John\",",
                                     "    age: 30,",
                                     "    isStudent: false",
@@ -643,24 +643,6 @@
                                     "element.addEventListener('click', function() {",
                                     "    console.log('Element clicked');",
                                     "});"
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Basic Syntax - Variables",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Basic Syntax - Variables",
-                                "paraContent": [
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Basic Syntax - Variables",
-                                "paraContent": [
                                 ]
                             }
                         ],
