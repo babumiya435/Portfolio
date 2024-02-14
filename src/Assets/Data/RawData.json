@@ -600,18 +600,49 @@
                                 "paraId": "0",
                                 "paraTitle": "Basic Syntax - Arrays",
                                 "paraContent": [
+                                    "let fruits = [\"Apple\", \"Banana\", \"Orange\"];",
+                                    "// Accessing elements",
+                                    "console.log(fruits[0]); // Apple",
+                                    "// Adding elements",
+                                    "fruits.push(\"Mango\");",
+                                    "// Removing elements",
+                                    "fruits.pop();"
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "Basic Syntax - Objects",
                                 "paraContent": [
+                                    "(let person = {",
+                                    "    name: \"John\",",
+                                    "    age: 30,",
+                                    "    isStudent: false",
+                                    "};",
+                                    "",
+                                    "// Accessing properties",
+                                    "console.log(person.name); // John",
+                                    "",
+                                    "// Modifying properties",
+                                    "person.age = 31;",
+                                    "",
+                                    "// Adding new properties",
+                                    "person.country = \"USA\";"
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "Basic Syntax - DOM Manipulation",
                                 "paraContent": [
+                                    "// Selecting elements",
+                                    "let element = document.getElementById('myElement');",
+                                    "",
+                                    "// Modifying element",
+                                    "element.innerHTML = 'New content';",
+                                    "",
+                                    "// Adding event listener",
+                                    "element.addEventListener('click', function() {",
+                                    "    console.log('Element clicked');",
+                                    "});"
                                 ]
                             },
                             {
