@@ -521,9 +521,115 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax",
+                                "paraTitle": "Basic Syntax - Variables",
                                 "paraContent": [
-                                    "console.log('Salam Java Script');"
+                                    "1.var a = 10;",
+                                    "2.let b = 'Hello';",
+                                    "3.const c = true;"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Data types",
+                                "paraContent": [
+                                    "1. let num = 10; // Number",
+                                    "2. let str = 'Hello'; // String",
+                                    "3. let bool = true; // Boolean",
+                                    "4. let arr = [1, 2, 3]; // Array",
+                                    "5. let obj = { name: 'John', age: 30 }; // Object"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Conditional Statements",
+                                "paraContent": [
+                                    "let num = 10;",
+                                    "",
+                                    "if (num > 0) {",
+                                    "    console.log(\"Positive number\");",
+                                    "} else if (num < 0) {",
+                                    "    console.log(\"Negative number\");",
+                                    "} else {",
+                                    "    console.log(\"Zero\");",
+                                    "}"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Loops",
+                                "paraContent": [
+                                    "// For loop",
+                                    "for (let i = 0; i < 5; i++) {",
+                                    "    console.log(i);",
+                                    "}",
+                                    "// While loop",
+                                    "let i = 0;",
+                                    "while (i < 5) {",
+                                    "    console.log(i);",
+                                    "    i++;",
+                                    "}",
+                                    "// Do-while loop",
+                                    "let j = 0;",
+                                    "do {",
+                                    "    console.log(j);",
+                                    "    j++;",
+                                    "} while (j < 5);"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Functions",
+                                "paraContent": [
+                                    "// Function declaration",
+                                    "function greet(name) {",
+                                    "    console.log(\"Hello, \" + name);",
+                                    "}",
+                                    "",
+                                    "// Function expression",
+                                    "const greet = function(name) {",
+                                    "    console.log(\"Hello, \" + name);",
+                                    "};",
+                                    "",
+                                    "// Arrow function",
+                                    "const greet = (name) => {",
+                                    "    console.log(\"Hello, \" + name);",
+                                    "};"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Arrays",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Objects",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - DOM Manipulation",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Variables",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Variables",
+                                "paraContent": [
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Basic Syntax - Variables",
+                                "paraContent": [
                                 ]
                             }
                         ],
