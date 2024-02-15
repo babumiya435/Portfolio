@@ -5,13 +5,14 @@ import { useNavigate } from 'react-router-dom';
 
 function ProjectCards(props) {
   const navigate = useNavigate();
+  const isVisible = false;
   console.log(props.data)
   const navigateToChild = () => {
     // Pass data via state when navigating
     if (props.isProject) {
       navigate(props.ghLink);
     } else {
-      navigate(props.demoLink, { state: { dataFromParent: props.data } });
+      isVisible && navigate(props.demoLink, { state: { dataFromParent: props.data } });
     }
   };
 
