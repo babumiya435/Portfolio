@@ -1058,7 +1058,7 @@ button:focus {
   padding: 10px;
   margin: 0px 0px 20px 0px;
   border: 1px solid greenyellow;
-  background-color: aliceblue;
+  background-color: lightgray;
   line-break: anywhere;
 }
 
