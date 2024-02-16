@@ -512,7 +512,7 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Variables",
+                                "paraTitle": "Variables",
                                 "paraContent": [
                                     "1.var a = 10;",
                                     "2.let b = 'Hello';",
@@ -521,7 +521,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Data types",
+                                "paraTitle": "Data types",
                                 "paraContent": [
                                     "1. let num = 10; // Number",
                                     "2. let str = 'Hello'; // String",
@@ -532,7 +532,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Conditional Statements",
+                                "paraTitle": "Conditional Statements",
                                 "paraContent": [
                                     "let num = 10;",
                                     "",
@@ -547,7 +547,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Loops",
+                                "paraTitle": "Loops",
                                 "paraContent": [
                                     "// For loop",
                                     "for (let i = 0; i < 5; i++) {",
@@ -569,7 +569,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Functions",
+                                "paraTitle": "Functions",
                                 "paraContent": [
                                     "// Function declaration",
                                     "function greet(name) {",
@@ -589,7 +589,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Arrays",
+                                "paraTitle": "Arrays",
                                 "paraContent": [
                                     "let fruits = [\"Apple\", \"Banana\", \"Orange\"];",
                                     "// Accessing elements",
@@ -602,7 +602,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - Objects",
+                                "paraTitle": "Objects",
                                 "paraContent": [
                                     "let person = {",
                                     "    name: \"John\",",
@@ -622,7 +622,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Basic Syntax - DOM Manipulation",
+                                "paraTitle": "DOM Manipulation",
                                 "paraContent": [
                                     "// Selecting elements",
                                     "let element = document.getElementById('myElement');",
@@ -660,7 +660,7 @@
                         "sectionContent": [
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Arrow Functions",
+                                "paraTitle": "Arrow Functions",
                                 "paraContent": [
                                     "// Regular function",
                                     "function add(a, b) {",
@@ -673,7 +673,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Spread Syntax",
+                                "paraTitle": "Spread Syntax",
                                 "paraContent": [
                                     "const numbers = [1, 2, 3];",
                                     "const moreNumbers = [...numbers, 4, 5, 6];"
@@ -681,7 +681,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Destructuring",
+                                "paraTitle": "Destructuring",
                                 "paraContent": [
                                     "const person = {",
                                     "  name: 'John',",
@@ -692,7 +692,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Rest Parameter",
+                                "paraTitle": "Rest Parameter",
                                 "paraContent": [
                                     "function sum(...numbers) {",
                                     "    return numbers.reduce((total, num) => total + num, 0);",
@@ -703,7 +703,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Template Literals",
+                                "paraTitle": "Template Literals",
                                 "paraContent": [
                                     "const name = 'John';",
                                     "console.log(`Hello, ${name}!`);"
@@ -711,7 +711,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Promise Syntax",
+                                "paraTitle": "Promise Syntax",
                                 "paraContent": [
                                     "const myPromise = new Promise((resolve, reject) => {",
                                     "    // Asynchronous operation",
@@ -731,7 +731,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Async/Await",
+                                "paraTitle": "Async/Await",
                                 "paraContent": [
                                     "async function fetchData() {",
                                     "    try {",
@@ -747,7 +747,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Classes",
+                                "paraTitle": "Classes",
                                 "paraContent": [
                                     "class Person {",
                                     "    constructor(name, age) {",
@@ -766,7 +766,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Modules",
+                                "paraTitle": "Modules",
                                 "paraContent": [
                                     "// Exporting module",
                                     "export const myFunction = () => {};",
@@ -777,7 +777,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - Generators",
+                                "paraTitle": "Generators",
                                 "paraContent": [
                                     "(function* generatorFunction() {",
                                     "    yield 1;",
@@ -792,25 +792,25 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - ",
+                                "paraTitle": "",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - ",
+                                "paraTitle": "",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - ",
+                                "paraTitle": "",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "Advance Syntax - ",
+                                "paraTitle": "",
                                 "paraContent": [
                                 ]
                             }
