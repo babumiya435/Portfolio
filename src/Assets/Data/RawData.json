@@ -789,33 +789,111 @@
                                     "console.log(gen.next().value); // Output: 1",
                                     "console.log(gen.next().value); // Output: 2)"
                                 ]
+                            }
+                        ],
+                        "sectionId": "Advance Syntax",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Complex Syntax",
+                "contentId": "ComplexSyntax",
+                "content": "Complex Syntax",
+                "contentRelatedCode": "Complex Syntax",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Complex Syntax",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Higher-Order Functions and Function Composition",
+                                "paraContent": [
+                                    "const add = (a, b) => a + b;",
+                                    "const multiply = (a, b) => a * b;",
+                                    "",
+                                    "const compose = (...fns) => arg => fns.reduceRight((acc, fn) => fn(acc), arg);",
+                                    "",
+                                    "const addThenMultiply = compose(multiply.bind(null, 2), add);",
+                                    "console.log(addThenMultiply(3, 4)); // Output: (3 + 4) * 2 = 14)"
+                                ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "",
+                                "paraTitle": "Currying",
+                                "paraContent": [
+                                    "const multiply = (a) => (b) => a * b;",
+                                    "const multiplyBy2 = multiply(2);",
+                                    "console.log(multiplyBy2(3)); // Output: 6"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Memoization",
+                                "paraContent": [
+                                    "const memoize = (fn) => {",
+                                    "    const cache = {};",
+                                    "    return (...args) => {",
+                                    "        const key = JSON.stringify(args);",
+                                    "        return cache[key] || (cache[key] = fn(...args));",
+                                    "    };",
+                                    "};",
+                                    "",
+                                    "const fibonacci = memoize((n) => {",
+                                    "    if (n <= 1) return n;",
+                                    "    return fibonacci(n - 1) + fibonacci(n - 2);",
+                                    "});",
+                                    "",
+                                    "console.log(fibonacci(10)); // Output: 55"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Object Destructuring with Default Values",
+                                "paraContent": [
+                                    "const { name = 'Anonymous', age = 25 } = person;",
+                                    "console.log(name, age);",
+                                    "",
+                                    "Array Destructuring with Rest Parameter",
+                                    "",
+                                    "const numbers = [1, 2, 3, 4, 5];",
+                                    "const [first, second, ...rest] = numbers;",
+                                    "console.log(first, second, rest);"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Array Destructuring with Rest Parameter",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "",
+                                "paraTitle": "Asynchronous Iteration",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "",
+                                "paraTitle": "Decorators (Experimental, requires Babel or TypeScript)",
                                 "paraContent": [
                                 ]
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "",
+                                "paraTitle": "Dynamic Import",
                                 "paraContent": [
                                 ]
                             }
                         ],
-                        "sectionId": "Basic Syntax",
+                        "sectionId": "Complex Syntax",
                         "sectionCode": "console.log('Salam Java Script');",
                         "sectionCodeImg": "url"
                     }
