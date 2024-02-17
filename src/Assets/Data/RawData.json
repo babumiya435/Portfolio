@@ -1,6 +1,6 @@
 [
     {
-        "topicName": "Why & How Some one Needs to learn Programming Language",
+        "topicName": "Why & How to learn Programming Language",
         "topicId": "whyHow",
         "topicNumber": "whyHow",
         "topicDescription": "Lets dig in to the real-time reasons",
@@ -872,28 +872,181 @@
                                 "paraId": "0",
                                 "paraTitle": "Array Destructuring with Rest Parameter",
                                 "paraContent": [
+                                    "const numbers = [1, 2, 3, 4, 5];",
+                                    "const [first, second, ...rest] = numbers;",
+                                    "console.log(first, second, rest);"
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "Asynchronous Iteration",
                                 "paraContent": [
+                                    "const fetchUserData = async () => {",
+                                    "    const response = await fetch('https://api.example.com/users');",
+                                    "    const data = await response.json();",
+                                    "    return data;",
+                                    "};",
+                                    "",
+                                    "const processUsers = async () => {",
+                                    "    const users = await fetchUserData();",
+                                    "    for await (const user of users) {",
+                                    "        console.log(user);",
+                                    "    }",
+                                    "};",
+                                    "",
+                                    "processUsers();"
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "Decorators (Experimental, requires Babel or TypeScript)",
                                 "paraContent": [
+                                    "function Logger(target, name, descriptor) {",
+                                    "    const original = descriptor.value;",
+                                    "    descriptor.value = function(...args) {",
+                                    "        console.log(`Calling ${name} with arguments: ${args}`);",
+                                    "        return original.apply(this, args);",
+                                    "    };",
+                                    "    return descriptor;",
+                                    "}",
+                                    "",
+                                    "class Calculator {",
+                                    "    @Logger",
+                                    "    add(a, b) {",
+                                    "        return a + b;",
+                                    "    }",
+                                    "}",
+                                    "",
+                                    "const calc = new Calculator();",
+                                    "console.log(calc.add(2, 3)); // Output: Calling add with arguments: 2,3"
                                 ]
                             },
                             {
                                 "paraId": "0",
                                 "paraTitle": "Dynamic Import",
                                 "paraContent": [
+                                    "async function loadModule() {",
+                                    "    const myModule = await import('./myModule.js');",
+                                    "    myModule.myFunction();",
+                                    "}",
+                                    "",
+                                    "loadModule();"
                                 ]
                             }
                         ],
                         "sectionId": "Complex Syntax",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Data Types",
+                "contentId": "DataTypes",
+                "content": "DataTypes",
+                "contentRelatedCode": "DataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Data Types",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "DataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Primitive Data Types",
+                "contentId": "PrimitiveDataTypes",
+                "content": "PrimitiveDataTypes",
+                "contentRelatedCode": "PrimitiveDataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Primitive Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Primitive Data Types",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "DataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Non-Primitive Data Types",
+                "contentId": "Non-PrimitiveDataTypes",
+                "content": "Non-PrimitiveDataTypes",
+                "contentRelatedCode": "Non-PrimitiveDataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Non-Primitive Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Non-Primitive Data Types",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Non-PrimitiveDataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "JavaScript Operators",
+                "contentId": "Operators",
+                "content": "Operators",
+                "contentRelatedCode": "Operators",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Operators",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Operators",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Operators",
                         "sectionCode": "console.log('Salam Java Script');",
                         "sectionCodeImg": "url"
                     }
