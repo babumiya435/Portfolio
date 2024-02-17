@@ -5,20 +5,7 @@
         "topicNumber": "whyHow",
         "topicDescription": "Lets dig in to the real-time reasons",
         "topicImg": "whyHow.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Why & How to learn Programming Language",
@@ -163,20 +150,7 @@
         "topicNumber": "dsa",
         "topicDescription": "Learn and practice basic to advance DSA skills",
         "topicImg": "DSA.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "DSA Definition",
@@ -363,20 +337,7 @@
         "topicNumber": "js",
         "topicDescription": "Learn and practice basic to advance JavaScript skills",
         "topicImg": "Javascript.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "JavaScript Definition",
@@ -1072,20 +1033,7 @@
         "topicNumber": "ts",
         "topicDescription": "Learn and practice basic to advance Typescript skills",
         "topicImg": "Typescript.svg",
-        "relatedTopics": [
-            {
-                "topicNumber": 1,
-                "topicName": "C Programming"
-            },
-            {
-                "topicNumber": 3,
-                "topicName": "Angular"
-            },
-            {
-                "topicNumber": 4,
-                "topicName": "ReactJS"
-            }
-        ],
+        "relatedTopics": [],
         "topicContent": [
             {
                 "contentName": "Type Script Definition",
