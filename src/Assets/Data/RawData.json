@@ -902,7 +902,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Data Types",
+                "contentName": "Data Types",
                 "contentId": "DataTypes",
                 "content": "DataTypes",
                 "contentRelatedCode": "DataTypes",
@@ -955,7 +955,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Primitive Data Types",
+                "contentName": "Primitive Data Types",
                 "contentId": "PrimitiveDataTypes",
                 "content": "PrimitiveDataTypes",
                 "contentRelatedCode": "PrimitiveDataTypes",
@@ -983,7 +983,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Composite or Non-Primitive Data Types",
+                "contentName": "Composite or Non-Primitive Data Types",
                 "contentId": "Non-PrimitiveDataTypes",
                 "content": "Non-PrimitiveDataTypes",
                 "contentRelatedCode": "Non-PrimitiveDataTypes",
@@ -1011,7 +1011,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Operators",
+                "contentName": "Operators",
                 "contentId": "Operators",
                 "content": "Operators",
                 "contentRelatedCode": "Operators",
@@ -1151,7 +1151,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Operators",
+                "contentName": "Operators",
                 "contentId": "Operators",
                 "content": "Operators",
                 "contentRelatedCode": "Operators",
@@ -1179,7 +1179,7 @@
                 ]
             },
             {
-                "contentName": "JavaScript Operators",
+                "contentName": "Operators",
                 "contentId": "Operators",
                 "content": "Operators",
                 "contentRelatedCode": "Operators",
