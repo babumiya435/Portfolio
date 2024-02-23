@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import CodeViewer from "../helper-components/CodeViewer";
+import ChatGPTApp from "../helper-components/chatGPTIntegration"
 import { Container } from "react-bootstrap";
 import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
@@ -40,16 +41,21 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
                   <div className="content-section-data">
                     {item.sectionContent.map((item, index) => (
                       <div key={'paraTitle' + index}>
-                        {item.paraTitle && <p className='paraTitle'>
-                          {item.paraTitle} :
-                        </p>}
-                          {item?.paraContent?.length > 0 && <div className='paraContent'>
-                            {item?.paraContent?.map((para, i) => (
-                              <p key={'para' + i}>
-                                {para}
-                              </p>
-                            ))}
-                          </div>}
+                        {item.paraTitle &&
+                          <div>
+                            <ChatGPTApp />
+                            <p className='paraTitle'>
+                              {item.paraTitle} :
+                            </p>
+                          </div>
+                        }
+                        {item?.paraContent?.length > 0 && <div className='paraContent'>
+                          {item?.paraContent?.map((para, i) => (
+                            <p key={'para' + i}>
+                              {para}
+                            </p>
+                          ))}
+                        </div>}
                       </div>
                     ))}
                   </div>

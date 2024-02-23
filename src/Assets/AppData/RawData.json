@@ -605,6 +605,36 @@
                 ]
             },
             {
+                "contentName": "Variables",
+                "contentId": "variables",
+                "content": "Variables Syntax",
+                "contentRelatedCode": "Variables Syntax",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Variables",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Variables",
+                                "paraContent": [
+                                    "What happens If JavaScript didn't have variables",
+                                    "Importance/Uses of the varibales in js"
+                                ]
+                            }
+                        ],
+                        "sectionId": "Variables Syntax",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
                 "contentName": "JavaScript Advance Syntax",
                 "contentId": "AdvanceSyntax",
                 "content": "Advance Syntax",
