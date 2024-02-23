@@ -625,16 +625,6 @@
                                 "paraContent": [
                                     "What happens If JavaScript didn't have variables",
                                     "Importance/Uses of the varibales in js"
-                                ],
-                                "paraContentData": [
-                                    {
-                                        "question": "What happens If JavaScript didn't have variables with code examples",
-                                        "data": []
-                                    },
-                                    {
-                                        "question": "Importance/Uses of the varibales in js with code example",
-                                        "data": []
-                                    }
                                 ]
                             }
                         ],

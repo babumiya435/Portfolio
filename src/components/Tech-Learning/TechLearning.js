@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../Projects/ProjectCards";
-import data from "../../Assets/Data/RawData.json";
+import data from "../../Assets/AppData/RawData.json";
 import axios from 'axios';
 import Particle from "../Particle";
 
@@ -13,9 +13,9 @@ const TechLearning = () => {
     const fetchData = async () => {
       try {
         setJsonData(data);
-        // const response = await fetch('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
+        // const response = await fetch('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/AppData/RawData.json');
         // const data = await response.json();
-        // const response = await axios.get('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/Data/RawData.json');
+        // const response = await axios.get('https://raw.githubusercontent.com/babumiya435/Portfolio/main/src/Assets/AppData/RawData.json');
         // const data = response.data;
         // setJsonData(data);
       } catch (error) {

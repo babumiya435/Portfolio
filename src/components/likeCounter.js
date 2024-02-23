@@ -1,6 +1,6 @@
 // Counter.js
 import React, { useState, useEffect } from 'react';
-// import counter from "../Assets/Data/likeCounter.json"
+// import counter from "../Assets/AppData/likeCounter.json"
 
 const LikeCounter = () => {
   const [count, setCount] = useState(0);
@@ -12,7 +12,7 @@ const LikeCounter = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('../Assets/Data/likeCounter.json');
+        const response = await fetch('../Assets/AppData/likeCounter.json');
         const data = await response.json();
         setCount(data.likes);
       } catch (error) {
@@ -38,7 +38,7 @@ const LikeCounter = () => {
 
   const saveData = async (newCount) => {
     try {
-      await fetch('../Assets/Data/likeCounter.json', {
+      await fetch('../Assets/AppData/likeCounter.json', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
