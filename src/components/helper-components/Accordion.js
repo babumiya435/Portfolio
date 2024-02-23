@@ -43,7 +43,7 @@ const AccordionItem = ({ title, content, contentRelatedCode, contentSections }) 
                       <div key={'paraTitle' + index}>
                         {item.paraTitle &&
                           <div>
-                            <ChatGPTApp />
+                            {/* <ChatGPTApp /> */}
                             <p className='paraTitle'>
                               {item.paraTitle} :
                             </p>
