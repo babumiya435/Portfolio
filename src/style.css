@@ -1131,3 +1131,21 @@ button:focus {
   display: flex;
   justify-content: center;
 }
+
+.fixedButton {
+  position:sticky;
+  top: 20px; /* Adjust as needed */
+  right: 20px; /* Adjust as needed */
+  z-index: 1000; /* Ensure it's above other content */
+  /* Additional styles for the button */
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.fixedButton:hover {
+  background-color: #0056b3;
+}
