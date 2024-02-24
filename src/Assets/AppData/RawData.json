@@ -653,6 +653,255 @@
                 ]
             },
             {
+                "contentName": "Data Types",
+                "contentId": "DataTypes",
+                "content": "DataTypes",
+                "contentRelatedCode": "DataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Data Types",
+                                "paraContent": [
+                                    "In JavaScript, a datatype refers to the type of data that can be stored and manipulated by variables",
+                                    "JavaScript has several built-in datatypes, including:",
+                                    "1.Primitive Datatypes",
+                                    "2.Composite Datatypes"
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Primitive Datatypes",
+                                "paraContent": [
+                                    "Number: Represents numeric values, both integers and floating-point numbers.",
+                                    "String: Represents textual data, enclosed in single or double quotes.",
+                                    "Boolean: Represents a logical value indicating true or false.",
+                                    "Null: Represents the intentional absence of any value.",
+                                    "Undefined: Represents a variable that has been declared but not assigned a value.",
+                                    "Symbol (ES6): Represents a unique and immutable value that may be used as the key of an Object property."
+                                ]
+                            },
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Composite or Non-Primitive Datatypes",
+                                "paraContent": [
+                                    "Object: Represents a collection of key-value pairs, where values can be of any datatype, including other objects.",
+                                    "Array: Represents an ordered collection of values, accessed by numeric indices.",
+                                    "Function: Represents a reusable block of code that can be invoked with zero or more arguments."
+                                ]
+                            }
+                        ],
+                        "sectionId": "DataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Primitive Data Types",
+                "contentId": "PrimitiveDataTypes",
+                "content": "PrimitiveDataTypes",
+                "contentRelatedCode": "PrimitiveDataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Primitive Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Primitive Data Types",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "DataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Composite or Non-Primitive Data Types",
+                "contentId": "Non-PrimitiveDataTypes",
+                "content": "Non-PrimitiveDataTypes",
+                "contentRelatedCode": "Non-PrimitiveDataTypes",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Composite or Non-Primitive Data Types",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Composite or Non-Primitive Data Types",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Non-PrimitiveDataTypes",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Operators",
+                "contentId": "Operators",
+                "content": "Operators",
+                "contentRelatedCode": "Operators",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "JavaScript Operators",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Operators",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Operators",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Conditional statements (if, else, else if)",
+                "contentId": "Conditional statements",
+                "content": "Conditional statements",
+                "contentRelatedCode": "Conditional statements",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Conditional statements (if, else, else if)",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "if, else, else if",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Conditional statements",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Loops (for, while, do...while)",
+                "contentId": "Loops",
+                "content": "Loops",
+                "contentRelatedCode": "Loops",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Loops (for, while, do...while)",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Loops",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Loops",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Switch statements",
+                "contentId": "Switch",
+                "content": "Switch",
+                "contentRelatedCode": "Switch",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Switch statements",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Switch",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Switch",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
+                "contentName": "Scope and Hoisting",
+                "contentId": "ScopeandHoisting",
+                "content": "Scope and Hoisting",
+                "contentRelatedCode": "Scope and Hoisting",
+                "contentLinks": [
+                    {
+                        "linkName": "GFG",
+                        "linkUrl": "https://gfg.com"
+                    }
+                ],
+                "contentSections": [
+                    {
+                        "sectionName": "Scope and Hoisting: Global scope vs. local scope, Variable hoisting",
+                        "sectionContent": [
+                            {
+                                "paraId": "0",
+                                "paraTitle": "Scope and Hoisting",
+                                "paraContent": [
+                                ]
+                            }
+                        ],
+                        "sectionId": "Scope and Hoisting",
+                        "sectionCode": "console.log('Salam Java Script');",
+                        "sectionCodeImg": "url"
+                    }
+                ]
+            },
+            {
                 "contentName": "JavaScript Advance Syntax",
                 "contentId": "AdvanceSyntax",
                 "content": "Advance Syntax",
@@ -944,283 +1193,6 @@
                             }
                         ],
                         "sectionId": "Complex Syntax",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Data Types",
-                "contentId": "DataTypes",
-                "content": "DataTypes",
-                "contentRelatedCode": "DataTypes",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "JavaScript Data Types",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Data Types",
-                                "paraContent": [
-                                    "In JavaScript, a datatype refers to the type of data that can be stored and manipulated by variables",
-                                    "JavaScript has several built-in datatypes, including:",
-                                    "1.Primitive Datatypes",
-                                    "2.Composite Datatypes"
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Primitive Datatypes",
-                                "paraContent": [
-                                    "Number: Represents numeric values, both integers and floating-point numbers.",
-                                    "String: Represents textual data, enclosed in single or double quotes.",
-                                    "Boolean: Represents a logical value indicating true or false.",
-                                    "Null: Represents the intentional absence of any value.",
-                                    "Undefined: Represents a variable that has been declared but not assigned a value.",
-                                    "Symbol (ES6): Represents a unique and immutable value that may be used as the key of an Object property."
-                                ]
-                            },
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Composite or Non-Primitive Datatypes",
-                                "paraContent": [
-                                    "Object: Represents a collection of key-value pairs, where values can be of any datatype, including other objects.",
-                                    "Array: Represents an ordered collection of values, accessed by numeric indices.",
-                                    "Function: Represents a reusable block of code that can be invoked with zero or more arguments."
-                                ]
-                            }
-                        ],
-                        "sectionId": "DataTypes",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Primitive Data Types",
-                "contentId": "PrimitiveDataTypes",
-                "content": "PrimitiveDataTypes",
-                "contentRelatedCode": "PrimitiveDataTypes",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "JavaScript Primitive Data Types",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Primitive Data Types",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "DataTypes",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Composite or Non-Primitive Data Types",
-                "contentId": "Non-PrimitiveDataTypes",
-                "content": "Non-PrimitiveDataTypes",
-                "contentRelatedCode": "Non-PrimitiveDataTypes",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "JavaScript Composite or Non-Primitive Data Types",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Composite or Non-Primitive Data Types",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Non-PrimitiveDataTypes",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Operators",
-                "contentId": "Operators",
-                "content": "Operators",
-                "contentRelatedCode": "Operators",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "JavaScript Operators",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Operators",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Operators",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Conditional statements (if, else, else if)",
-                "contentId": "Conditional statements",
-                "content": "Conditional statements",
-                "contentRelatedCode": "Conditional statements",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "Conditional statements (if, else, else if)",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "if, else, else if",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Conditional statements",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Loops (for, while, do...while)",
-                "contentId": "Loops",
-                "content": "Loops",
-                "contentRelatedCode": "Loops",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "Loops (for, while, do...while)",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Loops",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Loops",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Switch statements",
-                "contentId": "Switch",
-                "content": "Switch",
-                "contentRelatedCode": "Switch",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "Switch statements",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Switch",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Switch",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Scope and Hoisting",
-                "contentId": "ScopeandHoisting",
-                "content": "Scope and Hoisting",
-                "contentRelatedCode": "Scope and Hoisting",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "Scope and Hoisting: Global scope vs. local scope, Variable hoisting",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Scope and Hoisting",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Scope and Hoisting",
-                        "sectionCode": "console.log('Salam Java Script');",
-                        "sectionCodeImg": "url"
-                    }
-                ]
-            },
-            {
-                "contentName": "Operators",
-                "contentId": "Operators",
-                "content": "Operators",
-                "contentRelatedCode": "Operators",
-                "contentLinks": [
-                    {
-                        "linkName": "GFG",
-                        "linkUrl": "https://gfg.com"
-                    }
-                ],
-                "contentSections": [
-                    {
-                        "sectionName": "JavaScript Operators",
-                        "sectionContent": [
-                            {
-                                "paraId": "0",
-                                "paraTitle": "Operators",
-                                "paraContent": [
-                                ]
-                            }
-                        ],
-                        "sectionId": "Operators",
                         "sectionCode": "console.log('Salam Java Script');",
                         "sectionCodeImg": "url"
                     }
