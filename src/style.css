@@ -179,7 +179,7 @@ button:focus {
 
 .navbar-nav .nav-item {
   position: relative;
-  margin-left: 20px;
+  margin-left: 0px;
 }
 
 .navbar-nav .nav-item.selected {
@@ -1148,4 +1148,8 @@ button:focus {
 
 .fixedButton:hover {
   background-color: #0056b3;
+}
+
+.mt-20 {
+  margin-top: 20px;
 }
