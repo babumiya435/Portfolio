@@ -62,7 +62,7 @@ function NavBar() {
       expand="md"
       className={navColour ? "sticky" : "navbar"}
     >
-      <Container>
+      <Container className="mt-20">
         <Navbar.Brand href="/" className="d-flex">
           <img src={myImg} className="img-fluid logo" alt="avatar" />
         </Navbar.Brand>
@@ -137,7 +137,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://babumiyablogs.vercel.app/"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
@@ -146,7 +146,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/babumiya435/Portfolio"
+                href="https://github.com/babumiya435/"
                 target="_blank"
                 className="fork-btn-inner"
               >
