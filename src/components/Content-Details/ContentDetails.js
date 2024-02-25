@@ -29,9 +29,9 @@ function ContentDetails() {
                 <IoArrowBack className="svg-align-hw" onClick={navigateBack} />
               </div>
               <div>
-              <button className="fixedButton">
+              {/* <button className="fixedButton">
                 Scroll To Top
-              </button>
+              </button> */}
               </div>
               <h2>{dataFromParent.topicName}</h2>
               <p>Topic Id : {id}</p>
