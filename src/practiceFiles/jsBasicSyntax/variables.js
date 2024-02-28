@@ -4,10 +4,27 @@
 // Why Variabes are needed?
 //Drawbacks(Without variable name):
 // Usages(With variable):
-// use case1 : want to use emloyee salary component 20000 value in my code at 100000000 places.
+// use case1 : Storing a value.
+// use case2 : Reusability.
+// use case3 : State Management.
+// use case4 : Performing Computations.
+// use case5 : Flexibility.
+// use case6 : Dynamic Behavior.
+// use case7 : Flexibility.
+// use case8 : Scope Management.
+// use case9 : Debugging.
 
-// traditional/basic way is : use 123456789 where ever it is required by directly copying.
+// -----------------------------------------------
+// use case1 : Storing a value.
+let age = 30;
+let name = "John";
+let isStudent = false;
+// --------------------------------------------------
+// use case2 : Reusability.
+var quaterlySal = salary * 12;
+console.log("Employee Quaterly Salary per month :", quaterlySal);
 
-var salary = 20000;
-console.log("Employee Salary per month :",salary); // we can call or update the value with its variable name whenever we want to.
+var yearlySal = salary * 12;
+console.log("Employee Yearly Salary per month :", yearlySal);
+
 
