@@ -626,7 +626,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "1. Data Storage and Manipulation:",
+                                "paraTitle": "1. Data Storage and Manipulation Problem",
                                 "paraContent": [
                                     "Without variables, storing and manipulating data would become extremely cumbersome. Here's how we might handle it:",
                                     "// Storing and manipulating data without variables",
@@ -637,7 +637,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "2. State Management:",
+                                "paraTitle": "2. State Management Problem",
                                 "paraContent": [
                                     "Without variables, managing state becomes challenging. Here's a simplified example:",
                                     "// Managing state without variables",
@@ -658,7 +658,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "3. Computations and Calculations:",
+                                "paraTitle": "3. Computations and Calculations Problem",
                                 "paraContent": [
                                     "Performing computations would be challenging without variables:",
                                     "// Performing computations without variables",
@@ -669,7 +669,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "4. Dynamic Behavior:",
+                                "paraTitle": "4. Dynamic Behavior Problem",
                                 "paraContent": [
                                     "Without variables, dynamic behavior becomes limited:",
                                     "// Dynamic behavior without variables",
@@ -684,7 +684,7 @@
                             },
                             {
                                 "paraId": "0",
-                                "paraTitle": "5. Debugging:",
+                                "paraTitle": "5. Debugging Problem",
                                 "paraContent": [
                                     "Debugging becomes more challenging without variables:",
                                     "// Debugging without variables",
