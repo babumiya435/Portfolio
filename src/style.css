@@ -179,7 +179,7 @@ button:focus {
 
 .navbar-nav .nav-item {
   position: relative;
-  margin-left: 0px;
+  margin-left: 10px;
 }
 
 .navbar-nav .nav-item.selected {
