@@ -19,12 +19,31 @@
 let age = 30;
 let name = "John";
 let isStudent = false;
+let salary = 2000;
 // --------------------------------------------------
 // use case2 : Reusability.
 var quaterlySal = salary * 12;
-console.log("Employee Quaterly Salary per month :", quaterlySal);
+// console.log("Employee Quaterly Salary per month :", quaterlySal);
 
 var yearlySal = salary * 12;
-console.log("Employee Yearly Salary per month :", yearlySal);
+// console.log("Employee Yearly Salary per month :", yearlySal);
+
+function greet() {
+    console.log("Hello, " + name1); // Output: "Hello, undefined"
+}
+
+
+let name1 = "John";
+greet();
+
+for (var i = 0; i < 3; i++) {
+    setTimeout(function() {
+        console.log(i); // Output: 3 3 3
+    }, 1000);
+}
+
+
+
+
 
 
