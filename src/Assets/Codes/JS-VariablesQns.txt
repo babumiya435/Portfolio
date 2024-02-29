@@ -1,0 +1,4 @@
+1.If JavaScript didn't have variables, coding would be significantly different. 
+2.Common uses of variables in JavaScript.
+3.problems and solutions of variable concept in js with code examples
+4. real time examples
