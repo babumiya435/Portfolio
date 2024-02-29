@@ -1,128 +1,90 @@
-1. Storing Values
 
-Variables are commonly used to store values that can be reused or modified later in the program
-
-[
-    "let age = 30;",
-    "let name = \"John\";",
-    "let isStudent = false;"
-]
-
-
-
-2. Performing Computations
-
-Variables can hold the results of computations, making it easier to reuse the calculated values.
-
-[
-    "let num1 = 10;",
-    "let num2 = 5;",
-    "let sum = num1 + num2;",
-    "console.log(\"The sum of \" + num1 + \" and \" + num2 + \" is \" + sum);"
-]
-
-
-
-
-3. Managing State
-
-Variables are used to track the state of an application or store information about the current state.
-
-[
-    "let isLoggedIn = false;",
-    "if (isLoggedIn) {",
-    "    console.log(\"User is logged in.\");",
-    "} else {",
-    "    console.log(\"User is not logged in.\");",
-    "}"
-]
-
-
-
-4. Loop Iterations
-
-Variables are often used as loop counters or iterators to control the flow of execution in loops.
-
-[
-    "for (let i = 0; i < 5; i++) {",
-    "    console.log(\"Iteration \" + (i + 1));",
-    "}"
-]
-
-
-
-5. Function Parameters and Return Values
-
-Variables can be used to pass values to functions as parameters and to store return values from functions.
-
-[
-    "function greet(name) {",
-    "    return \"Hello, \" + name + \"!\";",
-    "}",
-    "",
-    "let message = greet(\"Alice\");",
-    "console.log(message);"
-]
-
-
-
-6. Dynamic Data Manipulation
-
-Variables enable dynamic data manipulation, allowing developers to update values based on conditions or user input.
-
-[
-    "let score = 80;",
-    "if (score >= 70) {",
-    "    console.log(\"Congratulations! You passed the exam.\");",
-    "} else {",
-    "    console.log(\"Sorry, you failed the exam.\");",
-    "}"
-]
-
-
-7. Scope Management
-
-Variables help in managing variable scope, controlling where variables are accessible within a program.
-
-[
-    "function greet() {",
-    "    let message = \"Hello, world!\";",
-    "    console.log(message);",
-    "}",
-    "",
-    "greet();",
-    "// console.log(message); // This will throw an error as 'message' is not accessible outside the function scope."
-]
-
-
-
-------------------------------------------------------------
+"-------------------- Example 1 (w.r.t ReactJs) --------------------",
 
 Problems may occur with variabes
 some common problems that developers may encounter with variables in JavaScript
 
 1. Hoisting
 
-Problem: In a web application, you have a function that references a variable declared later in the code, leading to undefined errors due to hoisting.
+[
+    "Problem: In a React component, you reference a variable before it's declared, leading to unexpected behavior due to hoisting.",
+    "",
+    "import React, { useEffect } from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  useEffect(() => {",
+    "    console.log(message); // Output: undefined",
+    "  }, []);",
+    "",
+    "  const message = 'Hello, world!';",
+    "  ",
+    "  return <p>{message}</p>;",
+    "};",
+    "",
+    "export default ExampleComponent;",
+    "",
+    "Solution: Ensure that variables are declared before they are referenced to avoid hoisting issues.",
+    "",
+    "import React, { useEffect } from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const message = 'Hello, world!';",
+    "",
+    "  useEffect(() => {",
+    "    console.log(message); // Output: \"Hello, world!\"",
+    "  }, []);",
+    "  ",
+    "  return <p>{message}</p>;",
+    "};",
+    "",
+    "export default ExampleComponent;"
+]
+
+
+
+
+2. Variable Shadowing
 
 [
-    "function greet() {",
-    '    console.log("Hello, " + name); // Output: "Hello, undefined"',
-    "}",
+    "Problem: In a React component, you declare a variable with the same name as an outer scope variable, leading to variable shadowing and unexpected behavior.",
     "",
-    "greet();",
-    "var name = \"John\";",
+    "import React from 'react';",
     "",
-    "Solution: Use let or const to declare variables instead of var to avoid hoisting issues.",
+    "const ExampleComponent = () => {",
+    "  const message = 'Outer message';",
+    "  ",
+    "  const handleClick = () => {",
+    "    const message = 'Inner message'; // Shadows the outer 'message' variable",
+    "    console.log(message); // Output: \"Inner message\"",
+    "  };",
     "",
-    "function greet() {",
-    '    console.log("Hello, " + name); // Output: "Hello, John"',
-    "}",
+    "  return (",
+    "    <button onClick={handleClick}>Click me</button>",
+    "  );",
+    "};",
     "",
-    "//greet();   // if we try to call greet() before name declaration - throws \"ReferenceError: Cannot access 'name' before initialization\"",
-    "let name = \"John\";",
-    "greet();"
+    "export default ExampleComponent;",
+    "",
+    "Solution: Use a different variable name to avoid shadowing the outer variable and clarify your code.",
+    "",
+    "import React from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const message = 'Outer message';",
+    "  ",
+    "  const handleClick = () => {",
+    "    const innerMessage = 'Inner message'; // Use a different variable name",
+    "    console.log(innerMessage); // Output: \"Inner message\"",
+    "  };",
+    "",
+    "  return (",
+    "    <button onClick={handleClick}>Click me</button>",
+    "  );",
+    "};",
+    "",
+    "export default ExampleComponent;"
 ]
+
 
 
 
@@ -130,23 +92,136 @@ Problem: In a web application, you have a function that references a variable de
 3. Global Variables
 
 [
-    "// File 1",
-    "var count = 0;",
+    "Problem: In a React application, you unintentionally pollute the global scope by using global variables across multiple components.",
     "",
-    "// File 2",
-    "console.log(count); // Unexpected output due to global variable usage"
+    "Solution: Avoid using global variables directly. Instead, use React context or state management libraries like Redux to share data across components.",
+    "",
+    "// GlobalState.js",
+    "import React, { createContext, useContext, useState } from 'react';",
+    "",
+    "const GlobalStateContext = createContext();",
+    "",
+    "export const useGlobalState = () => useContext(GlobalStateContext);",
+    "",
+    "export const GlobalStateProvider = ({ children }) => {",
+    "  const [count, setCount] = useState(0);",
+    "",
+    "  return (",
+    "    <GlobalStateContext.Provider value={{ count, setCount }}>",
+    "      {children}",
+    "    </GlobalStateContext.Provider>",
+    "  );",
+    "};",
+    "",
+    "// Component1.js",
+    "import React from 'react';",
+    "import { useGlobalState } from './GlobalState';",
+    "",
+    "const Component1 = () => {",
+    "  const { count } = useGlobalState();",
+    "  ",
+    "  return <p>{count}</p>;",
+    "};",
+    "",
+    "export default Component1;",
+    "",
+    "// Component2.js",
+    "import React from 'react';",
+    "import { useGlobalState } from './GlobalState';",
+    "",
+    "const Component2 = () => {",
+    "  const { count } = useGlobalState();",
+    "  ",
+    "  return <button onClick={() => setCount(count + 1)}>Increment Count</button>;",
+    "};",
+    "",
+    "export default Component2;"
 ]
+
 
 
 
 4. Mutable Data with var
 
-
+[
+    "Problem: In a React component, you encounter unexpected behavior when using var to declare variables within a loop due to variable hoisting.",
+    "",
+    "import React, { useState, useEffect } from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const [items, setItems] = useState([1, 2, 3]);",
+    "",
+    "  useEffect(() => {",
+    "    for (var i = 0; i < items.length; i++) {",
+    "      setTimeout(() => {",
+    "        console.log(items[i]); // Output: 3 3 3",
+    "      }, 1000);",
+    "    }",
+    "  }, []);",
+    "",
+    "  return (",
+    "    <div>",
+    "      {items.map(item => (",
+    "        <p key={item}>{item}</p>",
+    "      ))}",
+    "    </div>",
+    "  );",
+    "};",
+    "",
+    "export default ExampleComponent;",
+    "",
+    "Solution: Use let instead of var within loops to avoid hoisting issues and create a new lexical scope for each iteration.",
+    "",
+    "import React, { useState, useEffect } from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const [items, setItems] = useState([1, 2, 3]);",
+    "",
+    "  useEffect(() => {",
+    "    for (let i = 0; i < items.length; i++) {",
+    "      setTimeout(() => {",
+    "        console.log(items[i]); // Output: 1 2 3",
+    "      }, 1000);",
+    "    }",
+    "  }, []);",
+    "",
+    "  return (",
+    "    <div>",
+    "      {items.map(item => (",
+    "        <p key={item}>{item}</p>",
+    "      ))}",
+    "    </div>",
+    "  );",
+    "};",
+    "",
+    "export default ExampleComponent;"
+]
 
 
 
 5. Variable Reassignment
 
+[
+    "Problem: In a React component, you accidentally reassign a constant variable, leading to unexpected behavior.",
+    "",
+    "import React from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const PORT = 3000;",
+    "  // Later in the code...",
+    "  PORT = 4000; // Error: Cannot assign to 'PORT' because it is a constant",
+    "};",
+    "",
+    "Solution: Use let or const to declare variables when their value should not be reassigned within the component.",
+    "",
+    "import React from 'react';",
+    "",
+    "const ExampleComponent = () => {",
+    "  const PORT = 3000;",
+    "  // Later in the code...",
+    "  // PORT = 4000; // Throws error: Cannot assign to 'PORT' because it is a constant",
+    "};"
+]
 
 ---------------------------------------------------------------------
 
