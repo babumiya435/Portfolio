@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 
 function ProjectCards(props) {
   const navigate = useNavigate();
-  const isVisible = true;
+  const isVisible = false;
   console.log(props.data)
   const navigateToChild = () => {
     // Pass data via state when navigating
