@@ -5,7 +5,6 @@ Variables (var, let, const),
 Primitive data types (string, number, boolean), 
 Arrays and objects, 
 Operators (arithmetic, comparison, logical),
-
 ***************************************
 Control Flow: 
 ***************************************
