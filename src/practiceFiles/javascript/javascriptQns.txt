@@ -3,7 +3,8 @@ Basic to Advance JavaScript Topics :
 1. Basic Syntax and Data Types: 
 Variables (var, let, const), 
 Primitive data types (string, number, boolean), 
-Arrays and objects, Operators (arithmetic, comparison, logical).
+Arrays and objects, 
+Operators (arithmetic, comparison, logical).
 
 2. Control Flow: 
 Conditional statements (if, else, else if), 

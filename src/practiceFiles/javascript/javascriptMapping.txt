@@ -1,0 +1,23 @@
+Basic Syntax and Data Types: 
+***************************************
+Basic Syntax
+Variables (var, let, const), 
+Primitive data types (string, number, boolean), 
+Arrays and objects, 
+Operators (arithmetic, comparison, logical),
+
+***************************************
+Control Flow: 
+***************************************
+Conditional statements (if, else, else if), 
+Loops (for, while, do...while), 
+Switch statements,
+***************************************
+Functions: 
+***************************************
+Declaring functions, 
+Function expressions vs. function declarations, 
+Arrow functions, 
+Higher-order functions, 
+Closures,
+***************************************
