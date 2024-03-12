@@ -1,0 +1,109 @@
+Basic to Advance JavaScript Topics :
+
+1. Basic Syntax and Data Types: 
+Variables (var, let, const), 
+Primitive data types (string, number, boolean), 
+Arrays and objects, Operators (arithmetic, comparison, logical).
+
+2. Control Flow: 
+Conditional statements (if, else, else if), 
+Loops (for, while, do...while), 
+Switch statements.
+
+3. Functions: 
+Declaring functions, 
+Function expressions vs. function declarations, 
+Arrow functions, 
+Higher-order functions, 
+Closures.
+
+4. Scope and Hoisting: 
+Global scope vs. local scope, 
+Variable hoisting.
+
+5. Arrays and Array Methods: 
+Iterating over arrays (e.g., forEach, map, filter), 
+Modifying arrays (e.g., push, pop, splice), 
+Array destructuring.
+
+6. Objects: 
+Creating objects, 
+Accessing and modifying object properties, 
+Object methods, 
+Prototypes and inheritance, 
+ES6 Classes.
+
+7. Asynchronous JavaScript: 
+Callbacks, 
+Promises, 
+async/await, 
+Error handling in asynchronous code.
+
+8. DOM Manipulation: 
+Selecting elements, 
+Modifying element content, 
+attributes, and styles, 
+Event handling, 
+Creating and removing elements.
+
+9. Browser APIs: 
+Local Storage, 
+Fetch API, 
+Geolocation API, 
+WebSockets, 
+Canvas API.
+
+10. ES6+ Features: 
+let and const,
+Template literals, 
+Destructuring, 
+Default parameters, 
+Rest and spread operators, 
+Modules
+
+11. Error Handling: 
+try...catch statements, 
+Throwing and catching errors.
+
+12. Regular Expressions: 
+Pattern matching with RegExp, 
+RegExp methods (test, exec, etc.).
+
+13. Functional Programming: 
+Higher-order functions, 
+Pure functions, 
+Immutability.
+
+14. Testing: 
+Unit testing with frameworks like Jest or Mocha, 
+Testing libraries like React Testing Library or Enzyme (for React applications).
+
+15. Debugging: 
+Using browser developer tools, 
+Console methods (console.log, console.error, etc.).
+
+16. Performance Optimization: 
+Minification and bundling, 
+Lazy loading, Caching, 
+Debouncing and throttling.
+
+17. Security: 
+Cross-site scripting (XSS) prevention, 
+Cross-site request forgery (CSRF) prevention, 
+Content Security Policy (CSP).
+
+18. Frameworks and Libraries: 
+React.js, 
+Vue.js, 
+Angular, 
+Express.js (for server-side JavaScript), 
+Node.js.
+
+19. Package Managers: 
+npm, 
+Yarn.
+
+20. Build Tools: 
+Webpack, 
+Babel, 
+ESLint.
