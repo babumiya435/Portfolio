@@ -31,7 +31,7 @@ List of Basic Topics in Type Script :
 15. Inheritance and method overriding.
 
 
-
+---------------------------------------------------------------------------
 
 List of Intermediate Topics in Type Script :
 
@@ -62,7 +62,7 @@ List of Intermediate Topics in Type Script :
 28. Type inference in conditional expressions.
 
 
-
+-----------------------------------------------------------------------
 
 List of Advanced Topics in Type Script :
 
