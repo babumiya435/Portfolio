@@ -1,0 +1,113 @@
+List of Basic Topics in Type Script :
+
+1. Types and Variables: Understanding basic data types (string, number, boolean).
+
+2. Declaring variables with let, const, and var.
+
+3. Type annotations and type inference.
+
+4. Functions: Declaring functions with parameters and return types.
+
+5. Optional and default parameters.
+
+6. Arrow functions and their scoping rules.
+
+7. Arrays and Tuples: Declaring arrays and their types.
+
+8. Working with array methods and generics.
+
+9. Understanding tuples and their usage.
+
+10. Interfaces: Defining custom types with interfaces.
+
+11. Optional properties and readonly properties.
+
+12. Extending interfaces and intersection types.
+
+13. Classes: Creating classes with properties and methods.
+
+14. Constructors and access modifiers (public, private, protected).
+
+15. Inheritance and method overriding.
+
+
+
+
+List of Intermediate Topics in Type Script :
+
+16. Generics: Writing generic functions and classes.
+
+17. Constraints on generic types.
+
+18. Using built-in generic types like Array<T> and Promise<T>.
+
+19. Enums: Defining and using enums.
+
+20. Understanding numeric and string enums.
+
+21. Reverse mappings in enums.
+
+22. Type Assertion: Using type assertion to override the inferred type.
+
+23. Understanding as keyword and <> syntax.
+
+24. Type Aliases: Creating aliases with type.
+
+25. Combining types using union (|) and intersection (&) operators.
+
+26. Advanced Types: Conditional types.
+
+27. Mapped types.
+
+28. Type inference in conditional expressions.
+
+
+
+
+List of Advanced Topics in Type Script :
+
+29. Decorators: Writing custom decorators for classes, methods, and properties.
+
+30. Common use cases like logging, caching, and validation.
+
+31. Modules and Namespaces: Organizing code with modules and namespaces.
+
+32. Understanding module loaders and bundlers.
+
+33. Using import and export statements.
+
+34. Asynchronous Programming: Promises and async/await syntax.
+
+35. Error handling in asynchronous code.
+
+36. Promise.all and Promise.race.
+
+37. TypeScript Compiler Options: Configuring tsconfig.json.
+
+38. Understanding compiler options like target, module, and strict.
+
+39. TypeScript with Frameworks: Integrating TypeScript with popular frameworks like React, Angular, and Express.js.
+
+40. Leveraging TypeScript features specific to each framework.
+
+41. Error Handling: Custom error classes and error handling strategies.
+
+42. Error boundaries in React applications.
+
+43. TypeScript with Web APIs: Typing browser APIs like DOM, Fetch, and Local Storage.
+
+44. Working with third-party libraries and typings.
+
+45. TypeScript Best Practices: Using strict mode and enabling strict type checking.
+
+46. Avoiding any type and type assertion wherever possible.
+
+47. Writing clean, readable, and maintainable code.
+
+48. Testing and Debugging: Writing unit tests with testing frameworks like Jest or Mocha.
+
+49. Debugging TypeScript code using browser dev tools and IDE debuggers.
+
+50. Continuous Integration and Deployment: Integrating TypeScript projects with CI/CD pipelines.
+
+51. Automating code linting, testing, and deployment processes.
