@@ -8,7 +8,12 @@ Operators (arithmetic, comparison, logical),
 Arrays and objects,
 Iterating over arrays (e.g., forEach, map, filter),
 Modifying arrays (e.g., push, pop, splice),
-Array destructuring
+Array destructuring,
+Creating objects, 
+Accessing and modifying object properties, 
+Object methods, 
+Prototypes and inheritance, 
+ES6 Classes,
 ***************************************
 Scope and Hoisting:
 ***************************************
@@ -28,4 +33,10 @@ Function expressions vs. function declarations,
 Arrow functions,
 Higher-order functions,
 Closures,
+Callbacks, 
+Promises, 
+async/await, 
+Error handling in asynchronous code,
+***************************************
+DOM Manipulation:
 ***************************************
