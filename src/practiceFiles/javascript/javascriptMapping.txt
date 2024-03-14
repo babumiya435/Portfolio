@@ -14,6 +14,11 @@ Accessing and modifying object properties,
 Object methods, 
 Prototypes and inheritance, 
 ES6 Classes,
+Template literals,
+Destructuring,
+Default parameters,
+Rest and spread operators,
+Modules,
 ***************************************
 Scope and Hoisting:
 ***************************************
@@ -37,6 +42,61 @@ Callbacks,
 Promises, 
 async/await, 
 Error handling in asynchronous code,
+try...catch statements,
+Throwing and catching errors,
+Pattern matching with RegExp,
+RegExp methods (test, exec, etc.),
+Higher-order functions,
+Pure functions,
+Immutability,
 ***************************************
 DOM Manipulation:
 ***************************************
+Selecting elements,
+Modifying element content,
+attributes, and styles,
+Event handling,
+Creating and removing elements,
+***************************************
+Browser APIs:
+***************************************
+Local Storage,
+Fetch API,
+Geolocation API,
+WebSockets,
+Canvas API,
+***************************************
+14. Testing:
+***************************************
+Unit testing with frameworks like Jest or Mocha,
+Testing libraries like React Testing Library or Enzyme (for React applications),
+
+15. Debugging:
+Using browser developer tools,
+Console methods (console.log, console.error, etc.),
+
+16. Performance Optimization:
+Minification and bundling,
+Lazy loading, Caching,
+Debouncing and throttling,
+
+17. Security:
+Cross-site scripting (XSS) prevention,
+Cross-site request forgery (CSRF) prevention,
+Content Security Policy (CSP),
+
+18. Frameworks and Libraries:
+React.js,
+Vue.js,
+Angular,
+Express.js (for server-side JavaScript),
+Node.js,
+
+19. Package Managers:
+npm,
+Yarn,
+
+20. Build Tools:
+Webpack,
+Babel,
+ESLint,
