@@ -71,5 +71,48 @@ ob.name;
 ob.salary = 2000;
 delete ob.add;
 
+console.log("------------ Error Handling ------------");
+
+try {
+    // code block
+} catch {
+    // handle error
+} finally {
+    // execute code regardless of error
+}
+
+console.log("------------ DOM Manipulation ------------");
+// Selecting Elements:
+document.getElementById('id');
+document.getElementsByClassName('className');
+document.querySelector('.class');
+document.querySelectorAll('tag');
+
+// Manipulating Elements:
+
+let element = querySelector('id');
+element.innerHtm = "new Html";
+element.style.color = "red";
+element.cassList.add("new-class");
+element.setAttribute("attributeName", "value");
+
+console.log("------------ Asynchronous JavaScript ------------");
+
+// Promises:
+const promise = new Promise((resolve,reject)=>{
+    // async code
+    if (res) {
+        resolve("result");
+    } else {
+        reject("Error")
+    }
+})
+
+promise.then((resp)=>{
+    // handle success
+}).catch((err)=>{
+    // handle error
+})
+
 
 
