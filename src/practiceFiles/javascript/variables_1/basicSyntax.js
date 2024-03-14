@@ -75,7 +75,7 @@ console.log("------------ Error Handling ------------");
 
 try {
     // code block
-} catch {
+} catch (err) {
     // handle error
 } finally {
     // execute code regardless of error
@@ -113,6 +113,17 @@ promise.then((resp)=>{
 }).catch((err)=>{
     // handle error
 })
+
+// Async/Await:
+
+async function functionName() {
+    try {
+        const result = await asyncFunction();
+        // handle result
+    } catch (err) {
+        // handle error
+    }
+}
 
 
 
