@@ -41,7 +41,7 @@ do {
     // code block
 } while(number)
 
-console.log("------------ Loops ------------");
+console.log("------------ Functions ------------");
 
 function add (a,b){
     return a+b;
@@ -50,5 +50,26 @@ function add (a,b){
 const arrowFunction = ()=>{
     return a + b;   // can arraowFunctions can be considered as function variable ?
 }
+
+console.log("------------ Arrays ------------");
+
+let arr = [1,"name",true];
+arr.push("xyz");
+arr.pop();
+arr[0];
+
+console.log("------------ Objects ------------");
+
+let ob = {
+    name : "Sameer",
+    age: 30,
+    add: function(){}   // can we create arraow function here ?
+}
+
+ob['age'];
+ob.name;
+ob.salary = 2000;
+delete ob.add;
+
 
 
