@@ -1,3 +1,18 @@
+// "-----------Basic Syntax------------"
+
+// 1.variables
+// 2.data types
+// 3.Conditional Statements
+// 4.Loops
+// 5.Functions
+// 6.Arrays
+// 7.Objects
+// 8.Error Handling
+// 9.DOM Manipulation
+// 10.Asynchronous JavaScript
+// 11.variables
+
+
 console.log("------------ variables ------------");
 
 // variables are the container names for the data we want to store in a  memory and can easyly accessable.

@@ -2,17 +2,16 @@
 
 
 // Why Variabes are needed?
-//Drawbacks(Without variable name):
 // Usages(With variable):
-// use case1 : Storing a value.
-// use case2 : Reusability.
-// use case3 : State Management.
-// use case4 : Performing Computations.
-// use case5 : Flexibility.
-// use case6 : Dynamic Behavior.
-// use case7 : Flexibility.
-// use case8 : Scope Management.
-// use case9 : Debugging.
+// 1.use case1 : Storing a value.
+// 2.use case2 : Reusability.
+// 3.use case3 : State Management.
+// 4.use case4 : Performing Computations.
+// 5.use case5 : Flexibility.
+// 6.use case6 : Dynamic Behavior.
+// 7.use case7 : Flexibility.
+// 8.use case8 : Scope Management.
+// 9.use case9 : Debugging.
 
 
 
